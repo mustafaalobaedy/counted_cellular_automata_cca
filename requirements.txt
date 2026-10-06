@@ -1,0 +1,9 @@
+# Versions used for the reported results (Python 3.10, CPU only)
+numpy==2.2.6
+scipy==1.15.3
+scikit-learn==1.7.2
+scikit-image==0.25.2
+torch==2.14.1
+matplotlib==3.10.9
+pyarrow==25.0.1
+pillow==12.3.0

@@ -1,0 +1,5 @@
+# downloaded / prepared datasets
+*.npz
+fruits_data/
+__pycache__/
+*.log

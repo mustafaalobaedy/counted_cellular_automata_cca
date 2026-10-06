@@ -1,0 +1,1050 @@
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 10, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 1.67}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 10, "model": "LogReg", "acc": 0.9788135593220338, "auc": 1.0, "sec": 0.48}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 10, "model": "HOG+SVM", "acc": 0.9184322033898306, "auc": 0.9916690606147659, "sec": 0.41}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 10, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 0.21}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 10, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 2.23}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 10, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 1.0}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 11, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 1.61}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 11, "model": "LogReg", "acc": 0.9788135593220338, "auc": 1.0, "sec": 0.04}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 11, "model": "HOG+SVM", "acc": 0.9671610169491526, "auc": 0.9996453964378051, "sec": 0.41}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 11, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 0.2}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 11, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 0.33}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 11, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 1.33}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 12, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 1.68}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 12, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.19}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 12, "model": "HOG+SVM", "acc": 0.9883474576271186, "auc": 0.9998563631140478, "sec": 0.43}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 12, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 0.19}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 12, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 0.44}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 12, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 1.29}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 13, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 1.64}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 13, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.31}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 13, "model": "HOG+SVM", "acc": 0.9798728813559322, "auc": 0.9996364191324333, "sec": 0.42}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 13, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 0.2}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 13, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 0.42}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 13, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 1.14}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 14, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 1.68}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 14, "model": "LogReg", "acc": 0.9788135593220338, "auc": 1.0, "sec": 0.39}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 14, "model": "HOG+SVM", "acc": 0.9597457627118644, "auc": 1.0, "sec": 0.39}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 14, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 0.2}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 14, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 0.37}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 14, "model": "CNN+aug", "acc": 0.9989406779661016, "auc": 1.0, "sec": 1.05}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 15, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 1.68}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 15, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.06}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 15, "model": "HOG+SVM", "acc": 0.902542372881356, "auc": 0.9999685794311979, "sec": 0.4}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 15, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 0.2}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 15, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 0.4}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 15, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 1.37}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 16, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 1.63}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 16, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.02}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 16, "model": "HOG+SVM", "acc": 0.986228813559322, "auc": 1.0, "sec": 0.39}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 16, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 0.2}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 16, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 0.37}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 16, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 1.26}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 17, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 1.66}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 17, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.03}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 17, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 0.41}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 17, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 0.2}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 17, "model": "CNN", "acc": 0.9936440677966102, "auc": 1.0, "sec": 0.41}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 17, "model": "CNN+aug", "acc": 0.9936440677966102, "auc": 1.0, "sec": 1.19}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 18, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 1.64}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 18, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.04}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 18, "model": "HOG+SVM", "acc": 0.9989406779661016, "auc": 1.0, "sec": 0.42}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 18, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 0.2}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 18, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 0.4}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 18, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 1.11}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 19, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 1.68}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 19, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.03}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 19, "model": "HOG+SVM", "acc": 0.9915254237288136, "auc": 0.9996229531743752, "sec": 0.41}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 19, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 0.19}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 19, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 0.42}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 944, "seed": 19, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 1.06}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 10, "model": "CCA v2", "acc": 0.8414634146341463, "auc": 0.9771341463414634, "sec": 1.23}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 10, "model": "LogReg", "acc": 0.8567073170731707, "auc": 0.8915080309339678, "sec": 0.02}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 10, "model": "HOG+SVM", "acc": 0.8658536585365854, "auc": 0.9749033313503866, "sec": 0.15}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 10, "model": "Random ferns", "acc": 0.7987804878048781, "auc": 0.7987804878048781, "sec": 0.11}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 10, "model": "CNN", "acc": 0.8170731707317073, "auc": 0.9641210588935158, "sec": 0.37}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 10, "model": "CNN+aug", "acc": 0.7987804878048781, "auc": 0.9540823914336704, "sec": 1.03}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 11, "model": "CCA v2", "acc": 0.948170731707317, "auc": 0.984272754312909, "sec": 1.23}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 11, "model": "LogReg", "acc": 0.75, "auc": 0.8167013682331945, "sec": 0.02}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 11, "model": "HOG+SVM", "acc": 0.8323170731707317, "auc": 0.9003941106484236, "sec": 0.15}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 11, "model": "Random ferns", "acc": 0.8475609756097561, "auc": 0.8830867043426531, "sec": 0.11}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 11, "model": "CNN", "acc": 0.8140243902439024, "auc": 0.8554060083283759, "sec": 0.32}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 11, "model": "CNN+aug", "acc": 0.7804878048780488, "auc": 0.8649241522903034, "sec": 1.04}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 12, "model": "CCA v2", "acc": 0.8841463414634146, "auc": 0.9879164187983343, "sec": 1.21}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 12, "model": "LogReg", "acc": 0.7652439024390244, "auc": 0.8417236763831053, "sec": 0.02}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 12, "model": "HOG+SVM", "acc": 0.9420731707317073, "auc": 0.9903331350386675, "sec": 0.15}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 12, "model": "Random ferns", "acc": 0.8567073170731707, "auc": 0.9051160023795359, "sec": 0.11}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 12, "model": "CNN", "acc": 0.7652439024390244, "auc": 0.8470404521118382, "sec": 0.34}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 12, "model": "CNN+aug", "acc": 0.7926829268292683, "auc": 0.8858566329565735, "sec": 0.98}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 13, "model": "CCA v2", "acc": 0.8871951219512195, "auc": 0.967355740630577, "sec": 1.22}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 13, "model": "LogReg", "acc": 0.8810975609756098, "auc": 0.9448616894705533, "sec": 0.06}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 13, "model": "HOG+SVM", "acc": 0.9237804878048781, "auc": 0.9843099345627603, "sec": 0.15}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 13, "model": "Random ferns", "acc": 0.8079268292682927, "auc": 0.8984235574063058, "sec": 0.11}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 13, "model": "CNN", "acc": 0.75, "auc": 0.8339901844140392, "sec": 0.37}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 13, "model": "CNN+aug", "acc": 0.8140243902439024, "auc": 0.9282792980368828, "sec": 1.05}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 14, "model": "CCA v2", "acc": 0.8689024390243902, "auc": 0.9632659131469363, "sec": 1.24}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 14, "model": "LogReg", "acc": 0.7957317073170732, "auc": 0.9235574063057703, "sec": 0.02}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 14, "model": "HOG+SVM", "acc": 0.6463414634146342, "auc": 0.9379089827483641, "sec": 0.15}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 14, "model": "Random ferns", "acc": 0.8628048780487805, "auc": 0.8483789411064842, "sec": 0.11}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 14, "model": "CNN", "acc": 0.8323170731707317, "auc": 0.9497323022010706, "sec": 0.33}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 14, "model": "CNN+aug", "acc": 0.8353658536585366, "auc": 0.9561273051754907, "sec": 1.02}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 15, "model": "CCA v2", "acc": 0.8658536585365854, "auc": 0.9507361689470554, "sec": 1.23}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 15, "model": "LogReg", "acc": 0.8079268292682927, "auc": 0.9013979773944081, "sec": 0.02}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 15, "model": "HOG+SVM", "acc": 0.7530487804878049, "auc": 0.9159726353361095, "sec": 0.15}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 15, "model": "Random ferns", "acc": 0.7926829268292683, "auc": 0.8184116597263533, "sec": 0.11}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 15, "model": "CNN", "acc": 0.8140243902439024, "auc": 0.9125892325996431, "sec": 0.35}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 15, "model": "CNN+aug", "acc": 0.8658536585365854, "auc": 0.9448616894705533, "sec": 1.03}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 16, "model": "CCA v2", "acc": 0.7835365853658537, "auc": 0.980145746579417, "sec": 1.23}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 16, "model": "LogReg", "acc": 0.7591463414634146, "auc": 0.8719512195121951, "sec": 0.01}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 16, "model": "HOG+SVM", "acc": 0.7774390243902439, "auc": 0.9315325698988697, "sec": 0.15}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 16, "model": "Random ferns", "acc": 0.8963414634146342, "auc": 0.9438764128494943, "sec": 0.11}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 16, "model": "CNN", "acc": 0.7713414634146342, "auc": 0.8769333729922665, "sec": 0.57}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 16, "model": "CNN+aug", "acc": 0.7408536585365854, "auc": 0.7892623438429507, "sec": 1.28}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 17, "model": "CCA v2", "acc": 0.8810975609756098, "auc": 0.9334473527662106, "sec": 1.23}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 17, "model": "LogReg", "acc": 0.8140243902439024, "auc": 0.8771564544913741, "sec": 0.02}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 17, "model": "HOG+SVM", "acc": 0.9054878048780488, "auc": 0.9673185603807258, "sec": 0.15}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 17, "model": "Random ferns", "acc": 0.75, "auc": 0.8192668054729327, "sec": 0.11}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 17, "model": "CNN", "acc": 0.8170731707317073, "auc": 0.9329268292682927, "sec": 0.35}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 17, "model": "CNN+aug", "acc": 0.7987804878048781, "auc": 0.9319973230220107, "sec": 1.03}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 18, "model": "CCA v2", "acc": 0.8780487804878049, "auc": 0.9418500892325996, "sec": 1.21}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 18, "model": "LogReg", "acc": 0.9237804878048781, "auc": 0.9765392623438429, "sec": 0.02}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 18, "model": "HOG+SVM", "acc": 0.8536585365853658, "auc": 0.9755353955978584, "sec": 0.15}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 18, "model": "Random ferns", "acc": 0.8170731707317073, "auc": 0.8230406008328376, "sec": 0.11}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 18, "model": "CNN", "acc": 0.8536585365853658, "auc": 0.8955978584176085, "sec": 0.33}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 18, "model": "CNN+aug", "acc": 0.8597560975609756, "auc": 0.9142623438429507, "sec": 1.03}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 19, "model": "CCA v2", "acc": 0.7987804878048781, "auc": 0.9042980368828079, "sec": 1.2}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 19, "model": "LogReg", "acc": 0.5579268292682927, "auc": 0.7552424152290304, "sec": 0.02}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 19, "model": "HOG+SVM", "acc": 0.7987804878048781, "auc": 0.8826219512195121, "sec": 0.15}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 19, "model": "Random ferns", "acc": 0.7987804878048781, "auc": 0.7803762641284949, "sec": 0.11}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 19, "model": "CNN", "acc": 0.7591463414634146, "auc": 0.7880725758477096, "sec": 0.32}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 19, "model": "CNN+aug", "acc": 0.6585365853658537, "auc": 0.7412254610350981, "sec": 1.01}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 10, "model": "CCA v2", "acc": 0.9939024390243902, "auc": 1.0, "sec": 1.21}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 10, "model": "LogReg", "acc": 0.801829268292683, "auc": 1.0, "sec": 0.01}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 10, "model": "HOG+SVM", "acc": 0.8810975609756098, "auc": 0.9852022605591909, "sec": 0.15}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 10, "model": "Random ferns", "acc": 0.7957317073170732, "auc": 0.8170731707317074, "sec": 0.11}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 10, "model": "CNN", "acc": 0.8292682926829268, "auc": 1.0, "sec": 0.34}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 10, "model": "CNN+aug", "acc": 0.8628048780487805, "auc": 1.0, "sec": 1.03}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 11, "model": "CCA v2", "acc": 0.9786585365853658, "auc": 0.9983640690065436, "sec": 1.22}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 11, "model": "LogReg", "acc": 0.8445121951219512, "auc": 1.0, "sec": 0.06}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 11, "model": "HOG+SVM", "acc": 0.8719512195121951, "auc": 0.9680993456276026, "sec": 0.15}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 11, "model": "Random ferns", "acc": 0.8170731707317073, "auc": 0.9054878048780488, "sec": 0.11}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 11, "model": "CNN", "acc": 0.9176829268292683, "auc": 1.0, "sec": 0.33}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 11, "model": "CNN+aug", "acc": 0.9359756097560976, "auc": 1.0, "sec": 1.0}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 12, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 1.2}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 12, "model": "LogReg", "acc": 0.7713414634146342, "auc": 1.0, "sec": 0.02}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 12, "model": "HOG+SVM", "acc": 0.8719512195121951, "auc": 0.9342281380130875, "sec": 0.15}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 12, "model": "Random ferns", "acc": 0.8628048780487805, "auc": 1.0, "sec": 0.11}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 12, "model": "CNN", "acc": 0.8048780487804879, "auc": 1.0, "sec": 0.34}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 12, "model": "CNN+aug", "acc": 0.8414634146341463, "auc": 1.0, "sec": 0.99}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 13, "model": "CCA v2", "acc": 0.9024390243902439, "auc": 0.9999628197501487, "sec": 1.2}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 13, "model": "LogReg", "acc": 0.7713414634146342, "auc": 1.0, "sec": 0.02}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 13, "model": "HOG+SVM", "acc": 0.9207317073170732, "auc": 0.9770597858417608, "sec": 0.15}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 13, "model": "Random ferns", "acc": 0.801829268292683, "auc": 0.9054878048780488, "sec": 0.11}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 13, "model": "CNN", "acc": 0.698170731707317, "auc": 1.0, "sec": 0.42}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 13, "model": "CNN+aug", "acc": 0.625, "auc": 1.0, "sec": 1.04}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 14, "model": "CCA v2", "acc": 0.9573170731707317, "auc": 1.0, "sec": 1.21}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 14, "model": "LogReg", "acc": 0.9085365853658537, "auc": 1.0, "sec": 0.01}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 14, "model": "HOG+SVM", "acc": 0.06402439024390244, "auc": 0.0004089827483640687, "sec": 0.15}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 14, "model": "Random ferns", "acc": 0.9634146341463414, "auc": 1.0, "sec": 0.11}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 14, "model": "CNN", "acc": 0.8810975609756098, "auc": 1.0, "sec": 0.33}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 14, "model": "CNN+aug", "acc": 0.9969512195121951, "auc": 1.0, "sec": 1.03}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 15, "model": "CCA v2", "acc": 0.9420731707317073, "auc": 1.0, "sec": 1.21}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 15, "model": "LogReg", "acc": 0.7713414634146342, "auc": 0.9986243307555027, "sec": 0.06}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 15, "model": "HOG+SVM", "acc": 0.850609756097561, "auc": 0.990147233789411, "sec": 0.15}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 15, "model": "Random ferns", "acc": 0.7926829268292683, "auc": 0.8597560975609756, "sec": 0.11}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 15, "model": "CNN", "acc": 0.801829268292683, "auc": 1.0, "sec": 0.45}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 15, "model": "CNN+aug", "acc": 0.9542682926829268, "auc": 1.0, "sec": 1.26}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 16, "model": "CCA v2", "acc": 0.8170731707317073, "auc": 0.9070865556216537, "sec": 1.27}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 16, "model": "LogReg", "acc": 0.8963414634146342, "auc": 1.0, "sec": 0.01}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 16, "model": "HOG+SVM", "acc": 0.8597560975609756, "auc": 0.9799226650803092, "sec": 0.15}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 16, "model": "Random ferns", "acc": 0.7134146341463414, "auc": 0.9115853658536586, "sec": 0.12}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 16, "model": "CNN", "acc": 0.7195121951219512, "auc": 1.0, "sec": 0.46}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 16, "model": "CNN+aug", "acc": 0.9908536585365854, "auc": 1.0, "sec": 1.1}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 17, "model": "CCA v2", "acc": 0.6920731707317073, "auc": 0.9814842355740631, "sec": 1.22}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 17, "model": "LogReg", "acc": 0.8079268292682927, "auc": 1.0, "sec": 0.02}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 17, "model": "HOG+SVM", "acc": 0.8719512195121951, "auc": 0.9851650803093396, "sec": 0.15}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 17, "model": "Random ferns", "acc": 0.850609756097561, "auc": 0.9207317073170731, "sec": 0.11}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 17, "model": "CNN", "acc": 0.8414634146341463, "auc": 1.0, "sec": 0.36}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 17, "model": "CNN+aug", "acc": 0.9298780487804879, "auc": 1.0, "sec": 1.07}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 18, "model": "CCA v2", "acc": 0.8475609756097561, "auc": 0.989738251041047, "sec": 1.21}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 18, "model": "LogReg", "acc": 0.8323170731707317, "auc": 1.0, "sec": 0.01}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 18, "model": "HOG+SVM", "acc": 0.8810975609756098, "auc": 0.9912254610350981, "sec": 0.15}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 18, "model": "Random ferns", "acc": 0.7835365853658537, "auc": 0.8445121951219512, "sec": 0.11}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 18, "model": "CNN", "acc": 0.8658536585365854, "auc": 1.0, "sec": 0.35}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 18, "model": "CNN+aug", "acc": 0.8932926829268293, "auc": 1.0, "sec": 1.1}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 19, "model": "CCA v2", "acc": 0.875, "auc": 1.0, "sec": 1.25}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 19, "model": "LogReg", "acc": 0.7713414634146342, "auc": 0.9994051160023795, "sec": 0.04}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 19, "model": "HOG+SVM", "acc": 0.8567073170731707, "auc": 0.9327409280190363, "sec": 0.15}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 19, "model": "Random ferns", "acc": 0.75, "auc": 0.7652439024390244, "sec": 0.11}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 19, "model": "CNN", "acc": 0.8292682926829268, "auc": 1.0, "sec": 0.37}
+{"task": "Lemon v Limes", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 328, "seed": 19, "model": "CNN+aug", "acc": 0.9237804878048781, "auc": 1.0, "sec": 1.09}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 10, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 1.24}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 10, "model": "LogReg", "acc": 0.9427710843373494, "auc": 1.0, "sec": 0.02}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 10, "model": "HOG+SVM", "acc": 0.713855421686747, "auc": 0.8908767600522574, "sec": 0.16}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 10, "model": "Random ferns", "acc": 0.7259036144578314, "auc": 0.7689613877195529, "sec": 0.11}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 10, "model": "CNN", "acc": 0.9728915662650602, "auc": 0.9998185513136886, "sec": 0.44}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 10, "model": "CNN+aug", "acc": 0.9367469879518072, "auc": 1.0, "sec": 1.2}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 11, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 1.26}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 11, "model": "LogReg", "acc": 0.9548192771084337, "auc": 1.0, "sec": 0.02}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 11, "model": "HOG+SVM", "acc": 0.677710843373494, "auc": 0.8172993177529395, "sec": 0.15}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 11, "model": "Random ferns", "acc": 0.7530120481927711, "auc": 0.8001342720278706, "sec": 0.11}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 11, "model": "CNN", "acc": 0.9819277108433735, "auc": 1.0, "sec": 0.39}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 11, "model": "CNN+aug", "acc": 0.9518072289156626, "auc": 0.9986572797212948, "sec": 1.18}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 12, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 1.22}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 12, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.01}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 12, "model": "HOG+SVM", "acc": 0.7891566265060241, "auc": 0.8734758310349833, "sec": 0.15}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 12, "model": "Random ferns", "acc": 0.5271084337349398, "auc": 0.6782914791696908, "sec": 0.11}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 12, "model": "CNN", "acc": 0.9879518072289156, "auc": 0.9984395412977211, "sec": 0.34}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 12, "model": "CNN+aug", "acc": 0.9939759036144579, "auc": 1.0, "sec": 1.16}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 13, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 1.22}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 13, "model": "LogReg", "acc": 0.9307228915662651, "auc": 1.0, "sec": 0.01}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 13, "model": "HOG+SVM", "acc": 0.822289156626506, "auc": 0.869229931775294, "sec": 0.15}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 13, "model": "Random ferns", "acc": 0.75, "auc": 0.8114748149223401, "sec": 0.11}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 13, "model": "CNN", "acc": 0.9879518072289156, "auc": 1.0, "sec": 0.39}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 13, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 1.06}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 14, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 1.22}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 14, "model": "LogReg", "acc": 0.9608433734939759, "auc": 1.0, "sec": 0.01}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 14, "model": "HOG+SVM", "acc": 0.6897590361445783, "auc": 0.8861590942081579, "sec": 0.15}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 14, "model": "Random ferns", "acc": 0.6385542168674698, "auc": 0.7134199448395994, "sec": 0.11}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 14, "model": "CNN", "acc": 0.9728915662650602, "auc": 1.0, "sec": 0.34}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 14, "model": "CNN+aug", "acc": 0.9668674698795181, "auc": 1.0, "sec": 1.04}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 15, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 1.21}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 15, "model": "LogReg", "acc": 0.9518072289156626, "auc": 0.9962984467992452, "sec": 0.01}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 15, "model": "HOG+SVM", "acc": 0.75, "auc": 0.7782697053273334, "sec": 0.15}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 15, "model": "Random ferns", "acc": 0.6355421686746988, "auc": 0.6326934242996081, "sec": 0.11}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 15, "model": "CNN", "acc": 0.9698795180722891, "auc": 1.0, "sec": 0.34}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 15, "model": "CNN+aug", "acc": 0.9909638554216867, "auc": 1.0, "sec": 1.06}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 16, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 1.25}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 16, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.01}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 16, "model": "HOG+SVM", "acc": 0.8674698795180723, "auc": 0.950645957323269, "sec": 0.15}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 16, "model": "Random ferns", "acc": 0.6807228915662651, "auc": 0.7265749745971839, "sec": 0.11}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 16, "model": "CNN", "acc": 0.9879518072289156, "auc": 1.0, "sec": 0.35}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 16, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 1.11}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 17, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 1.23}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 17, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.01}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 17, "model": "HOG+SVM", "acc": 0.7710843373493976, "auc": 0.93395267818261, "sec": 0.15}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 17, "model": "Random ferns", "acc": 0.6295180722891566, "auc": 0.7259036144578312, "sec": 0.11}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 17, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 0.34}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 17, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 1.01}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 18, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 1.21}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 18, "model": "LogReg", "acc": 0.8704819277108434, "auc": 0.9909275656844244, "sec": 0.03}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 18, "model": "HOG+SVM", "acc": 0.6867469879518072, "auc": 0.8244665408622441, "sec": 0.15}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 18, "model": "Random ferns", "acc": 0.6234939759036144, "auc": 0.7078313253012049, "sec": 0.11}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 18, "model": "CNN", "acc": 0.8253012048192772, "auc": 0.9357308753084628, "sec": 0.34}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 18, "model": "CNN+aug", "acc": 0.8283132530120482, "auc": 0.963964290898534, "sec": 1.03}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 19, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 1.21}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 19, "model": "LogReg", "acc": 0.5933734939759037, "auc": 0.6954928146320221, "sec": 0.01}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 19, "model": "HOG+SVM", "acc": 0.6024096385542169, "auc": 0.7104623312527216, "sec": 0.15}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 19, "model": "Random ferns", "acc": 0.7289156626506024, "auc": 0.7187001016112644, "sec": 0.11}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 19, "model": "CNN", "acc": 0.7740963855421686, "auc": 0.8742560603861228, "sec": 0.32}
+{"task": "Pear v Quince", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 19, "model": "CNN+aug", "acc": 0.7740963855421686, "auc": 0.871879082595442, "sec": 1.05}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 10, "model": "CCA v2", "acc": 0.9969879518072289, "auc": 1.0, "sec": 1.22}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 10, "model": "LogReg", "acc": 0.713855421686747, "auc": 0.9218319059370009, "sec": 0.02}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 10, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 0.16}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 10, "model": "Random ferns", "acc": 0.7319277108433735, "auc": 0.8138336478443897, "sec": 0.11}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 10, "model": "CNN", "acc": 0.7018072289156626, "auc": 0.8450791116272319, "sec": 0.37}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 10, "model": "CNN+aug", "acc": 0.7168674698795181, "auc": 0.8143054144287996, "sec": 1.04}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 11, "model": "CCA v2", "acc": 0.6024096385542169, "auc": 0.8200754826535055, "sec": 1.22}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 11, "model": "LogReg", "acc": 0.7439759036144579, "auc": 0.8875381042241254, "sec": 0.01}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 11, "model": "HOG+SVM", "acc": 0.8433734939759037, "auc": 0.9731274495572652, "sec": 0.15}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 11, "model": "Random ferns", "acc": 0.9518072289156626, "auc": 0.97887937291334, "sec": 0.11}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 11, "model": "CNN", "acc": 0.5512048192771084, "auc": 0.759979677747133, "sec": 0.34}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 11, "model": "CNN+aug", "acc": 0.6355421686746988, "auc": 0.7423065757003919, "sec": 1.07}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 12, "model": "CCA v2", "acc": 0.8945783132530121, "auc": 0.9982943823486718, "sec": 1.23}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 12, "model": "LogReg", "acc": 0.7439759036144579, "auc": 0.7547902453186238, "sec": 0.02}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 12, "model": "HOG+SVM", "acc": 0.891566265060241, "auc": 1.0, "sec": 0.15}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 12, "model": "Random ferns", "acc": 0.927710843373494, "auc": 0.9861736101030629, "sec": 0.11}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 12, "model": "CNN", "acc": 0.7771084337349398, "auc": 0.8889171142400929, "sec": 0.33}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 12, "model": "CNN+aug", "acc": 0.7650602409638554, "auc": 0.8954855566845696, "sec": 1.03}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 13, "model": "CCA v2", "acc": 0.7771084337349398, "auc": 0.8703367687617942, "sec": 1.22}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 13, "model": "LogReg", "acc": 0.6385542168674698, "auc": 0.7976847147626651, "sec": 0.02}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 13, "model": "HOG+SVM", "acc": 0.9608433734939759, "auc": 0.9966250544346058, "sec": 0.15}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 13, "model": "Random ferns", "acc": 0.8072289156626506, "auc": 0.8704819277108433, "sec": 0.11}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 13, "model": "CNN", "acc": 0.7259036144578314, "auc": 0.7947452460444187, "sec": 0.36}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 13, "model": "CNN+aug", "acc": 0.6987951807228916, "auc": 0.7363550587893744, "sec": 1.18}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 14, "model": "CCA v2", "acc": 0.822289156626506, "auc": 0.9530773697198432, "sec": 1.24}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 14, "model": "LogReg", "acc": 0.9849397590361446, "auc": 0.9994556539410655, "sec": 0.02}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 14, "model": "HOG+SVM", "acc": 0.9518072289156626, "auc": 0.9961895775874583, "sec": 0.16}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 14, "model": "Random ferns", "acc": 0.9969879518072289, "auc": 1.0, "sec": 0.11}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 14, "model": "CNN", "acc": 0.9819277108433735, "auc": 0.9991290463057048, "sec": 0.35}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 14, "model": "CNN+aug", "acc": 0.9397590361445783, "auc": 0.9796777471331108, "sec": 1.05}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 15, "model": "CCA v2", "acc": 0.963855421686747, "auc": 1.0, "sec": 1.22}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 15, "model": "LogReg", "acc": 0.8162650602409639, "auc": 0.9327914065902163, "sec": 0.02}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 15, "model": "HOG+SVM", "acc": 0.8614457831325302, "auc": 0.9874800406445058, "sec": 0.15}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 15, "model": "Random ferns", "acc": 0.8644578313253012, "auc": 0.9030338220351284, "sec": 0.11}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 15, "model": "CNN", "acc": 0.8012048192771084, "auc": 0.891929162432864, "sec": 0.35}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 15, "model": "CNN+aug", "acc": 0.75, "auc": 0.8813325591522717, "sec": 1.02}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 16, "model": "CCA v2", "acc": 0.6686746987951807, "auc": 0.8211641747713746, "sec": 1.24}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 16, "model": "LogReg", "acc": 0.7018072289156626, "auc": 0.8629699520975468, "sec": 0.02}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 16, "model": "HOG+SVM", "acc": 0.8945783132530121, "auc": 0.9782624473798809, "sec": 0.16}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 16, "model": "Random ferns", "acc": 0.9156626506024096, "auc": 0.9761576426186673, "sec": 0.11}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 16, "model": "CNN", "acc": 0.6265060240963856, "auc": 0.8161199012919146, "sec": 0.33}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 16, "model": "CNN+aug", "acc": 0.6295180722891566, "auc": 0.7729351139497749, "sec": 1.08}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 17, "model": "CCA v2", "acc": 0.8433734939759037, "auc": 0.9656336188125997, "sec": 1.24}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 17, "model": "LogReg", "acc": 0.822289156626506, "auc": 0.9468718246479896, "sec": 0.01}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 17, "model": "HOG+SVM", "acc": 0.9096385542168675, "auc": 0.9909457105530556, "sec": 0.15}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 17, "model": "Random ferns", "acc": 0.8795180722891566, "auc": 0.9066265060240963, "sec": 0.12}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 17, "model": "CNN", "acc": 0.8403614457831325, "auc": 0.9701335462331253, "sec": 0.41}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 17, "model": "CNN+aug", "acc": 0.8283132530120482, "auc": 0.9520249673392365, "sec": 1.11}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 18, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 1.22}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 18, "model": "LogReg", "acc": 0.927710843373494, "auc": 0.9994193642038032, "sec": 0.05}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 18, "model": "HOG+SVM", "acc": 0.9879518072289156, "auc": 1.0, "sec": 0.15}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 18, "model": "Random ferns", "acc": 0.9457831325301205, "auc": 0.9867723907678908, "sec": 0.11}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 18, "model": "CNN", "acc": 0.8734939759036144, "auc": 0.9858470024677022, "sec": 0.41}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 18, "model": "CNN+aug", "acc": 0.6204819277108434, "auc": 0.9140296124256061, "sec": 1.02}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 19, "model": "CCA v2", "acc": 0.12349397590361445, "auc": 0.0070402090288866305, "sec": 1.21}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 19, "model": "LogReg", "acc": 0.7439759036144579, "auc": 0.9707504717665845, "sec": 0.02}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 19, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 0.15}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 19, "model": "Random ferns", "acc": 0.7530120481927711, "auc": 0.8963928001161271, "sec": 0.11}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 19, "model": "CNN", "acc": 0.7439759036144579, "auc": 0.8099506459573232, "sec": 0.34}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 332, "seed": 19, "model": "CNN+aug", "acc": 0.7349397590361446, "auc": 0.7362824793148497, "sec": 1.0}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 10, "model": "CCA v2", "acc": 0.8082191780821918, "auc": 0.99981234753237, "sec": 1.2}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 10, "model": "LogReg", "acc": 0.8493150684931506, "auc": 0.9802026646650402, "sec": 0.01}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 10, "model": "HOG+SVM", "acc": 0.7294520547945206, "auc": 0.8130043160067555, "sec": 0.14}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 10, "model": "Random ferns", "acc": 0.773972602739726, "auc": 0.7945205479452055, "sec": 0.11}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 10, "model": "CNN", "acc": 0.910958904109589, "auc": 0.9814693188215425, "sec": 0.34}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 10, "model": "CNN+aug", "acc": 0.8664383561643836, "auc": 0.9675361231000188, "sec": 1.09}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 11, "model": "CCA v2", "acc": 0.8321917808219178, "auc": 0.9992493901294802, "sec": 1.19}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 11, "model": "LogReg", "acc": 0.8458904109589042, "auc": 0.9869112403828111, "sec": 0.02}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 11, "model": "HOG+SVM", "acc": 0.8116438356164384, "auc": 0.9395759054231564, "sec": 0.13}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 11, "model": "Random ferns", "acc": 0.8082191780821918, "auc": 0.863013698630137, "sec": 0.11}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 11, "model": "CNN", "acc": 0.8424657534246576, "auc": 0.9607337211484331, "sec": 0.34}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 11, "model": "CNN+aug", "acc": 0.815068493150685, "auc": 0.9756051792081066, "sec": 1.02}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 12, "model": "CCA v2", "acc": 0.7157534246575342, "auc": 0.9944642522049165, "sec": 1.2}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 12, "model": "LogReg", "acc": 0.7671232876712328, "auc": 0.9431413023081253, "sec": 0.01}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 12, "model": "HOG+SVM", "acc": 0.7568493150684932, "auc": 0.8284621880277726, "sec": 0.13}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 12, "model": "Random ferns", "acc": 0.7636986301369864, "auc": 0.7808219178082192, "sec": 0.11}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 12, "model": "CNN", "acc": 0.7808219178082192, "auc": 0.957825107900169, "sec": 0.33}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 12, "model": "CNN+aug", "acc": 0.7294520547945206, "auc": 0.950225182961156, "sec": 1.08}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 13, "model": "CCA v2", "acc": 0.8527397260273972, "auc": 0.9893038093450929, "sec": 1.19}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 13, "model": "LogReg", "acc": 0.8047945205479452, "auc": 0.9268155376243198, "sec": 0.01}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 13, "model": "HOG+SVM", "acc": 0.839041095890411, "auc": 0.8792456370801277, "sec": 0.14}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 13, "model": "Random ferns", "acc": 0.8356164383561644, "auc": 0.8527397260273972, "sec": 0.11}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 13, "model": "CNN", "acc": 0.8664383561643836, "auc": 0.9636892475136047, "sec": 0.37}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 13, "model": "CNN+aug", "acc": 0.8938356164383562, "auc": 0.9360105085381873, "sec": 1.05}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 14, "model": "CCA v2", "acc": 0.75, "auc": 0.99028898480015, "sec": 1.19}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 14, "model": "LogReg", "acc": 0.773972602739726, "auc": 0.9051416776130606, "sec": 0.02}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 14, "model": "HOG+SVM", "acc": 0.7705479452054794, "auc": 0.8046068680803152, "sec": 0.14}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 14, "model": "Random ferns", "acc": 0.773972602739726, "auc": 0.7876712328767124, "sec": 0.11}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 14, "model": "CNN", "acc": 0.7876712328767124, "auc": 0.948301745167949, "sec": 0.35}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 14, "model": "CNN+aug", "acc": 0.7534246575342466, "auc": 0.9380746856821167, "sec": 1.12}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 15, "model": "CCA v2", "acc": 0.726027397260274, "auc": 0.996434603115031, "sec": 1.19}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 15, "model": "LogReg", "acc": 0.791095890410959, "auc": 0.9668324263464065, "sec": 0.01}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 15, "model": "HOG+SVM", "acc": 0.7534246575342466, "auc": 0.8727247138299868, "sec": 0.13}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 15, "model": "Random ferns", "acc": 0.7054794520547946, "auc": 0.7671232876712328, "sec": 0.11}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 15, "model": "CNN", "acc": 0.8116438356164384, "auc": 0.9754644398573841, "sec": 0.33}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 15, "model": "CNN+aug", "acc": 0.7705479452054794, "auc": 0.9768718333646087, "sec": 1.12}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 16, "model": "CCA v2", "acc": 0.7363013698630136, "auc": 0.999906173766185, "sec": 1.19}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 16, "model": "LogReg", "acc": 0.7636986301369864, "auc": 0.9165884781384875, "sec": 0.01}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 16, "model": "HOG+SVM", "acc": 0.6986301369863014, "auc": 0.8671889660349034, "sec": 0.13}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 16, "model": "Random ferns", "acc": 0.6883561643835616, "auc": 0.726027397260274, "sec": 0.11}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 16, "model": "CNN", "acc": 0.8013698630136986, "auc": 0.9677706886845563, "sec": 0.36}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 16, "model": "CNN+aug", "acc": 0.821917808219178, "auc": 0.9939951210358415, "sec": 1.16}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 17, "model": "CCA v2", "acc": 0.9691780821917808, "auc": 0.9996716081816476, "sec": 1.19}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 17, "model": "LogReg", "acc": 0.7876712328767124, "auc": 0.9429067367235879, "sec": 0.02}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 17, "model": "HOG+SVM", "acc": 0.7054794520547946, "auc": 0.8105648339275661, "sec": 0.14}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 17, "model": "Random ferns", "acc": 0.7431506849315068, "auc": 0.7773972602739726, "sec": 0.11}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 17, "model": "CNN", "acc": 0.8493150684931506, "auc": 0.9997654344154626, "sec": 0.35}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 17, "model": "CNN+aug", "acc": 0.976027397260274, "auc": 0.9989209983111278, "sec": 1.06}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 18, "model": "CCA v2", "acc": 0.8184931506849316, "auc": 0.9997654344154626, "sec": 1.19}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 18, "model": "LogReg", "acc": 0.7636986301369864, "auc": 0.9634546819290674, "sec": 0.02}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 18, "model": "HOG+SVM", "acc": 0.6917808219178082, "auc": 0.7911662600863202, "sec": 0.13}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 18, "model": "Random ferns", "acc": 0.7157534246575342, "auc": 0.75, "sec": 0.11}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 18, "model": "CNN", "acc": 0.7705479452054794, "auc": 0.9623287671232876, "sec": 0.43}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 18, "model": "CNN+aug", "acc": 0.702054794520548, "auc": 0.9510696190654907, "sec": 1.06}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 19, "model": "CCA v2", "acc": 0.8938356164383562, "auc": 0.9954494276599737, "sec": 1.19}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 19, "model": "LogReg", "acc": 0.7945205479452054, "auc": 0.9133045599549634, "sec": 0.01}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 19, "model": "HOG+SVM", "acc": 0.8013698630136986, "auc": 0.8904109589041096, "sec": 0.13}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 19, "model": "Random ferns", "acc": 0.7773972602739726, "auc": 0.7945205479452055, "sec": 0.11}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 19, "model": "CNN", "acc": 0.8082191780821918, "auc": 0.9433758678926628, "sec": 0.35}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 292, "seed": 19, "model": "CNN+aug", "acc": 0.815068493150685, "auc": 0.9437511728279228, "sec": 1.07}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 10, "model": "CCA v2", "acc": 0.7601351351351351, "auc": 0.7979364499634769, "sec": 1.2}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 10, "model": "LogReg", "acc": 0.7871621621621622, "auc": 0.9189645726807889, "sec": 0.03}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 10, "model": "HOG+SVM", "acc": 0.6756756756756757, "auc": 0.685491234477721, "sec": 0.13}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 10, "model": "Random ferns", "acc": 0.7567567567567568, "auc": 0.787527392257122, "sec": 0.11}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 10, "model": "CNN", "acc": 0.7601351351351351, "auc": 0.8823959094229366, "sec": 0.44}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 10, "model": "CNN+aug", "acc": 0.6790540540540541, "auc": 0.7652483564645727, "sec": 1.1}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 11, "model": "CCA v2", "acc": 0.7905405405405406, "auc": 0.9231190650109569, "sec": 1.25}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 11, "model": "LogReg", "acc": 0.7837837837837838, "auc": 0.91672753834916, "sec": 0.03}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 11, "model": "HOG+SVM", "acc": 0.6418918918918919, "auc": 0.8019083272461651, "sec": 0.14}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 11, "model": "Random ferns", "acc": 0.5878378378378378, "auc": 0.7511869978086194, "sec": 0.11}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 11, "model": "CNN", "acc": 0.6959459459459459, "auc": 0.8283875091307523, "sec": 0.38}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 11, "model": "CNN+aug", "acc": 0.5844594594594594, "auc": 0.8933528122717311, "sec": 1.14}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 12, "model": "CCA v2", "acc": 0.7094594594594594, "auc": 0.99995434623813, "sec": 1.22}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 12, "model": "LogReg", "acc": 0.8074324324324325, "auc": 0.9004747991234477, "sec": 0.02}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 12, "model": "HOG+SVM", "acc": 0.8581081081081081, "auc": 0.9610116873630387, "sec": 0.14}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 12, "model": "Random ferns", "acc": 0.7804054054054054, "auc": 0.8615777940102265, "sec": 0.11}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 12, "model": "CNN", "acc": 0.8141891891891891, "auc": 0.8939919649379109, "sec": 0.34}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 12, "model": "CNN+aug", "acc": 0.8006756756756757, "auc": 0.8781501095690284, "sec": 1.07}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 13, "model": "CCA v2", "acc": 0.7432432432432432, "auc": 0.9180514974433893, "sec": 1.21}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 13, "model": "LogReg", "acc": 0.8547297297297297, "auc": 0.929145361577794, "sec": 0.02}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 13, "model": "HOG+SVM", "acc": 0.7601351351351351, "auc": 0.8574689554419284, "sec": 0.14}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 13, "model": "Random ferns", "acc": 0.7702702702702703, "auc": 0.8820306793279765, "sec": 0.11}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 13, "model": "CNN", "acc": 0.7567567567567568, "auc": 0.87518261504748, "sec": 0.43}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 13, "model": "CNN+aug", "acc": 0.7668918918918919, "auc": 0.9154035792549307, "sec": 1.07}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 14, "model": "CCA v2", "acc": 0.6824324324324325, "auc": 0.7682615047479913, "sec": 1.21}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 14, "model": "LogReg", "acc": 0.597972972972973, "auc": 0.7156227173119065, "sec": 0.01}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 14, "model": "HOG+SVM", "acc": 0.6722972972972973, "auc": 0.7708181154127101, "sec": 0.14}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 14, "model": "Random ferns", "acc": 0.6385135135135135, "auc": 0.7609112490869248, "sec": 0.11}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 14, "model": "CNN", "acc": 0.6013513513513513, "auc": 0.712381300219138, "sec": 0.34}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 14, "model": "CNN+aug", "acc": 0.5912162162162162, "auc": 0.6838476990504017, "sec": 1.15}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 15, "model": "CCA v2", "acc": 0.75, "auc": 0.6546292914536158, "sec": 1.2}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 15, "model": "LogReg", "acc": 0.5304054054054054, "auc": 0.6631208911614318, "sec": 0.06}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 15, "model": "HOG+SVM", "acc": 0.6756756756756757, "auc": 0.689600073046019, "sec": 0.14}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 15, "model": "Random ferns", "acc": 0.5405405405405406, "auc": 0.6687134769905041, "sec": 0.11}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 15, "model": "CNN", "acc": 0.48986486486486486, "auc": 0.6099342585829072, "sec": 0.4}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 15, "model": "CNN+aug", "acc": 0.5304054054054054, "auc": 0.591627100073046, "sec": 1.08}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 16, "model": "CCA v2", "acc": 0.7027027027027027, "auc": 0.7673484295105917, "sec": 1.2}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 16, "model": "LogReg", "acc": 0.8783783783783784, "auc": 0.9513787436084733, "sec": 0.02}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 16, "model": "HOG+SVM", "acc": 0.6317567567567568, "auc": 0.6441974068663259, "sec": 0.14}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 16, "model": "Random ferns", "acc": 0.9087837837837838, "auc": 0.9759861212563916, "sec": 0.11}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 16, "model": "CNN", "acc": 0.8209459459459459, "auc": 0.9482742878013148, "sec": 0.35}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 16, "model": "CNN+aug", "acc": 0.8817567567567568, "auc": 0.9764883126369613, "sec": 1.15}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 17, "model": "CCA v2", "acc": 0.7128378378378378, "auc": 0.8125, "sec": 1.2}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 17, "model": "LogReg", "acc": 0.6824324324324325, "auc": 0.7030679327976626, "sec": 0.03}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 17, "model": "HOG+SVM", "acc": 0.75, "auc": 0.8274287801314828, "sec": 0.13}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 17, "model": "Random ferns", "acc": 0.625, "auc": 0.6692841490138787, "sec": 0.11}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 17, "model": "CNN", "acc": 0.6452702702702703, "auc": 0.6824324324324325, "sec": 0.37}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 17, "model": "CNN+aug", "acc": 0.6317567567567568, "auc": 0.637646092037984, "sec": 1.1}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 18, "model": "CCA v2", "acc": 0.7567567567567568, "auc": 0.5776113951789626, "sec": 1.2}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 18, "model": "LogReg", "acc": 0.6148648648648649, "auc": 0.5962381300219137, "sec": 0.02}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 18, "model": "HOG+SVM", "acc": 0.7195945945945946, "auc": 0.5841398831263696, "sec": 0.14}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 18, "model": "Random ferns", "acc": 0.5743243243243243, "auc": 0.5703067932797663, "sec": 0.11}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 18, "model": "CNN", "acc": 0.5574324324324325, "auc": 0.5446950328707085, "sec": 0.41}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 18, "model": "CNN+aug", "acc": 0.5540540540540541, "auc": 0.5348338203067933, "sec": 1.05}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 19, "model": "CCA v2", "acc": 0.7905405405405406, "auc": 0.9467220598977355, "sec": 1.24}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 19, "model": "LogReg", "acc": 0.7702702702702703, "auc": 0.8817111029948868, "sec": 0.02}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 19, "model": "HOG+SVM", "acc": 0.6891891891891891, "auc": 0.8451880934989043, "sec": 0.14}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 19, "model": "Random ferns", "acc": 0.7263513513513513, "auc": 0.8336833455076699, "sec": 0.11}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 19, "model": "CNN", "acc": 0.625, "auc": 0.741691015339664, "sec": 0.5}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 10, "n_per_class": 10, "n_test": 296, "seed": 19, "model": "CNN+aug", "acc": 0.8108108108108109, "auc": 0.8338659605551497, "sec": 1.34}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 10, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 2.47}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 10, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.04}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 10, "model": "HOG+SVM", "acc": 0.9989406779661016, "auc": 1.0, "sec": 0.45}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 10, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 0.21}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 10, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 0.64}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 10, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 3.06}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 11, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 2.54}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 11, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.16}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 11, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 0.44}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 11, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 0.21}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 11, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 0.75}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 11, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 3.01}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 12, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 2.45}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 12, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.04}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 12, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 0.45}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 12, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 0.21}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 12, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 0.71}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 12, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 3.15}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 13, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 2.53}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 13, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.28}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 13, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 0.44}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 13, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 0.21}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 13, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 0.85}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 13, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 3.37}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 14, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 2.61}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 14, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.17}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 14, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 0.43}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 14, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 0.21}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 14, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 0.76}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 14, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 3.36}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 15, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 2.54}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 15, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.29}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 15, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 0.42}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 15, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 0.21}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 15, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 0.8}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 15, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 3.32}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 16, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 2.53}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 16, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.13}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 16, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 0.44}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 16, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 0.22}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 16, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 0.72}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 16, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 3.33}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 17, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 2.55}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 17, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.05}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 17, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 0.45}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 17, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 0.21}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 17, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 0.68}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 17, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 2.97}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 18, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 2.45}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 18, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.02}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 18, "model": "HOG+SVM", "acc": 0.9989406779661016, "auc": 1.0, "sec": 0.42}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 18, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 0.21}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 18, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 0.66}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 18, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 3.07}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 19, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 2.49}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 19, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.04}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 19, "model": "HOG+SVM", "acc": 0.9957627118644068, "auc": 1.0, "sec": 0.45}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 19, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 0.21}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 19, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 0.65}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 944, "seed": 19, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 3.07}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 10, "model": "CCA v2", "acc": 0.899390243902439, "auc": 0.9422590719809638, "sec": 2.05}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 10, "model": "LogReg", "acc": 0.7774390243902439, "auc": 0.8893515764425937, "sec": 0.05}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 10, "model": "HOG+SVM", "acc": 0.8902439024390244, "auc": 0.9654223676383106, "sec": 0.17}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 10, "model": "Random ferns", "acc": 0.7987804878048781, "auc": 0.7987804878048781, "sec": 0.13}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 10, "model": "CNN", "acc": 0.7621951219512195, "auc": 0.9004312908982748, "sec": 0.87}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 10, "model": "CNN+aug", "acc": 0.8323170731707317, "auc": 0.9058596073765616, "sec": 4.23}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 11, "model": "CCA v2", "acc": 0.9573170731707317, "auc": 0.998401249256395, "sec": 2.05}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 11, "model": "LogReg", "acc": 0.7682926829268293, "auc": 0.8786808447352767, "sec": 0.02}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 11, "model": "HOG+SVM", "acc": 0.7926829268292683, "auc": 0.9647903033908388, "sec": 0.17}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 11, "model": "Random ferns", "acc": 0.8567073170731707, "auc": 0.8987209994051161, "sec": 0.13}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 11, "model": "CNN", "acc": 0.7408536585365854, "auc": 0.8855220107079119, "sec": 0.64}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 11, "model": "CNN+aug", "acc": 0.7286585365853658, "auc": 0.8921400951814396, "sec": 3.14}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 12, "model": "CCA v2", "acc": 0.9359756097560976, "auc": 0.9989589530041642, "sec": 2.04}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 12, "model": "LogReg", "acc": 0.7987804878048781, "auc": 0.9510336109458656, "sec": 0.03}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 12, "model": "HOG+SVM", "acc": 0.8323170731707317, "auc": 0.9694750148721, "sec": 0.17}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 12, "model": "Random ferns", "acc": 0.8323170731707317, "auc": 0.8262938726948245, "sec": 0.13}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 12, "model": "CNN", "acc": 0.8658536585365854, "auc": 0.9214753123140987, "sec": 0.69}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 12, "model": "CNN+aug", "acc": 0.9695121951219512, "auc": 0.9997769185008923, "sec": 2.87}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 13, "model": "CCA v2", "acc": 0.9359756097560976, "auc": 0.997471743010113, "sec": 2.12}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 13, "model": "LogReg", "acc": 0.8384146341463414, "auc": 0.921103509815586, "sec": 0.04}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 13, "model": "HOG+SVM", "acc": 0.9237804878048781, "auc": 0.991076740035693, "sec": 0.17}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 13, "model": "Random ferns", "acc": 0.7652439024390244, "auc": 0.814507733491969, "sec": 0.14}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 13, "model": "CNN", "acc": 0.7987804878048781, "auc": 0.9181290898274836, "sec": 0.83}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 13, "model": "CNN+aug", "acc": 0.8902439024390244, "auc": 0.9450847709696608, "sec": 4.56}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 14, "model": "CCA v2", "acc": 0.9969512195121951, "auc": 0.9996653777513385, "sec": 2.13}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 14, "model": "LogReg", "acc": 0.7713414634146342, "auc": 0.9394333729922665, "sec": 0.02}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 14, "model": "HOG+SVM", "acc": 0.8536585365853658, "auc": 0.9859830458060679, "sec": 0.17}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 14, "model": "Random ferns", "acc": 0.8048780487804879, "auc": 0.8140243902439024, "sec": 0.13}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 14, "model": "CNN", "acc": 0.9207317073170732, "auc": 0.965348007138608, "sec": 0.59}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 14, "model": "CNN+aug", "acc": 0.9146341463414634, "auc": 1.0, "sec": 3.15}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 15, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 2.09}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 15, "model": "LogReg", "acc": 0.899390243902439, "auc": 0.9772456870910172, "sec": 0.04}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 15, "model": "HOG+SVM", "acc": 0.975609756097561, "auc": 0.9978063652587745, "sec": 0.17}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 15, "model": "Random ferns", "acc": 0.8170731707317073, "auc": 0.8170731707317074, "sec": 0.14}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 15, "model": "CNN", "acc": 0.9024390243902439, "auc": 0.981075252825699, "sec": 0.7}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 15, "model": "CNN+aug", "acc": 0.975609756097561, "auc": 1.0, "sec": 3.36}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 16, "model": "CCA v2", "acc": 0.9451219512195121, "auc": 0.9939767995240928, "sec": 2.1}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 16, "model": "LogReg", "acc": 0.75, "auc": 0.9086853063652587, "sec": 0.03}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 16, "model": "HOG+SVM", "acc": 0.9054878048780488, "auc": 0.9970999405116003, "sec": 0.17}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 16, "model": "Random ferns", "acc": 0.8170731707317073, "auc": 0.8384146341463414, "sec": 0.14}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 16, "model": "CNN", "acc": 0.9024390243902439, "auc": 0.9564619274241523, "sec": 0.67}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 16, "model": "CNN+aug", "acc": 0.8810975609756098, "auc": 0.9770226055919096, "sec": 2.95}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 17, "model": "CCA v2", "acc": 0.948170731707317, "auc": 0.990667757287329, "sec": 2.04}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 17, "model": "LogReg", "acc": 0.8597560975609756, "auc": 0.9444527067221892, "sec": 0.06}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 17, "model": "HOG+SVM", "acc": 0.9146341463414634, "auc": 0.9863548483045805, "sec": 0.18}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 17, "model": "Random ferns", "acc": 0.8292682926829268, "auc": 0.8735499702558001, "sec": 0.14}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 17, "model": "CNN", "acc": 0.875, "auc": 0.9574286139202856, "sec": 0.81}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 17, "model": "CNN+aug", "acc": 0.9237804878048781, "auc": 0.9841983938132064, "sec": 4.46}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 18, "model": "CCA v2", "acc": 0.9664634146341463, "auc": 0.9992935752528257, "sec": 2.19}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 18, "model": "LogReg", "acc": 0.9695121951219512, "auc": 0.999070493753718, "sec": 0.04}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 18, "model": "HOG+SVM", "acc": 0.9603658536585366, "auc": 0.9983640690065437, "sec": 0.17}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 18, "model": "Random ferns", "acc": 0.8536585365853658, "auc": 0.8634741225461035, "sec": 0.14}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 18, "model": "CNN", "acc": 0.9054878048780488, "auc": 0.9625966686496132, "sec": 0.64}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 18, "model": "CNN+aug", "acc": 0.9908536585365854, "auc": 0.9995910172516359, "sec": 3.11}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 19, "model": "CCA v2", "acc": 0.7103658536585366, "auc": 0.9974717430101131, "sec": 2.05}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 19, "model": "LogReg", "acc": 0.6371951219512195, "auc": 0.8064396192742416, "sec": 0.02}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 19, "model": "HOG+SVM", "acc": 0.8353658536585366, "auc": 0.9571311719214753, "sec": 0.17}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 19, "model": "Random ferns", "acc": 0.7682926829268293, "auc": 0.7708395300416419, "sec": 0.13}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 19, "model": "CNN", "acc": 0.7957317073170732, "auc": 0.8323170731707317, "sec": 0.62}
+{"task": "Peach v Nectarine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 19, "model": "CNN+aug", "acc": 0.7408536585365854, "auc": 0.8386748958953004, "sec": 3.05}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 10, "model": "CCA v2", "acc": 0.9969512195121951, "auc": 1.0, "sec": 2.1}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 10, "model": "LogReg", "acc": 0.8963414634146342, "auc": 1.0, "sec": 0.02}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 10, "model": "HOG+SVM", "acc": 0.8963414634146342, "auc": 0.9954268292682926, "sec": 0.17}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 10, "model": "Random ferns", "acc": 0.9573170731707317, "auc": 0.9908536585365854, "sec": 0.13}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 10, "model": "CNN", "acc": 0.9085365853658537, "auc": 1.0, "sec": 0.67}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 10, "model": "CNN+aug", "acc": 0.9878048780487805, "auc": 1.0, "sec": 3.12}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 11, "model": "CCA v2", "acc": 0.9207317073170732, "auc": 1.0, "sec": 2.05}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 11, "model": "LogReg", "acc": 0.7896341463414634, "auc": 0.9994422962522308, "sec": 0.02}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 11, "model": "HOG+SVM", "acc": 0.8719512195121951, "auc": 0.9126264128494943, "sec": 0.17}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 11, "model": "Random ferns", "acc": 0.8079268292682927, "auc": 0.8414634146341464, "sec": 0.14}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 11, "model": "CNN", "acc": 0.8475609756097561, "auc": 1.0, "sec": 0.73}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 11, "model": "CNN+aug", "acc": 0.9420731707317073, "auc": 1.0, "sec": 2.97}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 12, "model": "CCA v2", "acc": 0.9359756097560976, "auc": 1.0, "sec": 2.05}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 12, "model": "LogReg", "acc": 0.7987804878048781, "auc": 1.0, "sec": 0.02}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 12, "model": "HOG+SVM", "acc": 0.8719512195121951, "auc": 0.9615928019036287, "sec": 0.17}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 12, "model": "Random ferns", "acc": 0.7713414634146342, "auc": 0.7987804878048781, "sec": 0.14}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 12, "model": "CNN", "acc": 0.7987804878048781, "auc": 1.0, "sec": 0.61}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 12, "model": "CNN+aug", "acc": 0.9786585365853658, "auc": 1.0, "sec": 3.04}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 13, "model": "CCA v2", "acc": 0.9512195121951219, "auc": 1.0, "sec": 2.17}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 13, "model": "LogReg", "acc": 0.8536585365853658, "auc": 1.0, "sec": 0.09}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 13, "model": "HOG+SVM", "acc": 0.8841463414634146, "auc": 0.9966537775133849, "sec": 0.18}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 13, "model": "Random ferns", "acc": 0.8658536585365854, "auc": 0.9207317073170731, "sec": 0.13}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 13, "model": "CNN", "acc": 0.8414634146341463, "auc": 1.0, "sec": 0.97}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 13, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 5.88}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 14, "model": "CCA v2", "acc": 0.9054878048780488, "auc": 1.0, "sec": 2.29}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 14, "model": "LogReg", "acc": 0.8597560975609756, "auc": 1.0, "sec": 0.16}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 14, "model": "HOG+SVM", "acc": 0.8902439024390244, "auc": 0.9998140987507436, "sec": 0.17}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 14, "model": "Random ferns", "acc": 0.8841463414634146, "auc": 0.9176829268292683, "sec": 0.13}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 14, "model": "CNN", "acc": 0.8292682926829268, "auc": 1.0, "sec": 1.11}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 14, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 4.63}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 15, "model": "CCA v2", "acc": 0.7926829268292683, "auc": 1.0, "sec": 2.34}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 15, "model": "LogReg", "acc": 0.7560975609756098, "auc": 0.9879164187983345, "sec": 0.25}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 15, "model": "HOG+SVM", "acc": 0.8109756097560976, "auc": 0.9895151695419394, "sec": 0.18}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 15, "model": "Random ferns", "acc": 0.7713414634146342, "auc": 0.7713414634146342, "sec": 0.16}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 15, "model": "CNN", "acc": 0.7835365853658537, "auc": 1.0, "sec": 1.18}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 15, "model": "CNN+aug", "acc": 0.9085365853658537, "auc": 1.0, "sec": 5.46}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 16, "model": "CCA v2", "acc": 0.850609756097561, "auc": 1.0, "sec": 2.08}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 16, "model": "LogReg", "acc": 0.8932926829268293, "auc": 1.0, "sec": 0.04}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 16, "model": "HOG+SVM", "acc": 0.8719512195121951, "auc": 0.9899241522903034, "sec": 0.17}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 16, "model": "Random ferns", "acc": 0.9542682926829268, "auc": 0.9908536585365854, "sec": 0.13}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 16, "model": "CNN", "acc": 0.823170731707317, "auc": 1.0, "sec": 0.65}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 16, "model": "CNN+aug", "acc": 0.8536585365853658, "auc": 1.0, "sec": 3.71}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 17, "model": "CCA v2", "acc": 0.9908536585365854, "auc": 1.0, "sec": 2.24}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 17, "model": "LogReg", "acc": 0.8109756097560976, "auc": 1.0, "sec": 0.02}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 17, "model": "HOG+SVM", "acc": 0.8810975609756098, "auc": 0.9833804283164782, "sec": 0.17}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 17, "model": "Random ferns", "acc": 0.8079268292682927, "auc": 0.8719512195121951, "sec": 0.14}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 17, "model": "CNN", "acc": 0.8262195121951219, "auc": 1.0, "sec": 0.66}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 17, "model": "CNN+aug", "acc": 0.9390243902439024, "auc": 1.0, "sec": 3.65}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 18, "model": "CCA v2", "acc": 0.9542682926829268, "auc": 1.0, "sec": 2.31}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 18, "model": "LogReg", "acc": 0.8871951219512195, "auc": 1.0, "sec": 0.05}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 18, "model": "HOG+SVM", "acc": 0.8963414634146342, "auc": 0.9946832242712671, "sec": 0.18}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 18, "model": "Random ferns", "acc": 0.8140243902439024, "auc": 0.8567073170731707, "sec": 0.13}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 18, "model": "CNN", "acc": 0.8079268292682927, "auc": 1.0, "sec": 0.66}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 18, "model": "CNN+aug", "acc": 0.8445121951219512, "auc": 1.0, "sec": 3.9}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 19, "model": "CCA v2", "acc": 0.9847560975609756, "auc": 1.0, "sec": 2.23}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 19, "model": "LogReg", "acc": 0.8109756097560976, "auc": 1.0, "sec": 0.16}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 19, "model": "HOG+SVM", "acc": 0.875, "auc": 0.9416641879833432, "sec": 0.2}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 19, "model": "Random ferns", "acc": 0.8597560975609756, "auc": 0.9054878048780488, "sec": 0.13}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 19, "model": "CNN", "acc": 0.8719512195121951, "auc": 1.0, "sec": 0.73}
+{"task": "Lemon v Limes", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 328, "seed": 19, "model": "CNN+aug", "acc": 0.9939024390243902, "auc": 1.0, "sec": 3.72}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 10, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 2.13}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 10, "model": "LogReg", "acc": 0.9789156626506024, "auc": 0.9998185513136886, "sec": 0.14}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 10, "model": "HOG+SVM", "acc": 0.8433734939759037, "auc": 0.9561982871244012, "sec": 0.18}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 10, "model": "Random ferns", "acc": 0.6385542168674698, "auc": 0.713855421686747, "sec": 0.14}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 10, "model": "CNN", "acc": 0.9939759036144579, "auc": 1.0, "sec": 0.74}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 10, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 3.83}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 11, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 2.21}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 11, "model": "LogReg", "acc": 0.9457831325301205, "auc": 1.0, "sec": 0.26}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 11, "model": "HOG+SVM", "acc": 0.8192771084337349, "auc": 0.9279648715343302, "sec": 0.2}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 11, "model": "Random ferns", "acc": 0.7439759036144579, "auc": 0.8192771084337349, "sec": 0.14}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 11, "model": "CNN", "acc": 0.9969879518072289, "auc": 1.0, "sec": 1.15}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 11, "model": "CNN+aug", "acc": 0.9668674698795181, "auc": 1.0, "sec": 4.92}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 12, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 2.15}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 12, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.03}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 12, "model": "HOG+SVM", "acc": 0.8463855421686747, "auc": 0.9636739730004356, "sec": 0.17}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 12, "model": "Random ferns", "acc": 0.6506024096385542, "auc": 0.7168674698795181, "sec": 0.14}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 12, "model": "CNN", "acc": 0.9879518072289156, "auc": 1.0, "sec": 1.0}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 12, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 5.09}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 13, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 2.35}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 13, "model": "LogReg", "acc": 0.9879518072289156, "auc": 1.0, "sec": 0.17}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 13, "model": "HOG+SVM", "acc": 0.7018072289156626, "auc": 0.8712077224560895, "sec": 0.18}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 13, "model": "Random ferns", "acc": 0.5090361445783133, "auc": 0.564722746407316, "sec": 0.13}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 13, "model": "CNN", "acc": 0.9849397590361446, "auc": 1.0, "sec": 0.77}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 13, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 3.48}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 14, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 2.28}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 14, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.02}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 14, "model": "HOG+SVM", "acc": 0.9066265060240963, "auc": 0.9605530555958776, "sec": 0.18}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 14, "model": "Random ferns", "acc": 0.6957831325301205, "auc": 0.7402562055450719, "sec": 0.15}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 14, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 1.21}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 14, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 4.51}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 15, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 2.13}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 15, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.08}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 15, "model": "HOG+SVM", "acc": 0.786144578313253, "auc": 0.8894614602990274, "sec": 0.2}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 15, "model": "Random ferns", "acc": 0.6234939759036144, "auc": 0.6948758890985629, "sec": 0.15}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 15, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 1.08}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 15, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 4.04}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 16, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 2.15}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 16, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.01}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 16, "model": "HOG+SVM", "acc": 0.8313253012048193, "auc": 0.9213057047466977, "sec": 0.17}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 16, "model": "Random ferns", "acc": 0.7530120481927711, "auc": 0.7946545217012628, "sec": 0.14}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 16, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 0.81}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 16, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 3.59}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 17, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 2.04}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 17, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.02}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 17, "model": "HOG+SVM", "acc": 0.8162650602409639, "auc": 0.974052837857454, "sec": 0.17}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 17, "model": "Random ferns", "acc": 0.6927710843373494, "auc": 0.7168674698795181, "sec": 0.13}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 17, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 0.69}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 17, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 2.9}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 18, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 2.05}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 18, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.02}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 18, "model": "HOG+SVM", "acc": 0.8132530120481928, "auc": 0.9823631876905211, "sec": 0.17}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 18, "model": "Random ferns", "acc": 0.641566265060241, "auc": 0.7018072289156627, "sec": 0.13}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 18, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 0.63}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 18, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 3.4}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 19, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 2.24}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 19, "model": "LogReg", "acc": 0.8885542168674698, "auc": 0.9450936275221367, "sec": 0.03}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 19, "model": "HOG+SVM", "acc": 0.7439759036144579, "auc": 0.8319059370010161, "sec": 0.18}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 19, "model": "Random ferns", "acc": 0.7108433734939759, "auc": 0.6974161707069241, "sec": 0.14}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 19, "model": "CNN", "acc": 0.9156626506024096, "auc": 0.9894759761939323, "sec": 0.86}
+{"task": "Pear v Quince", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 19, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 4.21}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 10, "model": "CCA v2", "acc": 0.9126506024096386, "auc": 0.9994919436783277, "sec": 2.15}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 10, "model": "LogReg", "acc": 0.9126506024096386, "auc": 1.0, "sec": 0.01}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 10, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 0.17}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 10, "model": "Random ferns", "acc": 0.9307228915662651, "auc": 0.9668674698795181, "sec": 0.14}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 10, "model": "CNN", "acc": 0.8102409638554217, "auc": 0.9311946581506749, "sec": 0.72}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 10, "model": "CNN+aug", "acc": 0.8885542168674698, "auc": 0.9989838873566556, "sec": 3.57}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 11, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 2.07}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 11, "model": "LogReg", "acc": 0.927710843373494, "auc": 1.0, "sec": 0.02}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 11, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 0.17}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 11, "model": "Random ferns", "acc": 0.927710843373494, "auc": 0.9822724633473655, "sec": 0.14}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 11, "model": "CNN", "acc": 0.8825301204819277, "auc": 0.9632747858905502, "sec": 0.62}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 11, "model": "CNN+aug", "acc": 0.8734939759036144, "auc": 0.9403396719407752, "sec": 3.79}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 12, "model": "CCA v2", "acc": 0.9939759036144579, "auc": 1.0, "sec": 2.13}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 12, "model": "LogReg", "acc": 0.8885542168674698, "auc": 0.9984758310349833, "sec": 0.01}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 12, "model": "HOG+SVM", "acc": 0.9849397590361446, "auc": 1.0, "sec": 0.17}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 12, "model": "Random ferns", "acc": 0.9216867469879518, "auc": 0.9482871244012193, "sec": 0.13}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 12, "model": "CNN", "acc": 0.8132530120481928, "auc": 0.9231383364784438, "sec": 0.61}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 12, "model": "CNN+aug", "acc": 0.9246987951807228, "auc": 0.9803672521410944, "sec": 3.08}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 13, "model": "CCA v2", "acc": 0.9789156626506024, "auc": 1.0, "sec": 2.03}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 13, "model": "LogReg", "acc": 0.9728915662650602, "auc": 1.0, "sec": 0.03}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 13, "model": "HOG+SVM", "acc": 0.9939759036144579, "auc": 1.0, "sec": 0.17}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 13, "model": "Random ferns", "acc": 0.858433734939759, "auc": 0.8825301204819276, "sec": 0.13}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 13, "model": "CNN", "acc": 0.8704819277108434, "auc": 0.900457250689505, "sec": 0.71}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 13, "model": "CNN+aug", "acc": 0.9246987951807228, "auc": 0.991109014370736, "sec": 2.99}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 14, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 2.03}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 14, "model": "LogReg", "acc": 0.9819277108433735, "auc": 1.0, "sec": 0.01}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 14, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 0.17}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 14, "model": "Random ferns", "acc": 0.9668674698795181, "auc": 0.9995645231528524, "sec": 0.13}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 14, "model": "CNN", "acc": 0.9819277108433735, "auc": 0.9993830744665408, "sec": 0.64}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 14, "model": "CNN+aug", "acc": 0.9909638554216867, "auc": 1.0, "sec": 3.07}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 15, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 2.05}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 15, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.02}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 15, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 0.17}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 15, "model": "Random ferns", "acc": 0.9969879518072289, "auc": 1.0, "sec": 0.14}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 15, "model": "CNN", "acc": 0.891566265060241, "auc": 0.9805487008274061, "sec": 0.63}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 15, "model": "CNN+aug", "acc": 0.9427710843373494, "auc": 0.995681521265786, "sec": 3.01}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 16, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 2.07}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 16, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.05}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 16, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 0.17}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 16, "model": "Random ferns", "acc": 0.9548192771084337, "auc": 0.9782261576426187, "sec": 0.14}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 16, "model": "CNN", "acc": 0.9246987951807228, "auc": 0.984504282188997, "sec": 0.69}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 16, "model": "CNN+aug", "acc": 0.9006024096385542, "auc": 0.9997822615764261, "sec": 2.96}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 17, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 2.16}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 17, "model": "LogReg", "acc": 0.9006024096385542, "auc": 0.998802438670344, "sec": 0.07}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 17, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 0.17}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 17, "model": "Random ferns", "acc": 0.8975903614457831, "auc": 0.9479605167658587, "sec": 0.14}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 17, "model": "CNN", "acc": 0.9066265060240963, "auc": 0.9851212077224561, "sec": 0.76}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 17, "model": "CNN+aug", "acc": 0.9728915662650602, "auc": 0.9997459718391638, "sec": 3.95}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 18, "model": "CCA v2", "acc": 0.9909638554216867, "auc": 1.0, "sec": 2.13}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 18, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.26}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 18, "model": "HOG+SVM", "acc": 0.9789156626506024, "auc": 1.0, "sec": 0.17}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 18, "model": "Random ferns", "acc": 0.9186746987951807, "auc": 0.9789156626506024, "sec": 0.13}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 18, "model": "CNN", "acc": 0.9337349397590361, "auc": 0.990637247786326, "sec": 0.7}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 18, "model": "CNN+aug", "acc": 0.9548192771084337, "auc": 0.9980403541878357, "sec": 3.43}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 19, "model": "CCA v2", "acc": 0.9969879518072289, "auc": 1.0, "sec": 2.03}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 19, "model": "LogReg", "acc": 0.9096385542168675, "auc": 0.9989113078821309, "sec": 0.04}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 19, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 0.17}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 19, "model": "Random ferns", "acc": 0.9367469879518072, "auc": 0.9971331107562783, "sec": 0.14}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 19, "model": "CNN", "acc": 0.822289156626506, "auc": 0.9283640586442153, "sec": 0.68}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 332, "seed": 19, "model": "CNN+aug", "acc": 0.8614457831325302, "auc": 0.9659602264479604, "sec": 2.91}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 10, "model": "CCA v2", "acc": 0.8595890410958904, "auc": 0.9991086507787578, "sec": 2.0}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 10, "model": "LogReg", "acc": 0.8082191780821918, "auc": 0.979780446612873, "sec": 0.02}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 10, "model": "HOG+SVM", "acc": 0.791095890410959, "auc": 0.8678457496716082, "sec": 0.15}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 10, "model": "Random ferns", "acc": 0.773972602739726, "auc": 0.7876712328767124, "sec": 0.13}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 10, "model": "CNN", "acc": 0.8287671232876712, "auc": 0.9820791893413399, "sec": 0.6}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 10, "model": "CNN+aug", "acc": 0.8698630136986302, "auc": 0.9857384124601238, "sec": 2.8}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 11, "model": "CCA v2", "acc": 0.8732876712328768, "auc": 0.992963032463877, "sec": 1.99}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 11, "model": "LogReg", "acc": 0.886986301369863, "auc": 0.9815631450553575, "sec": 0.02}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 11, "model": "HOG+SVM", "acc": 0.839041095890411, "auc": 0.8988553199474573, "sec": 0.15}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 11, "model": "Random ferns", "acc": 0.773972602739726, "auc": 0.797945205479452, "sec": 0.13}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 11, "model": "CNN", "acc": 0.8253424657534246, "auc": 0.9582004128354288, "sec": 0.69}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 11, "model": "CNN+aug", "acc": 0.8595890410958904, "auc": 0.9726496528429348, "sec": 2.78}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 12, "model": "CCA v2", "acc": 0.821917808219178, "auc": 0.9940889472696566, "sec": 2.03}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 12, "model": "LogReg", "acc": 0.791095890410959, "auc": 0.9456276975042223, "sec": 0.01}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 12, "model": "HOG+SVM", "acc": 0.7842465753424658, "auc": 0.8661568774629387, "sec": 0.15}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 12, "model": "Random ferns", "acc": 0.773972602739726, "auc": 0.7842465753424658, "sec": 0.13}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 12, "model": "CNN", "acc": 0.8253424657534246, "auc": 0.9696941264777632, "sec": 0.71}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 12, "model": "CNN+aug", "acc": 0.815068493150685, "auc": 0.9835804090823794, "sec": 3.02}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 13, "model": "CCA v2", "acc": 0.9383561643835616, "auc": 0.9933852505160443, "sec": 2.11}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 13, "model": "LogReg", "acc": 0.821917808219178, "auc": 0.9835804090823794, "sec": 0.04}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 13, "model": "HOG+SVM", "acc": 0.8527397260273972, "auc": 0.8892850440983299, "sec": 0.16}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 13, "model": "Random ferns", "acc": 0.7842465753424658, "auc": 0.7945205479452055, "sec": 0.13}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 13, "model": "CNN", "acc": 0.8493150684931506, "auc": 0.9774347907674985, "sec": 0.66}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 13, "model": "CNN+aug", "acc": 0.9178082191780822, "auc": 0.9807187089510228, "sec": 2.87}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 14, "model": "CCA v2", "acc": 0.8287671232876712, "auc": 0.992775379996247, "sec": 2.08}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 14, "model": "LogReg", "acc": 0.797945205479452, "auc": 0.9764965284293489, "sec": 0.05}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 14, "model": "HOG+SVM", "acc": 0.8458904109589042, "auc": 0.8914899605929818, "sec": 0.16}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 14, "model": "Random ferns", "acc": 0.75, "auc": 0.7671232876712328, "sec": 0.13}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 14, "model": "CNN", "acc": 0.7945205479452054, "auc": 0.9567461062112967, "sec": 0.83}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 14, "model": "CNN+aug", "acc": 0.7945205479452054, "auc": 0.9816569712891724, "sec": 4.49}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 15, "model": "CCA v2", "acc": 0.8938356164383562, "auc": 0.9971852129855507, "sec": 2.04}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 15, "model": "LogReg", "acc": 0.8321917808219178, "auc": 0.9692719084255959, "sec": 0.03}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 15, "model": "HOG+SVM", "acc": 0.8493150684931506, "auc": 0.9045083505348096, "sec": 0.15}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 15, "model": "Random ferns", "acc": 0.7705479452054794, "auc": 0.7876712328767124, "sec": 0.13}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 15, "model": "CNN", "acc": 0.8527397260273972, "auc": 0.9763557890786264, "sec": 0.68}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 15, "model": "CNN+aug", "acc": 0.8938356164383562, "auc": 0.9923062488271721, "sec": 3.05}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 16, "model": "CCA v2", "acc": 0.8424657534246576, "auc": 0.999906173766185, "sec": 2.04}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 16, "model": "LogReg", "acc": 0.7842465753424658, "auc": 0.9535560142615875, "sec": 0.02}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 16, "model": "HOG+SVM", "acc": 0.8321917808219178, "auc": 0.9093638581347344, "sec": 0.15}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 16, "model": "Random ferns", "acc": 0.7191780821917808, "auc": 0.7397260273972602, "sec": 0.13}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 16, "model": "CNN", "acc": 0.8082191780821918, "auc": 0.9802495777819478, "sec": 0.66}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 16, "model": "CNN+aug", "acc": 0.8184931506849316, "auc": 0.9965284293488459, "sec": 3.02}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 17, "model": "CCA v2", "acc": 0.9006849315068494, "auc": 0.9986864327265903, "sec": 2.02}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 17, "model": "LogReg", "acc": 0.773972602739726, "auc": 0.9073935072246201, "sec": 0.02}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 17, "model": "HOG+SVM", "acc": 0.7636986301369864, "auc": 0.8836789266278852, "sec": 0.16}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 17, "model": "Random ferns", "acc": 0.702054794520548, "auc": 0.7363013698630136, "sec": 0.13}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 17, "model": "CNN", "acc": 0.791095890410959, "auc": 0.9809532745355602, "sec": 0.61}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 17, "model": "CNN+aug", "acc": 0.8972602739726028, "auc": 0.9975136048039032, "sec": 3.02}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 18, "model": "CCA v2", "acc": 0.8732876712328768, "auc": 0.9992963032463877, "sec": 2.03}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 18, "model": "LogReg", "acc": 0.7842465753424658, "auc": 0.9729780446612872, "sec": 0.01}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 18, "model": "HOG+SVM", "acc": 0.8595890410958904, "auc": 0.892568962281854, "sec": 0.15}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 18, "model": "Random ferns", "acc": 0.7705479452054794, "auc": 0.7876712328767124, "sec": 0.13}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 18, "model": "CNN", "acc": 0.791095890410959, "auc": 0.9638768999812347, "sec": 0.62}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 18, "model": "CNN+aug", "acc": 0.863013698630137, "auc": 0.9970444736348283, "sec": 3.29}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 19, "model": "CCA v2", "acc": 0.8253424657534246, "auc": 0.9918840307750046, "sec": 2.21}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 19, "model": "LogReg", "acc": 0.8082191780821918, "auc": 0.9491461812722837, "sec": 0.04}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 19, "model": "HOG+SVM", "acc": 0.7945205479452054, "auc": 0.8689247513604804, "sec": 0.15}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 19, "model": "Random ferns", "acc": 0.7773972602739726, "auc": 0.7842465753424658, "sec": 0.13}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 19, "model": "CNN", "acc": 0.7876712328767124, "auc": 0.942156126853068, "sec": 0.82}
+{"task": "Onion White v Potato White", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 292, "seed": 19, "model": "CNN+aug", "acc": 0.7876712328767124, "auc": 0.9225933571026459, "sec": 3.77}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 10, "model": "CCA v2", "acc": 0.7804054054054054, "auc": 0.8816197954711468, "sec": 2.03}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 10, "model": "LogReg", "acc": 0.8716216216216216, "auc": 0.9171840759678597, "sec": 0.03}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 10, "model": "HOG+SVM", "acc": 0.8378378378378378, "auc": 0.9210189919649379, "sec": 0.16}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 10, "model": "Random ferns", "acc": 0.7398648648648649, "auc": 0.7732377647918188, "sec": 0.13}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 10, "model": "CNN", "acc": 0.7804054054054054, "auc": 0.7460737764791818, "sec": 0.68}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 10, "model": "CNN+aug", "acc": 0.8986486486486487, "auc": 0.9713750913075236, "sec": 3.1}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 11, "model": "CCA v2", "acc": 0.8648648648648649, "auc": 0.9481829802775749, "sec": 2.07}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 11, "model": "LogReg", "acc": 0.8716216216216216, "auc": 0.9152209642074506, "sec": 0.06}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 11, "model": "HOG+SVM", "acc": 0.8243243243243243, "auc": 0.9258126369612856, "sec": 0.16}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 11, "model": "Random ferns", "acc": 0.7398648648648649, "auc": 0.7891937545653762, "sec": 0.13}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 11, "model": "CNN", "acc": 0.722972972972973, "auc": 0.8231373265157048, "sec": 0.64}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 11, "model": "CNN+aug", "acc": 0.8918918918918919, "auc": 0.9804601899196494, "sec": 3.27}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 12, "model": "CCA v2", "acc": 0.8716216216216216, "auc": 0.9976260043827611, "sec": 2.03}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 12, "model": "LogReg", "acc": 0.9087837837837838, "auc": 0.9631117604090578, "sec": 0.22}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 12, "model": "HOG+SVM", "acc": 0.9358108108108109, "auc": 0.9888148283418553, "sec": 0.16}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 12, "model": "Random ferns", "acc": 0.8445945945945946, "auc": 0.8972562089116144, "sec": 0.13}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 12, "model": "CNN", "acc": 0.7871621621621622, "auc": 0.8929419284149013, "sec": 0.62}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 12, "model": "CNN+aug", "acc": 0.831081081081081, "auc": 0.956355003652301, "sec": 3.15}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 13, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 2.07}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 13, "model": "LogReg", "acc": 0.902027027027027, "auc": 0.9859842951059168, "sec": 0.02}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 13, "model": "HOG+SVM", "acc": 0.8648648648648649, "auc": 0.9639335281227173, "sec": 0.16}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 13, "model": "Random ferns", "acc": 0.847972972972973, "auc": 0.9560354273192111, "sec": 0.14}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 13, "model": "CNN", "acc": 0.9898648648648649, "auc": 0.9995891161431703, "sec": 0.65}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 13, "model": "CNN+aug", "acc": 0.9493243243243243, "auc": 0.9984934258582907, "sec": 2.93}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 14, "model": "CCA v2", "acc": 0.8344594594594594, "auc": 0.9682249817384954, "sec": 2.03}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 14, "model": "LogReg", "acc": 0.9594594594594594, "auc": 0.9977629656683711, "sec": 0.12}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 14, "model": "HOG+SVM", "acc": 0.9155405405405406, "auc": 0.9777666179693207, "sec": 0.16}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 14, "model": "Random ferns", "acc": 0.8209459459459459, "auc": 0.8874406501095691, "sec": 0.13}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 14, "model": "CNN", "acc": 0.831081081081081, "auc": 0.9024379108838568, "sec": 0.95}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 14, "model": "CNN+aug", "acc": 0.8885135135135135, "auc": 0.9943845872899927, "sec": 4.23}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 15, "model": "CCA v2", "acc": 0.7736486486486487, "auc": 0.7321037253469687, "sec": 2.09}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 15, "model": "LogReg", "acc": 0.7905405405405406, "auc": 0.7701333089846603, "sec": 0.02}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 15, "model": "HOG+SVM", "acc": 0.7567567567567568, "auc": 0.8411705624543462, "sec": 0.16}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 15, "model": "Random ferns", "acc": 0.7195945945945946, "auc": 0.7379702337472608, "sec": 0.13}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 15, "model": "CNN", "acc": 0.7567567567567568, "auc": 0.6441745799853908, "sec": 0.6}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 15, "model": "CNN+aug", "acc": 0.706081081081081, "auc": 0.7228360116873631, "sec": 3.07}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 16, "model": "CCA v2", "acc": 0.9966216216216216, "auc": 1.0, "sec": 2.11}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 16, "model": "LogReg", "acc": 0.9662162162162162, "auc": 1.0, "sec": 0.05}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 16, "model": "HOG+SVM", "acc": 0.9628378378378378, "auc": 0.995891161431702, "sec": 0.16}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 16, "model": "Random ferns", "acc": 0.956081081081081, "auc": 0.9926497443389335, "sec": 0.14}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 16, "model": "CNN", "acc": 0.9966216216216216, "auc": 1.0, "sec": 0.71}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 16, "model": "CNN+aug", "acc": 0.9898648648648649, "auc": 0.9990869247626004, "sec": 3.05}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 17, "model": "CCA v2", "acc": 0.8243243243243243, "auc": 0.8366051862673485, "sec": 2.03}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 17, "model": "LogReg", "acc": 0.8277027027027027, "auc": 0.8873265157048941, "sec": 0.05}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 17, "model": "HOG+SVM", "acc": 0.8006756756756757, "auc": 0.912367604090577, "sec": 0.16}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 17, "model": "Random ferns", "acc": 0.6756756756756757, "auc": 0.733313550036523, "sec": 0.13}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 17, "model": "CNN", "acc": 0.5675675675675675, "auc": 0.7096420745069394, "sec": 0.69}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 17, "model": "CNN+aug", "acc": 0.7736486486486487, "auc": 0.8070672023374725, "sec": 3.38}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 18, "model": "CCA v2", "acc": 0.902027027027027, "auc": 0.9779948867786705, "sec": 2.02}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 18, "model": "LogReg", "acc": 0.875, "auc": 0.9541636230825421, "sec": 0.03}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 18, "model": "HOG+SVM", "acc": 0.8682432432432432, "auc": 0.9406501095690284, "sec": 0.16}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 18, "model": "Random ferns", "acc": 0.7297297297297297, "auc": 0.8076378743608473, "sec": 0.13}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 18, "model": "CNN", "acc": 0.7331081081081081, "auc": 0.856327611395179, "sec": 0.6}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 18, "model": "CNN+aug", "acc": 0.8986486486486487, "auc": 0.9933345507669832, "sec": 3.12}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 19, "model": "CCA v2", "acc": 0.9290540540540541, "auc": 0.9996804236669102, "sec": 2.08}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 19, "model": "LogReg", "acc": 0.9087837837837838, "auc": 0.9886778670562455, "sec": 0.02}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 19, "model": "HOG+SVM", "acc": 0.9256756756756757, "auc": 0.9767165814463112, "sec": 0.16}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 19, "model": "Random ferns", "acc": 0.8986486486486487, "auc": 0.9721512052593133, "sec": 0.13}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 19, "model": "CNN", "acc": 0.8378378378378378, "auc": 0.9493243243243243, "sec": 0.64}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": 30, "n_per_class": 30, "n_test": 296, "seed": 19, "model": "CNN+aug", "acc": 0.9054054054054054, "auc": 0.9878104455807157, "sec": 3.05}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 10, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 24.26}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 10, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.74}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 10, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 2.78}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 10, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 0.67}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 10, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 4.82}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 10, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 9.6}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 11, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 23.93}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 11, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.54}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 11, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 2.46}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 11, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 0.64}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 11, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 4.76}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 11, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 9.42}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 12, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 24.23}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 12, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.59}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 12, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 2.57}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 12, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 0.65}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 12, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 4.69}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 12, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 12.5}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 13, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 24.99}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 13, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.63}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 13, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 2.56}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 13, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 0.64}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 13, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 4.65}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 13, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 9.16}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 14, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 24.16}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 14, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.6}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 14, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 2.49}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 14, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 0.64}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 14, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 4.6}
+{"task": "Apple Red v Tomato", "role": "fruits", "n": "all", "n_per_class": 1412, "n_test": 944, "seed": 14, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 9.75}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 10, "model": "CCA v2", "acc": 0.9664634146341463, "auc": 1.0, "sec": 22.66}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 10, "model": "LogReg", "acc": 0.8567073170731707, "auc": 0.9601427721594289, "sec": 4.73}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 10, "model": "HOG+SVM", "acc": 0.9115853658536586, "auc": 1.0, "sec": 0.86}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 10, "model": "Random ferns", "acc": 0.8384146341463414, "auc": 0.8719512195121951, "sec": 1.08}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 10, "model": "CNN", "acc": 0.8841463414634146, "auc": 0.983343248066627, "sec": 9.94}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 10, "model": "CNN+aug", "acc": 0.9329268292682927, "auc": 1.0, "sec": 49.25}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 11, "model": "CCA v2", "acc": 0.9634146341463414, "auc": 0.9999628197501487, "sec": 22.69}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 11, "model": "LogReg", "acc": 0.8536585365853658, "auc": 0.9630800118976799, "sec": 3.67}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 11, "model": "HOG+SVM", "acc": 0.9298780487804879, "auc": 1.0, "sec": 0.84}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 11, "model": "Random ferns", "acc": 0.8170731707317073, "auc": 0.8353658536585366, "sec": 1.1}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 11, "model": "CNN", "acc": 0.8414634146341463, "auc": 0.9625966686496134, "sec": 9.86}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 11, "model": "CNN+aug", "acc": 0.8932926829268293, "auc": 0.9961704342653183, "sec": 48.93}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 12, "model": "CCA v2", "acc": 0.975609756097561, "auc": 1.0, "sec": 22.95}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 12, "model": "LogReg", "acc": 0.8445121951219512, "auc": 0.9583581201665675, "sec": 5.78}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 12, "model": "HOG+SVM", "acc": 0.9176829268292683, "auc": 1.0, "sec": 0.81}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 12, "model": "Random ferns", "acc": 0.8079268292682927, "auc": 0.8475609756097561, "sec": 1.09}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 12, "model": "CNN", "acc": 0.875, "auc": 0.9944601427721593, "sec": 9.85}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 12, "model": "CNN+aug", "acc": 0.9969512195121951, "auc": 1.0, "sec": 48.83}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 13, "model": "CCA v2", "acc": 0.9634146341463414, "auc": 1.0, "sec": 22.76}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 13, "model": "LogReg", "acc": 0.8414634146341463, "auc": 0.9567221891731112, "sec": 5.66}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 13, "model": "HOG+SVM", "acc": 0.9359756097560976, "auc": 0.9997769185008923, "sec": 0.84}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 13, "model": "Random ferns", "acc": 0.8292682926829268, "auc": 0.8628048780487805, "sec": 1.08}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 13, "model": "CNN", "acc": 0.875, "auc": 0.9750148720999405, "sec": 9.79}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 13, "model": "CNN+aug", "acc": 0.948170731707317, "auc": 1.0, "sec": 48.62}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 14, "model": "CCA v2", "acc": 0.9817073170731707, "auc": 1.0, "sec": 22.81}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 14, "model": "LogReg", "acc": 0.8475609756097561, "auc": 0.9590273646638906, "sec": 4.79}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 14, "model": "HOG+SVM", "acc": 0.9359756097560976, "auc": 1.0, "sec": 0.79}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 14, "model": "Random ferns", "acc": 0.8170731707317073, "auc": 0.850609756097561, "sec": 1.08}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 14, "model": "CNN", "acc": 0.926829268292683, "auc": 1.0, "sec": 9.85}
+{"task": "Peach v Nectarine", "role": "fruits", "n": "all", "n_per_class": 492, "n_test": 328, "seed": 14, "model": "CNN+aug", "acc": 0.9451219512195121, "auc": 1.0, "sec": 53.85}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 10, "model": "CCA v2", "acc": 0.9664634146341463, "auc": 1.0, "sec": 23.66}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 10, "model": "LogReg", "acc": 0.9176829268292683, "auc": 1.0, "sec": 2.15}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 10, "model": "HOG+SVM", "acc": 0.9390243902439024, "auc": 0.9998512790005949, "sec": 0.79}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 10, "model": "Random ferns", "acc": 0.9207317073170732, "auc": 0.9481707317073171, "sec": 1.09}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 10, "model": "CNN", "acc": 0.9542682926829268, "auc": 1.0, "sec": 10.51}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 10, "model": "CNN+aug", "acc": 0.9908536585365854, "auc": 1.0, "sec": 56.88}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 11, "model": "CCA v2", "acc": 0.9512195121951219, "auc": 1.0, "sec": 22.78}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 11, "model": "LogReg", "acc": 0.9176829268292683, "auc": 1.0, "sec": 3.2}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 11, "model": "HOG+SVM", "acc": 0.9420731707317073, "auc": 0.9998512790005949, "sec": 0.81}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 11, "model": "Random ferns", "acc": 0.9542682926829268, "auc": 0.9725609756097561, "sec": 1.09}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 11, "model": "CNN", "acc": 0.9908536585365854, "auc": 1.0, "sec": 10.8}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 11, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 48.32}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 12, "model": "CCA v2", "acc": 0.9542682926829268, "auc": 1.0, "sec": 22.74}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 12, "model": "LogReg", "acc": 0.9176829268292683, "auc": 1.0, "sec": 2.84}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 12, "model": "HOG+SVM", "acc": 0.9390243902439024, "auc": 0.9998512790005949, "sec": 0.76}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 12, "model": "Random ferns", "acc": 0.9237804878048781, "auc": 0.9908536585365854, "sec": 1.06}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 12, "model": "CNN", "acc": 0.9512195121951219, "auc": 1.0, "sec": 9.44}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 12, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 47.18}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 13, "model": "CCA v2", "acc": 0.9664634146341463, "auc": 1.0, "sec": 23.55}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 13, "model": "LogReg", "acc": 0.9176829268292683, "auc": 1.0, "sec": 3.3}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 13, "model": "HOG+SVM", "acc": 0.9390243902439024, "auc": 0.9998512790005949, "sec": 0.79}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 13, "model": "Random ferns", "acc": 0.948170731707317, "auc": 0.9878048780487805, "sec": 1.75}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 13, "model": "CNN", "acc": 0.948170731707317, "auc": 1.0, "sec": 12.0}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 13, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 48.56}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 14, "model": "CCA v2", "acc": 0.9542682926829268, "auc": 1.0, "sec": 22.9}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 14, "model": "LogReg", "acc": 0.9176829268292683, "auc": 1.0, "sec": 3.1}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 14, "model": "HOG+SVM", "acc": 0.9390243902439024, "auc": 0.9998512790005949, "sec": 0.78}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 14, "model": "Random ferns", "acc": 0.9603658536585366, "auc": 0.9786585365853658, "sec": 1.07}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 14, "model": "CNN", "acc": 0.9695121951219512, "auc": 1.0, "sec": 9.53}
+{"task": "Lemon v Limes", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 328, "seed": 14, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 47.46}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 10, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 22.92}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 10, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 2.47}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 10, "model": "HOG+SVM", "acc": 0.9909638554216867, "auc": 1.0, "sec": 0.81}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 10, "model": "Random ferns", "acc": 0.7078313253012049, "auc": 0.7680722891566265, "sec": 1.07}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 10, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 9.37}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 10, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 47.36}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 11, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 22.63}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 11, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 1.92}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 11, "model": "HOG+SVM", "acc": 0.9819277108433735, "auc": 0.9998548410509508, "sec": 0.82}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 11, "model": "Random ferns", "acc": 0.7168674698795181, "auc": 0.7530120481927711, "sec": 1.07}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 11, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 9.43}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 11, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 47.41}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 12, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 22.65}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 12, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 1.91}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 12, "model": "HOG+SVM", "acc": 0.9789156626506024, "auc": 0.9999274205254755, "sec": 0.83}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 12, "model": "Random ferns", "acc": 0.7289156626506024, "auc": 0.7650602409638554, "sec": 1.08}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 12, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 9.59}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 12, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 51.62}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 13, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 23.41}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 13, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 2.11}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 13, "model": "HOG+SVM", "acc": 0.9879518072289156, "auc": 1.0, "sec": 0.84}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 13, "model": "Random ferns", "acc": 0.7259036144578314, "auc": 0.7831325301204819, "sec": 1.07}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 13, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 11.87}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 13, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 56.57}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 14, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 22.72}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 14, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 2.7}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 14, "model": "HOG+SVM", "acc": 0.9849397590361446, "auc": 0.9999274205254755, "sec": 0.81}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 14, "model": "Random ferns", "acc": 0.7078313253012049, "auc": 0.7469879518072289, "sec": 1.07}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 14, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 9.71}
+{"task": "Pear v Quince", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 14, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 58.21}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 10, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 22.74}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 10, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 0.88}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 10, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 0.69}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 10, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 1.2}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 10, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 10.15}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 10, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 49.95}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 11, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 22.68}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 11, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 1.29}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 11, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 0.72}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 11, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 1.23}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 11, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 11.53}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 11, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 56.46}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 12, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 22.99}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 12, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 1.12}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 12, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 0.73}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 12, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 1.37}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 12, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 10.43}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 12, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 53.3}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 13, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 22.89}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 13, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 1.0}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 13, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 0.7}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 13, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 1.11}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 13, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 13.66}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 13, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 62.98}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 14, "model": "CCA v2", "acc": 1.0, "auc": 1.0, "sec": 23.38}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 14, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 1.05}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 14, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 0.7}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 14, "model": "Random ferns", "acc": 1.0, "auc": 1.0, "sec": 1.18}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 14, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 12.28}
+{"task": "Mandarine v Clementine", "role": "fruits", "n": "all", "n_per_class": 490, "n_test": 332, "seed": 14, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 58.15}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 10, "model": "CCA v2", "acc": 0.9041095890410958, "auc": 0.9954025145430663, "sec": 21.42}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 10, "model": "LogReg", "acc": 0.9246575342465754, "auc": 0.9998592606492774, "sec": 4.54}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 10, "model": "HOG+SVM", "acc": 0.910958904109589, "auc": 0.9519140551698254, "sec": 0.7}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 10, "model": "Random ferns", "acc": 0.7705479452054794, "auc": 0.7808219178082192, "sec": 1.03}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 10, "model": "CNN", "acc": 0.958904109589041, "auc": 1.0, "sec": 10.15}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 10, "model": "CNN+aug", "acc": 0.9623287671232876, "auc": 1.0, "sec": 41.67}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 11, "model": "CCA v2", "acc": 0.9143835616438356, "auc": 0.996246950647401, "sec": 20.3}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 11, "model": "LogReg", "acc": 0.928082191780822, "auc": 0.9994839557140176, "sec": 2.6}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 11, "model": "HOG+SVM", "acc": 0.910958904109589, "auc": 0.9549634077688121, "sec": 0.69}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 11, "model": "Random ferns", "acc": 0.7705479452054794, "auc": 0.7773972602739726, "sec": 0.95}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 11, "model": "CNN", "acc": 0.9383561643835616, "auc": 0.998358040908238, "sec": 8.16}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 11, "model": "CNN+aug", "acc": 0.9828767123287672, "auc": 1.0, "sec": 45.03}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 12, "model": "CCA v2", "acc": 0.9315068493150684, "auc": 0.9963876899981234, "sec": 20.13}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 12, "model": "LogReg", "acc": 0.9246575342465754, "auc": 0.9993901294802026, "sec": 2.56}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 12, "model": "HOG+SVM", "acc": 0.910958904109589, "auc": 0.9531807093263276, "sec": 0.68}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 12, "model": "Random ferns", "acc": 0.7705479452054794, "auc": 0.7842465753424658, "sec": 0.96}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 12, "model": "CNN", "acc": 0.928082191780822, "auc": 0.9998592606492774, "sec": 8.28}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 12, "model": "CNN+aug", "acc": 0.9828767123287672, "auc": 1.0, "sec": 42.17}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 13, "model": "CCA v2", "acc": 0.928082191780822, "auc": 0.996246950647401, "sec": 20.26}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 13, "model": "LogReg", "acc": 0.9246575342465754, "auc": 1.0, "sec": 2.78}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 13, "model": "HOG+SVM", "acc": 0.910958904109589, "auc": 0.9530868830925127, "sec": 0.68}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 13, "model": "Random ferns", "acc": 0.7671232876712328, "auc": 0.7808219178082192, "sec": 0.95}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 13, "model": "CNN", "acc": 0.9006849315068494, "auc": 1.0, "sec": 8.41}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 13, "model": "CNN+aug", "acc": 0.9623287671232876, "auc": 1.0, "sec": 40.88}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 14, "model": "CCA v2", "acc": 0.9212328767123288, "auc": 0.9959654719459561, "sec": 20.29}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 14, "model": "LogReg", "acc": 0.9246575342465754, "auc": 0.9994839557140176, "sec": 3.17}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 14, "model": "HOG+SVM", "acc": 0.910958904109589, "auc": 0.9536967536123101, "sec": 0.71}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 14, "model": "Random ferns", "acc": 0.7636986301369864, "auc": 0.7705479452054795, "sec": 0.96}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 14, "model": "CNN", "acc": 0.9178082191780822, "auc": 0.9997185212985551, "sec": 8.17}
+{"task": "Onion White v Potato White", "role": "fruits", "n": "all", "n_per_class": 438, "n_test": 292, "seed": 14, "model": "CNN+aug", "acc": 0.976027397260274, "auc": 1.0, "sec": 40.12}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 10, "model": "CCA v2", "acc": 0.9797297297297297, "auc": 1.0, "sec": 20.73}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 10, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 1.83}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 10, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 0.79}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 10, "model": "Random ferns", "acc": 0.9155405405405406, "auc": 0.9742512783053323, "sec": 0.99}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 10, "model": "CNN", "acc": 0.9966216216216216, "auc": 1.0, "sec": 8.34}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 10, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 40.53}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 11, "model": "CCA v2", "acc": 0.972972972972973, "auc": 1.0, "sec": 20.39}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 11, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 2.72}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 11, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 0.75}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 11, "model": "Random ferns", "acc": 0.9459459459459459, "auc": 0.9936997808619431, "sec": 0.97}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 11, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 8.19}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 11, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 41.25}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 12, "model": "CCA v2", "acc": 0.9628378378378378, "auc": 1.0, "sec": 20.67}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 12, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 1.92}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 12, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 0.76}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 12, "model": "Random ferns", "acc": 0.9391891891891891, "auc": 0.9638422205989774, "sec": 0.96}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 12, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 8.14}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 12, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 40.47}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 13, "model": "CCA v2", "acc": 0.9932432432432432, "auc": 1.0, "sec": 20.51}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 13, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 2.0}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 13, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 0.76}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 13, "model": "Random ferns", "acc": 0.9628378378378378, "auc": 0.9679510591672753, "sec": 0.97}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 13, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 8.51}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 13, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 43.91}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 14, "model": "CCA v2", "acc": 0.9662162162162162, "auc": 1.0, "sec": 20.77}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 14, "model": "LogReg", "acc": 1.0, "auc": 1.0, "sec": 2.46}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 14, "model": "HOG+SVM", "acc": 1.0, "auc": 1.0, "sec": 0.75}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 14, "model": "Random ferns", "acc": 0.9628378378378378, "auc": 0.9831081081081081, "sec": 0.97}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 14, "model": "CNN", "acc": 1.0, "auc": 1.0, "sec": 8.18}
+{"task": "Pepper Green v Pepper Red", "role": "fruits", "n": "all", "n_per_class": 444, "n_test": 296, "seed": 14, "model": "CNN+aug", "acc": 1.0, "auc": 1.0, "sec": 43.4}
