@@ -87,3 +87,7 @@ p = model.predict_proba(X_test)          # probability of class 1
 
 - MNIST and Fashion-MNIST: OpenML (`mnist_784`, `Fashion-MNIST`).
 - Fruits-360 (Mureșan and Oltean, 2018): Hugging Face mirror `PedroSampaio/fruits-360`, official train/test split.
+
+## License
+
+MIT License. See `LICENSE`.
