@@ -1,0 +1,243 @@
+{"study": "main", "task": "MNIST 3v8", "n": 10, "seed": 0, "model": "cca2", "acc": 0.839, "auc": 0.984288, "sec": 1.77}
+{"study": "main", "task": "MNIST 3v8", "n": 10, "seed": 0, "model": "logreg", "acc": 0.872, "auc": 0.946188, "sec": 0.03}
+{"study": "main", "task": "MNIST 3v8", "n": 10, "seed": 0, "model": "hogsvm", "acc": 0.966, "auc": 0.996548, "sec": 0.39}
+{"study": "main", "task": "MNIST 3v8", "n": 10, "seed": 0, "model": "cnn", "acc": 0.92, "auc": 0.977468, "sec": 2.2}
+{"study": "main", "task": "MNIST 3v8", "n": 10, "seed": 0, "model": "cnn_aug", "acc": 0.919, "auc": 0.976312, "sec": 1.08}
+{"study": "dev", "task": "MNIST 3v8", "n": 10, "seed": 0, "model": "CCA v1 (no residual)", "acc": 0.729, "auc": 0.9087480000000001, "sec": 0.59}
+{"study": "dev", "task": "MNIST 3v8", "n": 10, "seed": 0, "model": "CCA v2 (concatenated fusion)", "acc": 0.824, "auc": 0.97924, "sec": 1.76}
+{"study": "main", "task": "MNIST 3v8", "n": 10, "seed": 1, "model": "cca2", "acc": 0.81, "auc": 0.93684, "sec": 1.73}
+{"study": "main", "task": "MNIST 3v8", "n": 10, "seed": 1, "model": "logreg", "acc": 0.848, "auc": 0.9247679999999999, "sec": 0.03}
+{"study": "main", "task": "MNIST 3v8", "n": 10, "seed": 1, "model": "hogsvm", "acc": 0.925, "auc": 0.983396, "sec": 0.39}
+{"study": "main", "task": "MNIST 3v8", "n": 10, "seed": 1, "model": "cnn", "acc": 0.88, "auc": 0.951244, "sec": 0.36}
+{"study": "main", "task": "MNIST 3v8", "n": 10, "seed": 1, "model": "cnn_aug", "acc": 0.917, "auc": 0.9768, "sec": 1.02}
+{"study": "dev", "task": "MNIST 3v8", "n": 10, "seed": 1, "model": "CCA v1 (no residual)", "acc": 0.865, "auc": 0.954332, "sec": 0.56}
+{"study": "dev", "task": "MNIST 3v8", "n": 10, "seed": 1, "model": "CCA v2 (concatenated fusion)", "acc": 0.798, "auc": 0.942072, "sec": 1.7}
+{"study": "main", "task": "MNIST 3v8", "n": 10, "seed": 2, "model": "cca2", "acc": 0.957, "auc": 0.9946919999999999, "sec": 1.72}
+{"study": "main", "task": "MNIST 3v8", "n": 10, "seed": 2, "model": "logreg", "acc": 0.898, "auc": 0.965624, "sec": 0.03}
+{"study": "main", "task": "MNIST 3v8", "n": 10, "seed": 2, "model": "hogsvm", "acc": 0.953, "auc": 0.992852, "sec": 0.39}
+{"study": "main", "task": "MNIST 3v8", "n": 10, "seed": 2, "model": "cnn", "acc": 0.907, "auc": 0.9680960000000001, "sec": 0.38}
+{"study": "main", "task": "MNIST 3v8", "n": 10, "seed": 2, "model": "cnn_aug", "acc": 0.926, "auc": 0.980496, "sec": 0.99}
+{"study": "dev", "task": "MNIST 3v8", "n": 10, "seed": 2, "model": "CCA v1 (no residual)", "acc": 0.765, "auc": 0.962068, "sec": 0.57}
+{"study": "dev", "task": "MNIST 3v8", "n": 10, "seed": 2, "model": "CCA v2 (concatenated fusion)", "acc": 0.946, "auc": 0.991136, "sec": 1.72}
+{"study": "main", "task": "MNIST 4v9", "n": 10, "seed": 0, "model": "cca2", "acc": 0.94, "auc": 0.994156, "sec": 1.73}
+{"study": "main", "task": "MNIST 4v9", "n": 10, "seed": 0, "model": "logreg", "acc": 0.816, "auc": 0.8997120000000001, "sec": 0.09}
+{"study": "main", "task": "MNIST 4v9", "n": 10, "seed": 0, "model": "hogsvm", "acc": 0.919, "auc": 0.982936, "sec": 0.39}
+{"study": "main", "task": "MNIST 4v9", "n": 10, "seed": 0, "model": "cnn", "acc": 0.832, "auc": 0.9243439999999999, "sec": 0.35}
+{"study": "main", "task": "MNIST 4v9", "n": 10, "seed": 0, "model": "cnn_aug", "acc": 0.901, "auc": 0.96436, "sec": 1.01}
+{"study": "dev", "task": "MNIST 4v9", "n": 10, "seed": 0, "model": "CCA v1 (no residual)", "acc": 0.862, "auc": 0.972016, "sec": 0.58}
+{"study": "dev", "task": "MNIST 4v9", "n": 10, "seed": 0, "model": "CCA v2 (concatenated fusion)", "acc": 0.944, "auc": 0.992392, "sec": 1.73}
+{"study": "main", "task": "MNIST 4v9", "n": 10, "seed": 1, "model": "cca2", "acc": 0.93, "auc": 0.9881800000000001, "sec": 1.77}
+{"study": "main", "task": "MNIST 4v9", "n": 10, "seed": 1, "model": "logreg", "acc": 0.887, "auc": 0.952528, "sec": 0.04}
+{"study": "main", "task": "MNIST 4v9", "n": 10, "seed": 1, "model": "hogsvm", "acc": 0.922, "auc": 0.981504, "sec": 0.38}
+{"study": "main", "task": "MNIST 4v9", "n": 10, "seed": 1, "model": "cnn", "acc": 0.898, "auc": 0.952052, "sec": 0.38}
+{"study": "main", "task": "MNIST 4v9", "n": 10, "seed": 1, "model": "cnn_aug", "acc": 0.91, "auc": 0.9736400000000001, "sec": 1.02}
+{"study": "dev", "task": "MNIST 4v9", "n": 10, "seed": 1, "model": "CCA v1 (no residual)", "acc": 0.84, "auc": 0.944388, "sec": 0.57}
+{"study": "dev", "task": "MNIST 4v9", "n": 10, "seed": 1, "model": "CCA v2 (concatenated fusion)", "acc": 0.928, "auc": 0.990312, "sec": 1.75}
+{"study": "main", "task": "MNIST 4v9", "n": 10, "seed": 2, "model": "cca2", "acc": 0.944, "auc": 0.990596, "sec": 1.73}
+{"study": "main", "task": "MNIST 4v9", "n": 10, "seed": 2, "model": "logreg", "acc": 0.861, "auc": 0.940312, "sec": 0.04}
+{"study": "main", "task": "MNIST 4v9", "n": 10, "seed": 2, "model": "hogsvm", "acc": 0.917, "auc": 0.9836239999999999, "sec": 0.39}
+{"study": "main", "task": "MNIST 4v9", "n": 10, "seed": 2, "model": "cnn", "acc": 0.804, "auc": 0.8736759999999999, "sec": 0.34}
+{"study": "main", "task": "MNIST 4v9", "n": 10, "seed": 2, "model": "cnn_aug", "acc": 0.822, "auc": 0.9061520000000002, "sec": 1.01}
+{"study": "dev", "task": "MNIST 4v9", "n": 10, "seed": 2, "model": "CCA v1 (no residual)", "acc": 0.92, "auc": 0.9772959999999999, "sec": 0.57}
+{"study": "dev", "task": "MNIST 4v9", "n": 10, "seed": 2, "model": "CCA v2 (concatenated fusion)", "acc": 0.932, "auc": 0.987716, "sec": 1.73}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 10, "seed": 0, "model": "cca2", "acc": 0.803, "auc": 0.896612, "sec": 1.79}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 10, "seed": 0, "model": "logreg", "acc": 0.804, "auc": 0.871408, "sec": 0.03}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 10, "seed": 0, "model": "hogsvm", "acc": 0.774, "auc": 0.867256, "sec": 0.41}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 10, "seed": 0, "model": "cnn", "acc": 0.792, "auc": 0.875348, "sec": 0.35}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 10, "seed": 0, "model": "cnn_aug", "acc": 0.804, "auc": 0.87062, "sec": 1.03}
+{"study": "dev", "task": "Fashion T-shirt v Shirt", "n": 10, "seed": 0, "model": "CCA v1 (no residual)", "acc": 0.759, "auc": 0.874476, "sec": 0.6}
+{"study": "dev", "task": "Fashion T-shirt v Shirt", "n": 10, "seed": 0, "model": "CCA v2 (concatenated fusion)", "acc": 0.776, "auc": 0.8894960000000001, "sec": 1.76}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 10, "seed": 1, "model": "cca2", "acc": 0.767, "auc": 0.8803239999999999, "sec": 1.79}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 10, "seed": 1, "model": "logreg", "acc": 0.783, "auc": 0.8863759999999999, "sec": 0.03}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 10, "seed": 1, "model": "hogsvm", "acc": 0.806, "auc": 0.907712, "sec": 0.41}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 10, "seed": 1, "model": "cnn", "acc": 0.772, "auc": 0.8786320000000001, "sec": 0.37}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 10, "seed": 1, "model": "cnn_aug", "acc": 0.766, "auc": 0.8728779999999999, "sec": 1.06}
+{"study": "dev", "task": "Fashion T-shirt v Shirt", "n": 10, "seed": 1, "model": "CCA v1 (no residual)", "acc": 0.744, "auc": 0.8168520000000001, "sec": 0.6}
+{"study": "dev", "task": "Fashion T-shirt v Shirt", "n": 10, "seed": 1, "model": "CCA v2 (concatenated fusion)", "acc": 0.789, "auc": 0.876308, "sec": 1.83}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 10, "seed": 2, "model": "cca2", "acc": 0.781, "auc": 0.868968, "sec": 1.83}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 10, "seed": 2, "model": "logreg", "acc": 0.795, "auc": 0.855116, "sec": 0.24}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 10, "seed": 2, "model": "hogsvm", "acc": 0.609, "auc": 0.6380399999999999, "sec": 0.41}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 10, "seed": 2, "model": "cnn", "acc": 0.784, "auc": 0.8423479999999999, "sec": 0.4}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 10, "seed": 2, "model": "cnn_aug", "acc": 0.781, "auc": 0.8297199999999999, "sec": 1.11}
+{"study": "dev", "task": "Fashion T-shirt v Shirt", "n": 10, "seed": 2, "model": "CCA v1 (no residual)", "acc": 0.77, "auc": 0.8547679999999999, "sec": 0.59}
+{"study": "dev", "task": "Fashion T-shirt v Shirt", "n": 10, "seed": 2, "model": "CCA v2 (concatenated fusion)", "acc": 0.749, "auc": 0.8171519999999999, "sec": 1.87}
+{"study": "main", "task": "MNIST 3v8", "n": 30, "seed": 0, "model": "cca2", "acc": 0.95, "auc": 0.993308, "sec": 2.56}
+{"study": "main", "task": "MNIST 3v8", "n": 30, "seed": 0, "model": "logreg", "acc": 0.924, "auc": 0.974248, "sec": 0.02}
+{"study": "main", "task": "MNIST 3v8", "n": 30, "seed": 0, "model": "hogsvm", "acc": 0.98, "auc": 0.997632, "sec": 0.42}
+{"study": "main", "task": "MNIST 3v8", "n": 30, "seed": 0, "model": "cnn", "acc": 0.947, "auc": 0.986036, "sec": 0.63}
+{"study": "main", "task": "MNIST 3v8", "n": 30, "seed": 0, "model": "cnn_aug", "acc": 0.96, "auc": 0.9944120000000001, "sec": 2.79}
+{"study": "ablation", "task": "MNIST 3v8", "n": 30, "seed": 0, "model": "ECA", "acc": 0.934, "auc": 0.983592, "sec": 0.4}
+{"study": "ablation", "task": "MNIST 3v8", "n": 30, "seed": 0, "model": "CCA v1", "acc": 0.947, "auc": 0.9894240000000001, "sec": 0.69}
+{"study": "ablation", "task": "MNIST 3v8", "n": 30, "seed": 0, "model": "CCA v2 (no aug)", "acc": 0.943, "auc": 0.989816, "sec": 1.83}
+{"study": "ablation", "task": "MNIST 3v8", "n": 30, "seed": 0, "model": "CCA v2", "acc": 0.95, "auc": 0.993308, "sec": 2.63}
+{"study": "main", "task": "MNIST 3v8", "n": 30, "seed": 1, "model": "cca2", "acc": 0.969, "auc": 0.998436, "sec": 2.58}
+{"study": "main", "task": "MNIST 3v8", "n": 30, "seed": 1, "model": "logreg", "acc": 0.93, "auc": 0.978436, "sec": 0.1}
+{"study": "main", "task": "MNIST 3v8", "n": 30, "seed": 1, "model": "hogsvm", "acc": 0.964, "auc": 0.995688, "sec": 0.41}
+{"study": "main", "task": "MNIST 3v8", "n": 30, "seed": 1, "model": "cnn", "acc": 0.944, "auc": 0.987148, "sec": 0.68}
+{"study": "main", "task": "MNIST 3v8", "n": 30, "seed": 1, "model": "cnn_aug", "acc": 0.951, "auc": 0.9895180000000001, "sec": 3.06}
+{"study": "ablation", "task": "MNIST 3v8", "n": 30, "seed": 1, "model": "ECA", "acc": 0.958, "auc": 0.9940359999999999, "sec": 0.41}
+{"study": "ablation", "task": "MNIST 3v8", "n": 30, "seed": 1, "model": "CCA v1", "acc": 0.958, "auc": 0.995868, "sec": 0.68}
+{"study": "ablation", "task": "MNIST 3v8", "n": 30, "seed": 1, "model": "CCA v2 (no aug)", "acc": 0.956, "auc": 0.9958640000000001, "sec": 1.78}
+{"study": "ablation", "task": "MNIST 3v8", "n": 30, "seed": 1, "model": "CCA v2", "acc": 0.969, "auc": 0.998436, "sec": 2.55}
+{"study": "main", "task": "MNIST 3v8", "n": 30, "seed": 2, "model": "cca2", "acc": 0.964, "auc": 0.995704, "sec": 2.54}
+{"study": "main", "task": "MNIST 3v8", "n": 30, "seed": 2, "model": "logreg", "acc": 0.922, "auc": 0.975664, "sec": 0.02}
+{"study": "main", "task": "MNIST 3v8", "n": 30, "seed": 2, "model": "hogsvm", "acc": 0.971, "auc": 0.9964959999999999, "sec": 0.41}
+{"study": "main", "task": "MNIST 3v8", "n": 30, "seed": 2, "model": "cnn", "acc": 0.93, "auc": 0.975688, "sec": 0.69}
+{"study": "main", "task": "MNIST 3v8", "n": 30, "seed": 2, "model": "cnn_aug", "acc": 0.955, "auc": 0.9932240000000001, "sec": 2.86}
+{"study": "ablation", "task": "MNIST 3v8", "n": 30, "seed": 2, "model": "ECA", "acc": 0.935, "auc": 0.98858, "sec": 0.4}
+{"study": "ablation", "task": "MNIST 3v8", "n": 30, "seed": 2, "model": "CCA v1", "acc": 0.943, "auc": 0.9897320000000001, "sec": 0.67}
+{"study": "ablation", "task": "MNIST 3v8", "n": 30, "seed": 2, "model": "CCA v2 (no aug)", "acc": 0.941, "auc": 0.9896079999999999, "sec": 1.76}
+{"study": "ablation", "task": "MNIST 3v8", "n": 30, "seed": 2, "model": "CCA v2", "acc": 0.964, "auc": 0.995704, "sec": 2.57}
+{"study": "main", "task": "MNIST 4v9", "n": 30, "seed": 0, "model": "cca2", "acc": 0.959, "auc": 0.9963960000000001, "sec": 2.57}
+{"study": "main", "task": "MNIST 4v9", "n": 30, "seed": 0, "model": "logreg", "acc": 0.89, "auc": 0.9533119999999999, "sec": 0.01}
+{"study": "main", "task": "MNIST 4v9", "n": 30, "seed": 0, "model": "hogsvm", "acc": 0.937, "auc": 0.989804, "sec": 0.41}
+{"study": "main", "task": "MNIST 4v9", "n": 30, "seed": 0, "model": "cnn", "acc": 0.925, "auc": 0.97968, "sec": 0.65}
+{"study": "main", "task": "MNIST 4v9", "n": 30, "seed": 0, "model": "cnn_aug", "acc": 0.966, "auc": 0.996864, "sec": 3.03}
+{"study": "ablation", "task": "MNIST 4v9", "n": 30, "seed": 0, "model": "ECA", "acc": 0.912, "auc": 0.9757600000000001, "sec": 0.4}
+{"study": "ablation", "task": "MNIST 4v9", "n": 30, "seed": 0, "model": "CCA v1", "acc": 0.919, "auc": 0.9860439999999999, "sec": 0.68}
+{"study": "ablation", "task": "MNIST 4v9", "n": 30, "seed": 0, "model": "CCA v2 (no aug)", "acc": 0.949, "auc": 0.992916, "sec": 1.76}
+{"study": "ablation", "task": "MNIST 4v9", "n": 30, "seed": 0, "model": "CCA v2", "acc": 0.959, "auc": 0.9963960000000001, "sec": 2.56}
+{"study": "main", "task": "MNIST 4v9", "n": 30, "seed": 1, "model": "cca2", "acc": 0.979, "auc": 0.9984719999999999, "sec": 2.54}
+{"study": "main", "task": "MNIST 4v9", "n": 30, "seed": 1, "model": "logreg", "acc": 0.915, "auc": 0.972776, "sec": 0.03}
+{"study": "main", "task": "MNIST 4v9", "n": 30, "seed": 1, "model": "hogsvm", "acc": 0.976, "auc": 0.996754, "sec": 0.41}
+{"study": "main", "task": "MNIST 4v9", "n": 30, "seed": 1, "model": "cnn", "acc": 0.955, "auc": 0.990532, "sec": 0.64}
+{"study": "main", "task": "MNIST 4v9", "n": 30, "seed": 1, "model": "cnn_aug", "acc": 0.98, "auc": 0.9973519999999999, "sec": 2.88}
+{"study": "ablation", "task": "MNIST 4v9", "n": 30, "seed": 1, "model": "ECA", "acc": 0.969, "auc": 0.997332, "sec": 0.4}
+{"study": "ablation", "task": "MNIST 4v9", "n": 30, "seed": 1, "model": "CCA v1", "acc": 0.973, "auc": 0.995968, "sec": 0.67}
+{"study": "ablation", "task": "MNIST 4v9", "n": 30, "seed": 1, "model": "CCA v2 (no aug)", "acc": 0.973, "auc": 0.9966999999999999, "sec": 1.77}
+{"study": "ablation", "task": "MNIST 4v9", "n": 30, "seed": 1, "model": "CCA v2", "acc": 0.979, "auc": 0.9984719999999999, "sec": 2.58}
+{"study": "main", "task": "MNIST 4v9", "n": 30, "seed": 2, "model": "cca2", "acc": 0.973, "auc": 0.99756, "sec": 2.55}
+{"study": "main", "task": "MNIST 4v9", "n": 30, "seed": 2, "model": "logreg", "acc": 0.932, "auc": 0.981544, "sec": 0.03}
+{"study": "main", "task": "MNIST 4v9", "n": 30, "seed": 2, "model": "hogsvm", "acc": 0.955, "auc": 0.9917720000000001, "sec": 0.42}
+{"study": "main", "task": "MNIST 4v9", "n": 30, "seed": 2, "model": "cnn", "acc": 0.951, "auc": 0.989472, "sec": 0.6}
+{"study": "main", "task": "MNIST 4v9", "n": 30, "seed": 2, "model": "cnn_aug", "acc": 0.969, "auc": 0.9941180000000001, "sec": 2.88}
+{"study": "ablation", "task": "MNIST 4v9", "n": 30, "seed": 2, "model": "ECA", "acc": 0.954, "auc": 0.995992, "sec": 0.4}
+{"study": "ablation", "task": "MNIST 4v9", "n": 30, "seed": 2, "model": "CCA v1", "acc": 0.957, "auc": 0.9957400000000001, "sec": 0.67}
+{"study": "ablation", "task": "MNIST 4v9", "n": 30, "seed": 2, "model": "CCA v2 (no aug)", "acc": 0.967, "auc": 0.99654, "sec": 1.75}
+{"study": "ablation", "task": "MNIST 4v9", "n": 30, "seed": 2, "model": "CCA v2", "acc": 0.973, "auc": 0.99756, "sec": 2.5}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 0, "model": "cca2", "acc": 0.805, "auc": 0.8986600000000001, "sec": 2.58}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 0, "model": "logreg", "acc": 0.809, "auc": 0.888584, "sec": 0.03}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 0, "model": "hogsvm", "acc": 0.808, "auc": 0.8863399999999999, "sec": 0.44}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 0, "model": "cnn", "acc": 0.799, "auc": 0.8833759999999998, "sec": 0.61}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 0, "model": "cnn_aug", "acc": 0.808, "auc": 0.8652, "sec": 2.64}
+{"study": "ablation", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 0, "model": "ECA", "acc": 0.776, "auc": 0.8890879999999999, "sec": 0.4}
+{"study": "ablation", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 0, "model": "CCA v1", "acc": 0.786, "auc": 0.8901840000000001, "sec": 0.68}
+{"study": "ablation", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 0, "model": "CCA v2 (no aug)", "acc": 0.799, "auc": 0.897256, "sec": 1.77}
+{"study": "ablation", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 0, "model": "CCA v2", "acc": 0.805, "auc": 0.8986600000000001, "sec": 2.58}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 1, "model": "cca2", "acc": 0.818, "auc": 0.906512, "sec": 2.59}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 1, "model": "logreg", "acc": 0.803, "auc": 0.8901919999999999, "sec": 0.03}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 1, "model": "hogsvm", "acc": 0.817, "auc": 0.916184, "sec": 0.44}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 1, "model": "cnn", "acc": 0.786, "auc": 0.8927919999999999, "sec": 0.63}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 1, "model": "cnn_aug", "acc": 0.793, "auc": 0.8832199999999999, "sec": 2.62}
+{"study": "ablation", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 1, "model": "ECA", "acc": 0.782, "auc": 0.8825800000000001, "sec": 0.4}
+{"study": "ablation", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 1, "model": "CCA v1", "acc": 0.798, "auc": 0.898272, "sec": 0.67}
+{"study": "ablation", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 1, "model": "CCA v2 (no aug)", "acc": 0.82, "auc": 0.9048479999999999, "sec": 1.77}
+{"study": "ablation", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 1, "model": "CCA v2", "acc": 0.818, "auc": 0.906512, "sec": 2.56}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 2, "model": "cca2", "acc": 0.816, "auc": 0.893508, "sec": 2.58}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 2, "model": "logreg", "acc": 0.816, "auc": 0.8773519999999999, "sec": 0.03}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 2, "model": "hogsvm", "acc": 0.805, "auc": 0.872932, "sec": 0.44}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 2, "model": "cnn", "acc": 0.811, "auc": 0.8833640000000001, "sec": 0.61}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 2, "model": "cnn_aug", "acc": 0.783, "auc": 0.8551359999999999, "sec": 2.65}
+{"study": "ablation", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 2, "model": "ECA", "acc": 0.811, "auc": 0.89722, "sec": 0.4}
+{"study": "ablation", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 2, "model": "CCA v1", "acc": 0.809, "auc": 0.897068, "sec": 0.67}
+{"study": "ablation", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 2, "model": "CCA v2 (no aug)", "acc": 0.804, "auc": 0.88512, "sec": 1.76}
+{"study": "ablation", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 2, "model": "CCA v2", "acc": 0.816, "auc": 0.893508, "sec": 2.57}
+{"study": "main", "task": "MNIST 3v8", "n": 2000, "seed": 0, "model": "cca2", "acc": 0.992, "auc": 0.9998279999999999, "sec": 33.03}
+{"study": "main", "task": "MNIST 3v8", "n": 2000, "seed": 0, "model": "logreg", "acc": 0.958, "auc": 0.992164, "sec": 3.58}
+{"study": "main", "task": "MNIST 3v8", "n": 2000, "seed": 0, "model": "hogsvm", "acc": 0.983, "auc": 0.99922, "sec": 6.2}
+{"study": "main", "task": "MNIST 3v8", "n": 2000, "seed": 0, "model": "cnn", "acc": 0.989, "auc": 0.99978, "sec": 6.29}
+{"study": "ablation", "task": "MNIST 3v8", "n": 2000, "seed": 0, "model": "ECA", "acc": 0.962, "auc": 0.9958279999999999, "sec": 4.15}
+{"study": "ablation", "task": "MNIST 3v8", "n": 2000, "seed": 0, "model": "CCA v1", "acc": 0.973, "auc": 0.9980640000000001, "sec": 11.3}
+{"study": "ablation", "task": "MNIST 3v8", "n": 2000, "seed": 0, "model": "CCA v2", "acc": 0.992, "auc": 0.9998279999999999, "sec": 33.09}
+{"study": "dev", "task": "MNIST 3v8", "n": 2000, "seed": 0, "model": "CCA v2 (averaged fusion)", "acc": 0.973, "auc": 0.996712, "sec": 32.82}
+{"study": "main", "task": "MNIST 3v8", "n": 2000, "seed": 1, "model": "cca2", "acc": 0.996, "auc": 0.999728, "sec": 32.9}
+{"study": "main", "task": "MNIST 3v8", "n": 2000, "seed": 1, "model": "logreg", "acc": 0.965, "auc": 0.987076, "sec": 2.74}
+{"study": "main", "task": "MNIST 3v8", "n": 2000, "seed": 1, "model": "hogsvm", "acc": 0.996, "auc": 0.9998239999999999, "sec": 6.76}
+{"study": "main", "task": "MNIST 3v8", "n": 2000, "seed": 1, "model": "cnn", "acc": 0.991, "auc": 0.9997199999999999, "sec": 6.03}
+{"study": "ablation", "task": "MNIST 3v8", "n": 2000, "seed": 1, "model": "ECA", "acc": 0.98, "auc": 0.9973000000000001, "sec": 4.0}
+{"study": "ablation", "task": "MNIST 3v8", "n": 2000, "seed": 1, "model": "CCA v1", "acc": 0.984, "auc": 0.998464, "sec": 11.12}
+{"study": "ablation", "task": "MNIST 3v8", "n": 2000, "seed": 1, "model": "CCA v2", "acc": 0.996, "auc": 0.999728, "sec": 33.07}
+{"study": "dev", "task": "MNIST 3v8", "n": 2000, "seed": 1, "model": "CCA v2 (averaged fusion)", "acc": 0.979, "auc": 0.9974879999999999, "sec": 32.96}
+{"study": "main", "task": "MNIST 3v8", "n": 2000, "seed": 2, "model": "cca2", "acc": 0.99, "auc": 0.9998199999999999, "sec": 32.82}
+{"study": "main", "task": "MNIST 3v8", "n": 2000, "seed": 2, "model": "logreg", "acc": 0.962, "auc": 0.9871759999999999, "sec": 2.55}
+{"study": "main", "task": "MNIST 3v8", "n": 2000, "seed": 2, "model": "hogsvm", "acc": 0.987, "auc": 0.9994879999999999, "sec": 6.4}
+{"study": "main", "task": "MNIST 3v8", "n": 2000, "seed": 2, "model": "cnn", "acc": 0.99, "auc": 0.999656, "sec": 6.09}
+{"study": "ablation", "task": "MNIST 3v8", "n": 2000, "seed": 2, "model": "ECA", "acc": 0.98, "auc": 0.997124, "sec": 4.02}
+{"study": "ablation", "task": "MNIST 3v8", "n": 2000, "seed": 2, "model": "CCA v1", "acc": 0.984, "auc": 0.998304, "sec": 11.3}
+{"study": "ablation", "task": "MNIST 3v8", "n": 2000, "seed": 2, "model": "CCA v2", "acc": 0.99, "auc": 0.9998199999999999, "sec": 33.57}
+{"study": "dev", "task": "MNIST 3v8", "n": 2000, "seed": 2, "model": "CCA v2 (averaged fusion)", "acc": 0.978, "auc": 0.997328, "sec": 33.11}
+{"study": "main", "task": "MNIST 4v9", "n": 2000, "seed": 0, "model": "cca2", "acc": 0.988, "auc": 0.9989680000000001, "sec": 33.09}
+{"study": "main", "task": "MNIST 4v9", "n": 2000, "seed": 0, "model": "logreg", "acc": 0.958, "auc": 0.9907680000000001, "sec": 3.25}
+{"study": "main", "task": "MNIST 4v9", "n": 2000, "seed": 0, "model": "hogsvm", "acc": 0.992, "auc": 0.9994879999999999, "sec": 6.58}
+{"study": "main", "task": "MNIST 4v9", "n": 2000, "seed": 0, "model": "cnn", "acc": 0.988, "auc": 0.999448, "sec": 6.09}
+{"study": "ablation", "task": "MNIST 4v9", "n": 2000, "seed": 0, "model": "ECA", "acc": 0.988, "auc": 0.998764, "sec": 3.97}
+{"study": "ablation", "task": "MNIST 4v9", "n": 2000, "seed": 0, "model": "CCA v1", "acc": 0.985, "auc": 0.998176, "sec": 11.14}
+{"study": "ablation", "task": "MNIST 4v9", "n": 2000, "seed": 0, "model": "CCA v2", "acc": 0.988, "auc": 0.9989680000000001, "sec": 32.93}
+{"study": "dev", "task": "MNIST 4v9", "n": 2000, "seed": 0, "model": "CCA v2 (averaged fusion)", "acc": 0.982, "auc": 0.997716, "sec": 32.61}
+{"study": "main", "task": "MNIST 4v9", "n": 2000, "seed": 1, "model": "cca2", "acc": 0.988, "auc": 0.9989, "sec": 32.54}
+{"study": "main", "task": "MNIST 4v9", "n": 2000, "seed": 1, "model": "logreg", "acc": 0.97, "auc": 0.994668, "sec": 3.46}
+{"study": "main", "task": "MNIST 4v9", "n": 2000, "seed": 1, "model": "hogsvm", "acc": 0.989, "auc": 0.9994719999999999, "sec": 6.36}
+{"study": "main", "task": "MNIST 4v9", "n": 2000, "seed": 1, "model": "cnn", "acc": 0.992, "auc": 0.9997119999999999, "sec": 5.5}
+{"study": "ablation", "task": "MNIST 4v9", "n": 2000, "seed": 1, "model": "ECA", "acc": 0.986, "auc": 0.99864, "sec": 3.96}
+{"study": "ablation", "task": "MNIST 4v9", "n": 2000, "seed": 1, "model": "CCA v1", "acc": 0.983, "auc": 0.998344, "sec": 11.05}
+{"study": "ablation", "task": "MNIST 4v9", "n": 2000, "seed": 1, "model": "CCA v2", "acc": 0.988, "auc": 0.9989, "sec": 32.74}
+{"study": "dev", "task": "MNIST 4v9", "n": 2000, "seed": 1, "model": "CCA v2 (averaged fusion)", "acc": 0.98, "auc": 0.99788, "sec": 32.69}
+{"study": "main", "task": "MNIST 4v9", "n": 2000, "seed": 2, "model": "cca2", "acc": 0.986, "auc": 0.997688, "sec": 32.62}
+{"study": "main", "task": "MNIST 4v9", "n": 2000, "seed": 2, "model": "logreg", "acc": 0.963, "auc": 0.992528, "sec": 3.01}
+{"study": "main", "task": "MNIST 4v9", "n": 2000, "seed": 2, "model": "hogsvm", "acc": 0.984, "auc": 0.998888, "sec": 6.69}
+{"study": "main", "task": "MNIST 4v9", "n": 2000, "seed": 2, "model": "cnn", "acc": 0.989, "auc": 0.99771, "sec": 6.12}
+{"study": "ablation", "task": "MNIST 4v9", "n": 2000, "seed": 2, "model": "ECA", "acc": 0.984, "auc": 0.9972559999999999, "sec": 4.09}
+{"study": "ablation", "task": "MNIST 4v9", "n": 2000, "seed": 2, "model": "CCA v1", "acc": 0.982, "auc": 0.997356, "sec": 11.57}
+{"study": "ablation", "task": "MNIST 4v9", "n": 2000, "seed": 2, "model": "CCA v2", "acc": 0.986, "auc": 0.997688, "sec": 32.85}
+{"study": "dev", "task": "MNIST 4v9", "n": 2000, "seed": 2, "model": "CCA v2 (averaged fusion)", "acc": 0.981, "auc": 0.996804, "sec": 33.33}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 2000, "seed": 0, "model": "cca2", "acc": 0.839, "auc": 0.933984, "sec": 34.47}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 2000, "seed": 0, "model": "logreg", "acc": 0.852, "auc": 0.918508, "sec": 8.93}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 2000, "seed": 0, "model": "hogsvm", "acc": 0.87, "auc": 0.946034, "sec": 17.69}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 2000, "seed": 0, "model": "cnn", "acc": 0.861, "auc": 0.9415880000000001, "sec": 6.11}
+{"study": "ablation", "task": "Fashion T-shirt v Shirt", "n": 2000, "seed": 0, "model": "ECA", "acc": 0.821, "auc": 0.9235039999999999, "sec": 4.26}
+{"study": "ablation", "task": "Fashion T-shirt v Shirt", "n": 2000, "seed": 0, "model": "CCA v1", "acc": 0.83, "auc": 0.931612, "sec": 11.59}
+{"study": "ablation", "task": "Fashion T-shirt v Shirt", "n": 2000, "seed": 0, "model": "CCA v2", "acc": 0.839, "auc": 0.933984, "sec": 34.42}
+{"study": "dev", "task": "Fashion T-shirt v Shirt", "n": 2000, "seed": 0, "model": "CCA v2 (averaged fusion)", "acc": 0.828, "auc": 0.93228, "sec": 33.79}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 2000, "seed": 1, "model": "cca2", "acc": 0.839, "auc": 0.9305599999999998, "sec": 33.99}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 2000, "seed": 1, "model": "logreg", "acc": 0.829, "auc": 0.9127799999999999, "sec": 8.57}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 2000, "seed": 1, "model": "hogsvm", "acc": 0.872, "auc": 0.9489279999999999, "sec": 17.37}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 2000, "seed": 1, "model": "cnn", "acc": 0.841, "auc": 0.9292600000000001, "sec": 6.22}
+{"study": "ablation", "task": "Fashion T-shirt v Shirt", "n": 2000, "seed": 1, "model": "ECA", "acc": 0.827, "auc": 0.9225639999999999, "sec": 4.16}
+{"study": "ablation", "task": "Fashion T-shirt v Shirt", "n": 2000, "seed": 1, "model": "CCA v1", "acc": 0.829, "auc": 0.928888, "sec": 11.51}
+{"study": "ablation", "task": "Fashion T-shirt v Shirt", "n": 2000, "seed": 1, "model": "CCA v2", "acc": 0.839, "auc": 0.9305599999999998, "sec": 33.84}
+{"study": "dev", "task": "Fashion T-shirt v Shirt", "n": 2000, "seed": 1, "model": "CCA v2 (averaged fusion)", "acc": 0.828, "auc": 0.927964, "sec": 33.84}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 2000, "seed": 2, "model": "cca2", "acc": 0.824, "auc": 0.9201840000000001, "sec": 33.84}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 2000, "seed": 2, "model": "logreg", "acc": 0.85, "auc": 0.9202400000000001, "sec": 8.56}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 2000, "seed": 2, "model": "hogsvm", "acc": 0.859, "auc": 0.937934, "sec": 18.56}
+{"study": "main", "task": "Fashion T-shirt v Shirt", "n": 2000, "seed": 2, "model": "cnn", "acc": 0.858, "auc": 0.9365199999999999, "sec": 6.23}
+{"study": "ablation", "task": "Fashion T-shirt v Shirt", "n": 2000, "seed": 2, "model": "ECA", "acc": 0.812, "auc": 0.9104960000000001, "sec": 4.21}
+{"study": "ablation", "task": "Fashion T-shirt v Shirt", "n": 2000, "seed": 2, "model": "CCA v1", "acc": 0.813, "auc": 0.915252, "sec": 11.55}
+{"study": "ablation", "task": "Fashion T-shirt v Shirt", "n": 2000, "seed": 2, "model": "CCA v2", "acc": 0.824, "auc": 0.9201840000000001, "sec": 33.91}
+{"study": "dev", "task": "Fashion T-shirt v Shirt", "n": 2000, "seed": 2, "model": "CCA v2 (averaged fusion)", "acc": 0.815, "auc": 0.9162719999999999, "sec": 34.06}
+{"study": "dev", "task": "MNIST 3v8", "n": 10, "seed": 0, "model": "CCA v1", "acc": 0.89, "auc": 0.97104, "sec": 0.57}
+{"study": "dev", "task": "MNIST 3v8", "n": 10, "seed": 1, "model": "CCA v1", "acc": 0.857, "auc": 0.952076, "sec": 0.59}
+{"study": "dev", "task": "MNIST 3v8", "n": 10, "seed": 2, "model": "CCA v1", "acc": 0.866, "auc": 0.971016, "sec": 0.58}
+{"study": "dev", "task": "MNIST 4v9", "n": 10, "seed": 0, "model": "CCA v1", "acc": 0.855, "auc": 0.967868, "sec": 0.58}
+{"study": "dev", "task": "MNIST 4v9", "n": 10, "seed": 1, "model": "CCA v1", "acc": 0.901, "auc": 0.970436, "sec": 0.57}
+{"study": "dev", "task": "MNIST 4v9", "n": 10, "seed": 2, "model": "CCA v1", "acc": 0.915, "auc": 0.977216, "sec": 0.58}
+{"study": "dev", "task": "Fashion T-shirt v Shirt", "n": 10, "seed": 0, "model": "CCA v1", "acc": 0.782, "auc": 0.895376, "sec": 0.58}
+{"study": "dev", "task": "Fashion T-shirt v Shirt", "n": 10, "seed": 1, "model": "CCA v1", "acc": 0.766, "auc": 0.87636, "sec": 0.61}
+{"study": "dev", "task": "Fashion T-shirt v Shirt", "n": 10, "seed": 2, "model": "CCA v1", "acc": 0.776, "auc": 0.874864, "sec": 0.61}
+{"study": "ablation", "task": "MNIST 3v8", "n": 30, "seed": 0, "model": "ECA + fixed CA rule", "acc": 0.933, "auc": 0.984704, "sec": 0.8}
+{"study": "ablation", "task": "MNIST 3v8", "n": 30, "seed": 1, "model": "ECA + fixed CA rule", "acc": 0.946, "auc": 0.989452, "sec": 0.78}
+{"study": "ablation", "task": "MNIST 3v8", "n": 30, "seed": 2, "model": "ECA + fixed CA rule", "acc": 0.939, "auc": 0.985924, "sec": 0.78}
+{"study": "ablation", "task": "MNIST 4v9", "n": 30, "seed": 0, "model": "ECA + fixed CA rule", "acc": 0.868, "auc": 0.94222, "sec": 0.81}
+{"study": "ablation", "task": "MNIST 4v9", "n": 30, "seed": 1, "model": "ECA + fixed CA rule", "acc": 0.94, "auc": 0.9891840000000001, "sec": 0.78}
+{"study": "ablation", "task": "MNIST 4v9", "n": 30, "seed": 2, "model": "ECA + fixed CA rule", "acc": 0.943, "auc": 0.98428, "sec": 0.78}
+{"study": "ablation", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 0, "model": "ECA + fixed CA rule", "acc": 0.772, "auc": 0.833368, "sec": 0.78}
+{"study": "ablation", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 1, "model": "ECA + fixed CA rule", "acc": 0.779, "auc": 0.849384, "sec": 0.79}
+{"study": "ablation", "task": "Fashion T-shirt v Shirt", "n": 30, "seed": 2, "model": "ECA + fixed CA rule", "acc": 0.797, "auc": 0.8946319999999999, "sec": 0.78}
+{"study": "ablation", "task": "MNIST 3v8", "n": 2000, "seed": 0, "model": "ECA + fixed CA rule", "acc": 0.937, "auc": 0.989672, "sec": 5.91}
+{"study": "ablation", "task": "MNIST 3v8", "n": 2000, "seed": 1, "model": "ECA + fixed CA rule", "acc": 0.953, "auc": 0.9925919999999999, "sec": 5.89}
+{"study": "ablation", "task": "MNIST 3v8", "n": 2000, "seed": 2, "model": "ECA + fixed CA rule", "acc": 0.948, "auc": 0.9910919999999999, "sec": 5.87}
+{"study": "ablation", "task": "MNIST 4v9", "n": 2000, "seed": 0, "model": "ECA + fixed CA rule", "acc": 0.95, "auc": 0.989472, "sec": 5.87}
+{"study": "ablation", "task": "MNIST 4v9", "n": 2000, "seed": 1, "model": "ECA + fixed CA rule", "acc": 0.954, "auc": 0.989668, "sec": 5.83}
+{"study": "ablation", "task": "MNIST 4v9", "n": 2000, "seed": 2, "model": "ECA + fixed CA rule", "acc": 0.951, "auc": 0.9905599999999999, "sec": 5.86}
+{"study": "ablation", "task": "Fashion T-shirt v Shirt", "n": 2000, "seed": 0, "model": "ECA + fixed CA rule", "acc": 0.801, "auc": 0.9014800000000001, "sec": 6.04}
+{"study": "ablation", "task": "Fashion T-shirt v Shirt", "n": 2000, "seed": 1, "model": "ECA + fixed CA rule", "acc": 0.83, "auc": 0.9096960000000001, "sec": 6.05}
+{"study": "ablation", "task": "Fashion T-shirt v Shirt", "n": 2000, "seed": 2, "model": "ECA + fixed CA rule", "acc": 0.795, "auc": 0.8946160000000001, "sec": 6.04}
