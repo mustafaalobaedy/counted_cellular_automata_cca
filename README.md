@@ -23,7 +23,8 @@ Run every script from the repository root.
 | `ferns.py` | Random ferns baseline |
 | `data.py` | MNIST / Fashion-MNIST download (OpenML) and task sampling |
 | `data_fruits.py` | Fruits-360 download (Hugging Face mirror `PedroSampaio/fruits-360`) and preprocessing |
-| `run_experiments.py` | Exploratory study, one run per call |
+| `run_experiments.py` | Exploratory study, one setting per call |
+| `explore.py`, `analysis_explore.py` | Exploratory study, ablation, development checks, cost table and figures 4-6 |
 | `confirm.py`, `run_strong.py` | Confirmatory study (MNIST / Fashion-MNIST) |
 | `final_analysis.py`, `final_figs.py` | Statistics and figures of the confirmatory study |
 | `confirm_fruits.py` | Real-world study (Fruits-360) |
@@ -52,11 +53,22 @@ python analysis_fruits.py   # -> results/analysis_fruits.json, figures/fig10-11
 python fruits_samples.py    # -> figures/fig12
 ```
 
-**3. Exploratory study** (example: CCA with 30 images per class on MNIST 3 vs 8, seeds 0-2)
+**3. Exploratory study and ablation** (3 development tasks, 10, 30 and 2000 training images per class, seeds 0-2)
+
+```bash
+python data.py              # if not done already
+python explore.py           # -> results/results_explore.jsonl
+python analysis_explore.py  # -> results/analysis_explore.json, figures/fig4-6
+```
+
+A single setting can also be run on its own, for example CCA with 30 images per class on MNIST 3 vs 8:
 
 ```bash
 python run_experiments.py 30 "MNIST 3v8" cca2     # models: cca2, logreg, hogsvm, cnn, cnn_aug
 ```
+
+The timings in the cost table depend on the machine; the reported ones were measured on the CPU of an
+NVIDIA Jetson AGX Orin 32 GB.
 
 **4. Worked example**
 
@@ -70,7 +82,8 @@ python toy_example.py       # -> results/toy.json
   present, so they can be interrupted and restarted. The `results/` folder already holds the runs reported in
   the paper. To recompute them from scratch, delete or rename `results/results_*.jsonl` first.
 - To recompute only the statistics and figures from the provided raw results, run `final_analysis.py`,
-  `final_figs.py` and `analysis_fruits.py` directly. No dataset download is needed for this step.
+  `final_figs.py` and `analysis_fruits.py` directly. No dataset download is needed for this step
+  (`analysis_explore.py` needs MNIST, because it also measures the cost table and draws the evidence maps).
 - The CCA design and all baseline settings were fixed before the confirmatory and real-world studies. No setting
   is tuned on those data.
 

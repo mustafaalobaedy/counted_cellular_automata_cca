@@ -3,3 +3,4 @@
 fruits_data/
 __pycache__/
 *.log
+figures/*.png
