@@ -1,0 +1,1053 @@
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 10, "model": "CCA v2", "acc": 0.933, "auc": 0.991532, "sec": 1.97}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 10, "model": "LogReg", "acc": 0.824, "auc": 0.9098440000000001, "sec": 0.01}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 10, "model": "HOG+SVM", "acc": 0.959, "auc": 0.993168, "sec": 0.37}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 10, "model": "Random ferns", "acc": 0.89, "auc": 0.9313739999999999, "sec": 0.35}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 10, "model": "CNN", "acc": 0.898, "auc": 0.957808, "sec": 4.7}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 10, "model": "CNN+aug", "acc": 0.885, "auc": 0.963096, "sec": 5.29}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 11, "model": "CCA v2", "acc": 0.907, "auc": 0.973336, "sec": 2.04}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 11, "model": "LogReg", "acc": 0.913, "auc": 0.974916, "sec": 0.01}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 11, "model": "HOG+SVM", "acc": 0.919, "auc": 0.97752, "sec": 0.36}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 11, "model": "Random ferns", "acc": 0.909, "auc": 0.943548, "sec": 0.35}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 11, "model": "CNN", "acc": 0.917, "auc": 0.9759880000000001, "sec": 2.59}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 11, "model": "CNN+aug", "acc": 0.922, "auc": 0.968672, "sec": 5.06}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 12, "model": "CCA v2", "acc": 0.852, "auc": 0.947448, "sec": 2.12}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 12, "model": "LogReg", "acc": 0.848, "auc": 0.926836, "sec": 0.02}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 12, "model": "HOG+SVM", "acc": 0.94, "auc": 0.985364, "sec": 0.45}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 12, "model": "Random ferns", "acc": 0.833, "auc": 0.8661, "sec": 0.3}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 12, "model": "CNN", "acc": 0.852, "auc": 0.920612, "sec": 2.55}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 12, "model": "CNN+aug", "acc": 0.847, "auc": 0.926892, "sec": 5.16}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 13, "model": "CCA v2", "acc": 0.949, "auc": 0.990384, "sec": 2.12}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 13, "model": "LogReg", "acc": 0.89, "auc": 0.9661160000000001, "sec": 0.01}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 13, "model": "HOG+SVM", "acc": 0.957, "auc": 0.994064, "sec": 0.44}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 13, "model": "Random ferns", "acc": 0.89, "auc": 0.9366180000000001, "sec": 0.38}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 13, "model": "CNN", "acc": 0.894, "auc": 0.9729599999999999, "sec": 2.55}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 13, "model": "CNN+aug", "acc": 0.89, "auc": 0.9720599999999999, "sec": 4.97}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 14, "model": "CCA v2", "acc": 0.903, "auc": 0.96726, "sec": 2.01}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 14, "model": "LogReg", "acc": 0.888, "auc": 0.949212, "sec": 0.01}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 14, "model": "HOG+SVM", "acc": 0.938, "auc": 0.9889140000000001, "sec": 0.34}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 14, "model": "Random ferns", "acc": 0.866, "auc": 0.8988400000000001, "sec": 0.35}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 14, "model": "CNN", "acc": 0.86, "auc": 0.942664, "sec": 2.49}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 14, "model": "CNN+aug", "acc": 0.873, "auc": 0.940328, "sec": 5.19}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 15, "model": "CCA v2", "acc": 0.558, "auc": 0.556268, "sec": 2.05}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 15, "model": "LogReg", "acc": 0.885, "auc": 0.962364, "sec": 0.01}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 15, "model": "HOG+SVM", "acc": 0.956, "auc": 0.9939779999999999, "sec": 0.32}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 15, "model": "Random ferns", "acc": 0.883, "auc": 0.9424839999999999, "sec": 0.33}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 15, "model": "CNN", "acc": 0.864, "auc": 0.964928, "sec": 2.55}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 15, "model": "CNN+aug", "acc": 0.875, "auc": 0.972168, "sec": 3.73}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 16, "model": "CCA v2", "acc": 0.926, "auc": 0.980704, "sec": 0.97}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 16, "model": "LogReg", "acc": 0.874, "auc": 0.96036, "sec": 0.0}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 16, "model": "HOG+SVM", "acc": 0.915, "auc": 0.9920599999999999, "sec": 0.16}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 16, "model": "Random ferns", "acc": 0.885, "auc": 0.9243119999999999, "sec": 0.18}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 16, "model": "CNN", "acc": 0.916, "auc": 0.974756, "sec": 1.27}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 16, "model": "CNN+aug", "acc": 0.942, "auc": 0.9869080000000001, "sec": 2.6}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 17, "model": "CCA v2", "acc": 0.933, "auc": 0.986264, "sec": 0.96}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 17, "model": "LogReg", "acc": 0.869, "auc": 0.94232, "sec": 0.0}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 17, "model": "HOG+SVM", "acc": 0.945, "auc": 0.988848, "sec": 0.18}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 17, "model": "Random ferns", "acc": 0.899, "auc": 0.935478, "sec": 0.17}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 17, "model": "CNN", "acc": 0.888, "auc": 0.952996, "sec": 1.19}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 17, "model": "CNN+aug", "acc": 0.911, "auc": 0.966984, "sec": 2.59}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 18, "model": "CCA v2", "acc": 0.896, "auc": 0.970828, "sec": 0.8}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 18, "model": "LogReg", "acc": 0.885, "auc": 0.958848, "sec": 0.01}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 18, "model": "HOG+SVM", "acc": 0.92, "auc": 0.9876119999999999, "sec": 0.18}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 18, "model": "Random ferns", "acc": 0.885, "auc": 0.908386, "sec": 0.15}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 18, "model": "CNN", "acc": 0.889, "auc": 0.962512, "sec": 1.18}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 18, "model": "CNN+aug", "acc": 0.891, "auc": 0.962708, "sec": 2.52}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 19, "model": "CCA v2", "acc": 0.5, "auc": 0.915916, "sec": 0.96}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 19, "model": "LogReg", "acc": 0.901, "auc": 0.9616079999999999, "sec": 0.0}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 19, "model": "HOG+SVM", "acc": 0.89, "auc": 0.9754640000000001, "sec": 0.18}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 19, "model": "Random ferns", "acc": 0.857, "auc": 0.889168, "sec": 0.16}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 19, "model": "CNN", "acc": 0.898, "auc": 0.9679199999999999, "sec": 1.19}
+{"task": "MNIST 3v8", "role": "dev", "n": 10, "seed": 19, "model": "CNN+aug", "acc": 0.912, "auc": 0.970164, "sec": 2.49}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 10, "model": "CCA v2", "acc": 0.907, "auc": 0.9843280000000001, "sec": 0.94}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 10, "model": "LogReg", "acc": 0.861, "auc": 0.9401720000000001, "sec": 0.01}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 10, "model": "HOG+SVM", "acc": 0.951, "auc": 0.991164, "sec": 0.18}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 10, "model": "Random ferns", "acc": 0.786, "auc": 0.848284, "sec": 0.16}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 10, "model": "CNN", "acc": 0.835, "auc": 0.930768, "sec": 1.15}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 10, "model": "CNN+aug", "acc": 0.915, "auc": 0.978144, "sec": 2.33}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 11, "model": "CCA v2", "acc": 0.87, "auc": 0.948356, "sec": 0.95}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 11, "model": "LogReg", "acc": 0.749, "auc": 0.86248, "sec": 0.0}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 11, "model": "HOG+SVM", "acc": 0.919, "auc": 0.98236, "sec": 0.13}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 11, "model": "Random ferns", "acc": 0.717, "auc": 0.7559340000000001, "sec": 0.17}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 11, "model": "CNN", "acc": 0.729, "auc": 0.844096, "sec": 1.29}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 11, "model": "CNN+aug", "acc": 0.791, "auc": 0.8833559999999998, "sec": 2.51}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 12, "model": "CCA v2", "acc": 0.955, "auc": 0.9919, "sec": 0.83}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 12, "model": "LogReg", "acc": 0.702, "auc": 0.77462, "sec": 0.0}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 12, "model": "HOG+SVM", "acc": 0.863, "auc": 0.973088, "sec": 0.14}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 12, "model": "Random ferns", "acc": 0.754, "auc": 0.835382, "sec": 0.16}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 12, "model": "CNN", "acc": 0.781, "auc": 0.87226, "sec": 1.2}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 12, "model": "CNN+aug", "acc": 0.893, "auc": 0.9657880000000001, "sec": 2.52}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 13, "model": "CCA v2", "acc": 0.935, "auc": 0.996664, "sec": 0.95}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 13, "model": "LogReg", "acc": 0.875, "auc": 0.9521359999999999, "sec": 0.01}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 13, "model": "HOG+SVM", "acc": 0.92, "auc": 0.987288, "sec": 0.18}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 13, "model": "Random ferns", "acc": 0.824, "auc": 0.8878280000000001, "sec": 0.16}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 13, "model": "CNN", "acc": 0.868, "auc": 0.937116, "sec": 1.21}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 13, "model": "CNN+aug", "acc": 0.913, "auc": 0.9693320000000001, "sec": 2.54}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 14, "model": "CCA v2", "acc": 0.88, "auc": 0.9558719999999999, "sec": 0.97}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 14, "model": "LogReg", "acc": 0.751, "auc": 0.8463999999999999, "sec": 0.01}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 14, "model": "HOG+SVM", "acc": 0.897, "auc": 0.969432, "sec": 0.18}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 14, "model": "Random ferns", "acc": 0.721, "auc": 0.7770859999999999, "sec": 0.15}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 14, "model": "CNN", "acc": 0.755, "auc": 0.8608, "sec": 1.19}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 14, "model": "CNN+aug", "acc": 0.787, "auc": 0.878404, "sec": 2.43}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 15, "model": "CCA v2", "acc": 0.884, "auc": 0.9651, "sec": 0.98}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 15, "model": "LogReg", "acc": 0.827, "auc": 0.9212800000000001, "sec": 0.0}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 15, "model": "HOG+SVM", "acc": 0.906, "auc": 0.9706520000000001, "sec": 0.18}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 15, "model": "Random ferns", "acc": 0.743, "auc": 0.783798, "sec": 0.17}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 15, "model": "CNN", "acc": 0.826, "auc": 0.914356, "sec": 1.26}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 15, "model": "CNN+aug", "acc": 0.858, "auc": 0.9324640000000001, "sec": 2.51}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 16, "model": "CCA v2", "acc": 0.927, "auc": 0.9765039999999999, "sec": 0.95}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 16, "model": "LogReg", "acc": 0.841, "auc": 0.9256239999999999, "sec": 0.01}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 16, "model": "HOG+SVM", "acc": 0.921, "auc": 0.9823540000000001, "sec": 0.17}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 16, "model": "Random ferns", "acc": 0.74, "auc": 0.8149379999999999, "sec": 0.15}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 16, "model": "CNN", "acc": 0.814, "auc": 0.890312, "sec": 1.27}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 16, "model": "CNN+aug", "acc": 0.934, "auc": 0.976092, "sec": 2.57}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 17, "model": "CCA v2", "acc": 0.872, "auc": 0.977216, "sec": 1.01}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 17, "model": "LogReg", "acc": 0.818, "auc": 0.9155199999999999, "sec": 0.0}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 17, "model": "HOG+SVM", "acc": 0.91, "auc": 0.980078, "sec": 0.14}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 17, "model": "Random ferns", "acc": 0.73, "auc": 0.770926, "sec": 0.15}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 17, "model": "CNN", "acc": 0.769, "auc": 0.8671719999999999, "sec": 1.24}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 17, "model": "CNN+aug", "acc": 0.844, "auc": 0.92856, "sec": 2.51}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 18, "model": "CCA v2", "acc": 0.947, "auc": 0.992876, "sec": 1.06}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 18, "model": "LogReg", "acc": 0.801, "auc": 0.899924, "sec": 0.0}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 18, "model": "HOG+SVM", "acc": 0.942, "auc": 0.986878, "sec": 0.21}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 18, "model": "Random ferns", "acc": 0.769, "auc": 0.8287859999999999, "sec": 0.17}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 18, "model": "CNN", "acc": 0.892, "auc": 0.9736959999999999, "sec": 1.29}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 18, "model": "CNN+aug", "acc": 0.947, "auc": 0.9824120000000001, "sec": 2.52}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 19, "model": "CCA v2", "acc": 0.88, "auc": 0.9812120000000001, "sec": 0.93}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 19, "model": "LogReg", "acc": 0.724, "auc": 0.8195880000000001, "sec": 0.0}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 19, "model": "HOG+SVM", "acc": 0.91, "auc": 0.97332, "sec": 0.18}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 19, "model": "Random ferns", "acc": 0.732, "auc": 0.7892999999999999, "sec": 0.16}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 19, "model": "CNN", "acc": 0.806, "auc": 0.893068, "sec": 1.25}
+{"task": "MNIST 4v9", "role": "dev", "n": 10, "seed": 19, "model": "CNN+aug", "acc": 0.822, "auc": 0.924762, "sec": 2.47}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 10, "model": "CCA v2", "acc": 0.772, "auc": 0.872088, "sec": 1.02}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 10, "model": "LogReg", "acc": 0.774, "auc": 0.870592, "sec": 0.01}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 10, "model": "HOG+SVM", "acc": 0.817, "auc": 0.8944840000000001, "sec": 0.21}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 10, "model": "Random ferns", "acc": 0.817, "auc": 0.853252, "sec": 0.18}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 10, "model": "CNN", "acc": 0.78, "auc": 0.88698, "sec": 1.3}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 10, "model": "CNN+aug", "acc": 0.771, "auc": 0.872386, "sec": 2.52}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 11, "model": "CCA v2", "acc": 0.798, "auc": 0.8855400000000001, "sec": 1.03}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 11, "model": "LogReg", "acc": 0.809, "auc": 0.88924, "sec": 0.01}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 11, "model": "HOG+SVM", "acc": 0.764, "auc": 0.846252, "sec": 0.2}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 11, "model": "Random ferns", "acc": 0.816, "auc": 0.8405, "sec": 0.16}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 11, "model": "CNN", "acc": 0.786, "auc": 0.878274, "sec": 1.25}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 11, "model": "CNN+aug", "acc": 0.807, "auc": 0.878198, "sec": 2.61}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 12, "model": "CCA v2", "acc": 0.813, "auc": 0.8963639999999999, "sec": 0.94}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 12, "model": "LogReg", "acc": 0.819, "auc": 0.8966959999999999, "sec": 0.0}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 12, "model": "HOG+SVM", "acc": 0.818, "auc": 0.891912, "sec": 0.17}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 12, "model": "Random ferns", "acc": 0.788, "auc": 0.825456, "sec": 0.14}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 12, "model": "CNN", "acc": 0.818, "auc": 0.8868479999999999, "sec": 1.21}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 12, "model": "CNN+aug", "acc": 0.806, "auc": 0.8844480000000001, "sec": 2.57}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 13, "model": "CCA v2", "acc": 0.304, "auc": 0.29499200000000003, "sec": 0.97}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 13, "model": "LogReg", "acc": 0.735, "auc": 0.8126119999999999, "sec": 0.01}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 13, "model": "HOG+SVM", "acc": 0.244, "auc": 0.14661200000000002, "sec": 0.19}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 13, "model": "Random ferns", "acc": 0.767, "auc": 0.805138, "sec": 0.17}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 13, "model": "CNN", "acc": 0.71, "auc": 0.741504, "sec": 1.34}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 13, "model": "CNN+aug", "acc": 0.733, "auc": 0.765752, "sec": 2.63}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 14, "model": "CCA v2", "acc": 0.779, "auc": 0.8158999999999998, "sec": 0.92}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 14, "model": "LogReg", "acc": 0.782, "auc": 0.8156919999999999, "sec": 0.01}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 14, "model": "HOG+SVM", "acc": 0.717, "auc": 0.812518, "sec": 0.19}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 14, "model": "Random ferns", "acc": 0.772, "auc": 0.816246, "sec": 0.16}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 14, "model": "CNN", "acc": 0.745, "auc": 0.8024600000000001, "sec": 1.24}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 14, "model": "CNN+aug", "acc": 0.726, "auc": 0.765654, "sec": 2.58}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 15, "model": "CCA v2", "acc": 0.744, "auc": 0.8374799999999999, "sec": 0.94}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 15, "model": "LogReg", "acc": 0.729, "auc": 0.825508, "sec": 0.01}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 15, "model": "HOG+SVM", "acc": 0.795, "auc": 0.870328, "sec": 0.16}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 15, "model": "Random ferns", "acc": 0.804, "auc": 0.8807800000000001, "sec": 0.16}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 15, "model": "CNN", "acc": 0.736, "auc": 0.781056, "sec": 1.3}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 15, "model": "CNN+aug", "acc": 0.732, "auc": 0.799596, "sec": 2.6}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 16, "model": "CCA v2", "acc": 0.798, "auc": 0.890916, "sec": 0.97}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 16, "model": "LogReg", "acc": 0.761, "auc": 0.872156, "sec": 0.01}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 16, "model": "HOG+SVM", "acc": 0.782, "auc": 0.8572179999999999, "sec": 0.2}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 16, "model": "Random ferns", "acc": 0.806, "auc": 0.861036, "sec": 0.16}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 16, "model": "CNN", "acc": 0.733, "auc": 0.825056, "sec": 1.24}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 16, "model": "CNN+aug", "acc": 0.722, "auc": 0.797096, "sec": 2.54}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 17, "model": "CCA v2", "acc": 0.745, "auc": 0.8054840000000001, "sec": 0.82}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 17, "model": "LogReg", "acc": 0.754, "auc": 0.862692, "sec": 0.01}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 17, "model": "HOG+SVM", "acc": 0.761, "auc": 0.8340500000000001, "sec": 0.19}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 17, "model": "Random ferns", "acc": 0.802, "auc": 0.842668, "sec": 0.15}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 17, "model": "CNN", "acc": 0.747, "auc": 0.850322, "sec": 1.25}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 17, "model": "CNN+aug", "acc": 0.752, "auc": 0.8383959999999999, "sec": 2.52}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 18, "model": "CCA v2", "acc": 0.771, "auc": 0.824192, "sec": 0.97}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 18, "model": "LogReg", "acc": 0.784, "auc": 0.844984, "sec": 0.01}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 18, "model": "HOG+SVM", "acc": 0.804, "auc": 0.85897, "sec": 0.2}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 18, "model": "Random ferns", "acc": 0.79, "auc": 0.82076, "sec": 0.16}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 18, "model": "CNN", "acc": 0.788, "auc": 0.851788, "sec": 1.25}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 18, "model": "CNN+aug", "acc": 0.799, "auc": 0.856142, "sec": 2.55}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 19, "model": "CCA v2", "acc": 0.765, "auc": 0.818952, "sec": 0.94}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 19, "model": "LogReg", "acc": 0.759, "auc": 0.8767360000000001, "sec": 0.01}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 19, "model": "HOG+SVM", "acc": 0.801, "auc": 0.885458, "sec": 0.16}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 19, "model": "Random ferns", "acc": 0.822, "auc": 0.8770600000000001, "sec": 0.16}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 19, "model": "CNN", "acc": 0.727, "auc": 0.876188, "sec": 1.36}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 10, "seed": 19, "model": "CNN+aug", "acc": 0.7, "auc": 0.8708839999999999, "sec": 2.49}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 10, "model": "CCA v2", "acc": 0.877, "auc": 0.9700400000000001, "sec": 0.98}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 10, "model": "LogReg", "acc": 0.819, "auc": 0.91012, "sec": 0.01}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 10, "model": "HOG+SVM", "acc": 0.918, "auc": 0.978532, "sec": 0.21}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 10, "model": "Random ferns", "acc": 0.867, "auc": 0.9250780000000001, "sec": 0.16}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 10, "model": "CNN", "acc": 0.878, "auc": 0.941204, "sec": 1.22}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 10, "model": "CNN+aug", "acc": 0.842, "auc": 0.911324, "sec": 2.45}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 11, "model": "CCA v2", "acc": 0.929, "auc": 0.98092, "sec": 1.02}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 11, "model": "LogReg", "acc": 0.906, "auc": 0.958128, "sec": 0.01}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 11, "model": "HOG+SVM", "acc": 0.927, "auc": 0.983016, "sec": 0.19}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 11, "model": "Random ferns", "acc": 0.833, "auc": 0.888858, "sec": 0.16}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 11, "model": "CNN", "acc": 0.883, "auc": 0.95116, "sec": 1.23}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 11, "model": "CNN+aug", "acc": 0.905, "auc": 0.959564, "sec": 2.46}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 12, "model": "CCA v2", "acc": 0.83, "auc": 0.922732, "sec": 1.03}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 12, "model": "LogReg", "acc": 0.856, "auc": 0.9355240000000001, "sec": 0.01}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 12, "model": "HOG+SVM", "acc": 0.907, "auc": 0.9741, "sec": 0.19}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 12, "model": "Random ferns", "acc": 0.816, "auc": 0.872726, "sec": 0.16}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 12, "model": "CNN", "acc": 0.871, "auc": 0.942504, "sec": 1.24}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 12, "model": "CNN+aug", "acc": 0.863, "auc": 0.948322, "sec": 2.5}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 13, "model": "CCA v2", "acc": 0.896, "auc": 0.977136, "sec": 0.83}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 13, "model": "LogReg", "acc": 0.89, "auc": 0.955016, "sec": 0.0}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 13, "model": "HOG+SVM", "acc": 0.885, "auc": 0.979844, "sec": 0.14}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 13, "model": "Random ferns", "acc": 0.817, "auc": 0.8635660000000001, "sec": 0.15}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 13, "model": "CNN", "acc": 0.884, "auc": 0.946636, "sec": 1.22}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 13, "model": "CNN+aug", "acc": 0.896, "auc": 0.9625199999999999, "sec": 2.43}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 14, "model": "CCA v2", "acc": 0.83, "auc": 0.9210319999999999, "sec": 0.94}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 14, "model": "LogReg", "acc": 0.813, "auc": 0.9030839999999999, "sec": 0.0}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 14, "model": "HOG+SVM", "acc": 0.843, "auc": 0.936628, "sec": 0.24}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 14, "model": "Random ferns", "acc": 0.799, "auc": 0.8412459999999999, "sec": 0.17}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 14, "model": "CNN", "acc": 0.804, "auc": 0.897216, "sec": 1.24}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 14, "model": "CNN+aug", "acc": 0.826, "auc": 0.9127099999999999, "sec": 2.44}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 15, "model": "CCA v2", "acc": 0.872, "auc": 0.9511240000000001, "sec": 0.9}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 15, "model": "LogReg", "acc": 0.862, "auc": 0.9341160000000002, "sec": 0.01}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 15, "model": "HOG+SVM", "acc": 0.871, "auc": 0.96134, "sec": 0.23}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 15, "model": "Random ferns", "acc": 0.792, "auc": 0.8545240000000001, "sec": 0.17}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 15, "model": "CNN", "acc": 0.855, "auc": 0.931332, "sec": 1.26}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 15, "model": "CNN+aug", "acc": 0.863, "auc": 0.93891, "sec": 2.52}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 16, "model": "CCA v2", "acc": 0.853, "auc": 0.9145760000000001, "sec": 0.86}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 16, "model": "LogReg", "acc": 0.847, "auc": 0.936312, "sec": 0.01}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 16, "model": "HOG+SVM", "acc": 0.934, "auc": 0.9878, "sec": 0.18}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 16, "model": "Random ferns", "acc": 0.891, "auc": 0.9403619999999999, "sec": 0.16}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 16, "model": "CNN", "acc": 0.843, "auc": 0.95354, "sec": 1.21}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 16, "model": "CNN+aug", "acc": 0.836, "auc": 0.968468, "sec": 2.5}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 17, "model": "CCA v2", "acc": 0.777, "auc": 0.881948, "sec": 0.94}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 17, "model": "LogReg", "acc": 0.827, "auc": 0.913932, "sec": 0.0}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 17, "model": "HOG+SVM", "acc": 0.878, "auc": 0.96762, "sec": 0.18}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 17, "model": "Random ferns", "acc": 0.777, "auc": 0.814196, "sec": 0.17}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 17, "model": "CNN", "acc": 0.826, "auc": 0.921476, "sec": 1.19}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 17, "model": "CNN+aug", "acc": 0.844, "auc": 0.926496, "sec": 2.46}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 18, "model": "CCA v2", "acc": 0.892, "auc": 0.9740040000000001, "sec": 0.98}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 18, "model": "LogReg", "acc": 0.871, "auc": 0.947408, "sec": 0.01}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 18, "model": "HOG+SVM", "acc": 0.891, "auc": 0.9634480000000001, "sec": 0.16}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 18, "model": "Random ferns", "acc": 0.836, "auc": 0.892388, "sec": 0.16}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 18, "model": "CNN", "acc": 0.897, "auc": 0.965304, "sec": 1.21}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 18, "model": "CNN+aug", "acc": 0.901, "auc": 0.972292, "sec": 2.5}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 19, "model": "CCA v2", "acc": 0.927, "auc": 0.978704, "sec": 0.87}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 19, "model": "LogReg", "acc": 0.88, "auc": 0.955128, "sec": 0.01}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 19, "model": "HOG+SVM", "acc": 0.878, "auc": 0.9512679999999999, "sec": 0.17}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 19, "model": "Random ferns", "acc": 0.909, "auc": 0.946672, "sec": 0.16}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 19, "model": "CNN", "acc": 0.866, "auc": 0.9517240000000001, "sec": 1.24}
+{"task": "MNIST 7v9", "role": "held-out", "n": 10, "seed": 19, "model": "CNN+aug", "acc": 0.92, "auc": 0.969276, "sec": 2.46}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 10, "model": "CCA v2", "acc": 0.876, "auc": 0.976308, "sec": 0.99}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 10, "model": "LogReg", "acc": 0.879, "auc": 0.947052, "sec": 0.01}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 10, "model": "HOG+SVM", "acc": 0.953, "auc": 0.994298, "sec": 0.24}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 10, "model": "Random ferns", "acc": 0.798, "auc": 0.861086, "sec": 0.15}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 10, "model": "CNN", "acc": 0.927, "auc": 0.977204, "sec": 1.2}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 10, "model": "CNN+aug", "acc": 0.923, "auc": 0.9828539999999999, "sec": 2.52}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 11, "model": "CCA v2", "acc": 0.921, "auc": 0.9793320000000001, "sec": 0.99}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 11, "model": "LogReg", "acc": 0.885, "auc": 0.94828, "sec": 0.01}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 11, "model": "HOG+SVM", "acc": 0.941, "auc": 0.9911159999999999, "sec": 0.19}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 11, "model": "Random ferns", "acc": 0.904, "auc": 0.960262, "sec": 0.17}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 11, "model": "CNN", "acc": 0.902, "auc": 0.9639719999999999, "sec": 1.26}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 11, "model": "CNN+aug", "acc": 0.902, "auc": 0.9685759999999999, "sec": 2.58}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 12, "model": "CCA v2", "acc": 0.838, "auc": 0.9615720000000001, "sec": 0.98}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 12, "model": "LogReg", "acc": 0.835, "auc": 0.9234760000000001, "sec": 0.01}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 12, "model": "HOG+SVM", "acc": 0.929, "auc": 0.9826079999999999, "sec": 0.18}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 12, "model": "Random ferns", "acc": 0.874, "auc": 0.914698, "sec": 0.15}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 12, "model": "CNN", "acc": 0.817, "auc": 0.8942640000000001, "sec": 1.21}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 12, "model": "CNN+aug", "acc": 0.827, "auc": 0.91994, "sec": 2.5}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 13, "model": "CCA v2", "acc": 0.784, "auc": 0.8794519999999999, "sec": 0.93}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 13, "model": "LogReg", "acc": 0.781, "auc": 0.873724, "sec": 0.01}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 13, "model": "HOG+SVM", "acc": 0.907, "auc": 0.97206, "sec": 0.14}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 13, "model": "Random ferns", "acc": 0.749, "auc": 0.7743220000000001, "sec": 0.14}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 13, "model": "CNN", "acc": 0.751, "auc": 0.8475480000000001, "sec": 1.15}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 13, "model": "CNN+aug", "acc": 0.755, "auc": 0.845634, "sec": 2.5}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 14, "model": "CCA v2", "acc": 0.96, "auc": 0.9963040000000001, "sec": 0.96}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 14, "model": "LogReg", "acc": 0.856, "auc": 0.948352, "sec": 0.01}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 14, "model": "HOG+SVM", "acc": 0.956, "auc": 0.99058, "sec": 0.24}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 14, "model": "Random ferns", "acc": 0.882, "auc": 0.942106, "sec": 0.16}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 14, "model": "CNN", "acc": 0.88, "auc": 0.968, "sec": 1.25}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 14, "model": "CNN+aug", "acc": 0.919, "auc": 0.9855200000000001, "sec": 2.51}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 15, "model": "CCA v2", "acc": 0.904, "auc": 0.978, "sec": 0.96}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 15, "model": "LogReg", "acc": 0.84, "auc": 0.9292959999999999, "sec": 0.01}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 15, "model": "HOG+SVM", "acc": 0.878, "auc": 0.9698159999999999, "sec": 0.15}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 15, "model": "Random ferns", "acc": 0.757, "auc": 0.82884, "sec": 0.15}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 15, "model": "CNN", "acc": 0.848, "auc": 0.932838, "sec": 1.2}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 15, "model": "CNN+aug", "acc": 0.836, "auc": 0.9590440000000001, "sec": 2.53}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 16, "model": "CCA v2", "acc": 0.837, "auc": 0.9348759999999998, "sec": 0.98}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 16, "model": "LogReg", "acc": 0.853, "auc": 0.93942, "sec": 0.0}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 16, "model": "HOG+SVM", "acc": 0.922, "auc": 0.9788199999999999, "sec": 0.14}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 16, "model": "Random ferns", "acc": 0.791, "auc": 0.836908, "sec": 0.16}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 16, "model": "CNN", "acc": 0.874, "auc": 0.937176, "sec": 1.28}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 16, "model": "CNN+aug", "acc": 0.892, "auc": 0.9493799999999999, "sec": 2.56}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 17, "model": "CCA v2", "acc": 0.963, "auc": 0.992476, "sec": 0.95}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 17, "model": "LogReg", "acc": 0.843, "auc": 0.922644, "sec": 0.0}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 17, "model": "HOG+SVM", "acc": 0.97, "auc": 0.994328, "sec": 0.18}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 17, "model": "Random ferns", "acc": 0.881, "auc": 0.937432, "sec": 0.16}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 17, "model": "CNN", "acc": 0.884, "auc": 0.950716, "sec": 1.19}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 17, "model": "CNN+aug", "acc": 0.935, "auc": 0.9816360000000001, "sec": 2.43}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 18, "model": "CCA v2", "acc": 0.827, "auc": 0.9052439999999999, "sec": 0.94}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 18, "model": "LogReg", "acc": 0.834, "auc": 0.9242999999999999, "sec": 0.01}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 18, "model": "HOG+SVM", "acc": 0.851, "auc": 0.96344, "sec": 0.19}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 18, "model": "Random ferns", "acc": 0.73, "auc": 0.762548, "sec": 0.17}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 18, "model": "CNN", "acc": 0.796, "auc": 0.87964, "sec": 1.25}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 18, "model": "CNN+aug", "acc": 0.858, "auc": 0.935892, "sec": 2.47}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 19, "model": "CCA v2", "acc": 0.942, "auc": 0.987828, "sec": 0.96}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 19, "model": "LogReg", "acc": 0.895, "auc": 0.963724, "sec": 0.01}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 19, "model": "HOG+SVM", "acc": 0.942, "auc": 0.993472, "sec": 0.18}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 19, "model": "Random ferns", "acc": 0.871, "auc": 0.929586, "sec": 0.16}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 19, "model": "CNN", "acc": 0.873, "auc": 0.9508559999999999, "sec": 1.26}
+{"task": "MNIST 5v8", "role": "held-out", "n": 10, "seed": 19, "model": "CNN+aug", "acc": 0.902, "auc": 0.966344, "sec": 2.54}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 10, "model": "CCA v2", "acc": 0.608, "auc": 0.7548520000000001, "sec": 0.82}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 10, "model": "LogReg", "acc": 0.708, "auc": 0.7905800000000001, "sec": 0.01}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 10, "model": "HOG+SVM", "acc": 0.724, "auc": 0.8209199999999999, "sec": 0.2}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 10, "model": "Random ferns", "acc": 0.697, "auc": 0.758186, "sec": 0.15}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 10, "model": "CNN", "acc": 0.708, "auc": 0.8022759999999999, "sec": 1.27}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 10, "model": "CNN+aug", "acc": 0.758, "auc": 0.830708, "sec": 2.57}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 11, "model": "CCA v2", "acc": 0.648, "auc": 0.7956719999999999, "sec": 0.92}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 11, "model": "LogReg", "acc": 0.712, "auc": 0.76502, "sec": 0.01}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 11, "model": "HOG+SVM", "acc": 0.313, "auc": 0.23064000000000004, "sec": 0.14}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 11, "model": "Random ferns", "acc": 0.674, "auc": 0.7395420000000001, "sec": 0.16}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 11, "model": "CNN", "acc": 0.667, "auc": 0.741428, "sec": 1.24}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 11, "model": "CNN+aug", "acc": 0.695, "auc": 0.7763399999999999, "sec": 2.57}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 12, "model": "CCA v2", "acc": 0.723, "auc": 0.7802600000000001, "sec": 1.05}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 12, "model": "LogReg", "acc": 0.68, "auc": 0.721308, "sec": 0.01}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 12, "model": "HOG+SVM", "acc": 0.673, "auc": 0.792068, "sec": 0.19}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 12, "model": "Random ferns", "acc": 0.658, "auc": 0.7421, "sec": 0.16}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 12, "model": "CNN", "acc": 0.636, "auc": 0.707872, "sec": 1.19}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 12, "model": "CNN+aug", "acc": 0.682, "auc": 0.733112, "sec": 2.58}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 13, "model": "CCA v2", "acc": 0.695, "auc": 0.755156, "sec": 1.0}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 13, "model": "LogReg", "acc": 0.671, "auc": 0.730356, "sec": 0.01}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 13, "model": "HOG+SVM", "acc": 0.732, "auc": 0.828988, "sec": 0.2}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 13, "model": "Random ferns", "acc": 0.699, "auc": 0.736176, "sec": 0.16}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 13, "model": "CNN", "acc": 0.668, "auc": 0.726112, "sec": 1.18}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 13, "model": "CNN+aug", "acc": 0.675, "auc": 0.740344, "sec": 2.54}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 14, "model": "CCA v2", "acc": 0.715, "auc": 0.77958, "sec": 0.87}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 14, "model": "LogReg", "acc": 0.649, "auc": 0.69666, "sec": 0.01}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 14, "model": "HOG+SVM", "acc": 0.323, "auc": 0.246672, "sec": 0.14}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 14, "model": "Random ferns", "acc": 0.589, "auc": 0.663512, "sec": 0.14}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 14, "model": "CNN", "acc": 0.695, "auc": 0.7563359999999999, "sec": 1.22}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 14, "model": "CNN+aug", "acc": 0.718, "auc": 0.7839039999999999, "sec": 3.44}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 15, "model": "CCA v2", "acc": 0.594, "auc": 0.637016, "sec": 1.33}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 15, "model": "LogReg", "acc": 0.643, "auc": 0.676824, "sec": 0.01}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 15, "model": "HOG+SVM", "acc": 0.373, "auc": 0.26156599999999997, "sec": 0.19}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 15, "model": "Random ferns", "acc": 0.589, "auc": 0.6153699999999999, "sec": 0.16}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 15, "model": "CNN", "acc": 0.626, "auc": 0.64824, "sec": 1.24}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 15, "model": "CNN+aug", "acc": 0.64, "auc": 0.726968, "sec": 2.64}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 16, "model": "CCA v2", "acc": 0.768, "auc": 0.8431000000000001, "sec": 0.94}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 16, "model": "LogReg", "acc": 0.748, "auc": 0.8247920000000001, "sec": 0.01}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 16, "model": "HOG+SVM", "acc": 0.252, "auc": 0.14811600000000003, "sec": 0.25}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 16, "model": "Random ferns", "acc": 0.687, "auc": 0.76166, "sec": 0.18}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 16, "model": "CNN", "acc": 0.731, "auc": 0.8099799999999999, "sec": 1.27}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 16, "model": "CNN+aug", "acc": 0.781, "auc": 0.8595039999999999, "sec": 2.57}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 17, "model": "CCA v2", "acc": 0.694, "auc": 0.793188, "sec": 1.02}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 17, "model": "LogReg", "acc": 0.714, "auc": 0.7976719999999999, "sec": 0.01}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 17, "model": "HOG+SVM", "acc": 0.773, "auc": 0.8470920000000001, "sec": 0.15}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 17, "model": "Random ferns", "acc": 0.726, "auc": 0.78859, "sec": 0.16}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 17, "model": "CNN", "acc": 0.724, "auc": 0.8350000000000001, "sec": 1.27}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 17, "model": "CNN+aug", "acc": 0.753, "auc": 0.8401919999999999, "sec": 2.52}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 18, "model": "CCA v2", "acc": 0.675, "auc": 0.7388520000000001, "sec": 0.95}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 18, "model": "LogReg", "acc": 0.676, "auc": 0.770496, "sec": 0.01}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 18, "model": "HOG+SVM", "acc": 0.251, "auc": 0.153304, "sec": 0.2}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 18, "model": "Random ferns", "acc": 0.617, "auc": 0.688172, "sec": 0.16}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 18, "model": "CNN", "acc": 0.682, "auc": 0.7898959999999999, "sec": 1.3}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 18, "model": "CNN+aug", "acc": 0.705, "auc": 0.795236, "sec": 2.53}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 19, "model": "CCA v2", "acc": 0.726, "auc": 0.8102280000000001, "sec": 0.86}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 19, "model": "LogReg", "acc": 0.761, "auc": 0.8568039999999999, "sec": 0.01}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 19, "model": "HOG+SVM", "acc": 0.741, "auc": 0.81605, "sec": 0.17}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 19, "model": "Random ferns", "acc": 0.718, "auc": 0.764932, "sec": 0.16}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 19, "model": "CNN", "acc": 0.714, "auc": 0.8012520000000001, "sec": 1.24}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 10, "seed": 19, "model": "CNN+aug", "acc": 0.744, "auc": 0.8259920000000001, "sec": 2.56}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 10, "model": "CCA v2", "acc": 0.903, "auc": 0.975244, "sec": 1.06}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 10, "model": "LogReg", "acc": 0.885, "auc": 0.973472, "sec": 0.01}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 10, "model": "HOG+SVM", "acc": 0.907, "auc": 0.9757540000000001, "sec": 0.19}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 10, "model": "Random ferns", "acc": 0.892, "auc": 0.9086319999999999, "sec": 0.16}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 10, "model": "CNN", "acc": 0.871, "auc": 0.968684, "sec": 1.25}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 10, "model": "CNN+aug", "acc": 0.856, "auc": 0.9708680000000001, "sec": 2.47}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 11, "model": "CCA v2", "acc": 0.909, "auc": 0.9739239999999999, "sec": 0.97}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 11, "model": "LogReg", "acc": 0.894, "auc": 0.9677440000000002, "sec": 0.01}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 11, "model": "HOG+SVM", "acc": 0.899, "auc": 0.975224, "sec": 0.19}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 11, "model": "Random ferns", "acc": 0.887, "auc": 0.899828, "sec": 0.16}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 11, "model": "CNN", "acc": 0.882, "auc": 0.975456, "sec": 1.26}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 11, "model": "CNN+aug", "acc": 0.885, "auc": 0.9753700000000001, "sec": 2.48}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 12, "model": "CCA v2", "acc": 0.915, "auc": 0.979988, "sec": 0.94}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 12, "model": "LogReg", "acc": 0.921, "auc": 0.973188, "sec": 0.01}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 12, "model": "HOG+SVM", "acc": 0.921, "auc": 0.978356, "sec": 0.21}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 12, "model": "Random ferns", "acc": 0.881, "auc": 0.8976219999999999, "sec": 0.18}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 12, "model": "CNN", "acc": 0.923, "auc": 0.979672, "sec": 1.34}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 12, "model": "CNN+aug", "acc": 0.918, "auc": 0.9749840000000001, "sec": 2.57}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 13, "model": "CCA v2", "acc": 0.921, "auc": 0.9795079999999999, "sec": 0.91}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 13, "model": "LogReg", "acc": 0.897, "auc": 0.961792, "sec": 0.01}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 13, "model": "HOG+SVM", "acc": 0.922, "auc": 0.97722, "sec": 0.19}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 13, "model": "Random ferns", "acc": 0.884, "auc": 0.90961, "sec": 0.16}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 13, "model": "CNN", "acc": 0.902, "auc": 0.9635, "sec": 1.25}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 13, "model": "CNN+aug", "acc": 0.886, "auc": 0.9653399999999999, "sec": 2.49}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 14, "model": "CCA v2", "acc": 0.9, "auc": 0.976708, "sec": 0.87}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 14, "model": "LogReg", "acc": 0.918, "auc": 0.97052, "sec": 0.01}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 14, "model": "HOG+SVM", "acc": 0.894, "auc": 0.9735839999999999, "sec": 0.2}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 14, "model": "Random ferns", "acc": 0.894, "auc": 0.9076639999999999, "sec": 0.17}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 14, "model": "CNN", "acc": 0.917, "auc": 0.974874, "sec": 1.22}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 14, "model": "CNN+aug", "acc": 0.901, "auc": 0.975284, "sec": 2.52}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 15, "model": "CCA v2", "acc": 0.914, "auc": 0.981424, "sec": 0.93}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 15, "model": "LogReg", "acc": 0.9, "auc": 0.974448, "sec": 0.01}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 15, "model": "HOG+SVM", "acc": 0.91, "auc": 0.978994, "sec": 0.17}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 15, "model": "Random ferns", "acc": 0.891, "auc": 0.9207539999999999, "sec": 0.17}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 15, "model": "CNN", "acc": 0.921, "auc": 0.9785159999999998, "sec": 1.28}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 15, "model": "CNN+aug", "acc": 0.918, "auc": 0.982232, "sec": 2.51}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 16, "model": "CCA v2", "acc": 0.911, "auc": 0.980796, "sec": 0.95}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 16, "model": "LogReg", "acc": 0.93, "auc": 0.974216, "sec": 0.0}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 16, "model": "HOG+SVM", "acc": 0.93, "auc": 0.9764999999999999, "sec": 0.19}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 16, "model": "Random ferns", "acc": 0.907, "auc": 0.922288, "sec": 0.18}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 16, "model": "CNN", "acc": 0.921, "auc": 0.9815379999999999, "sec": 1.21}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 16, "model": "CNN+aug", "acc": 0.932, "auc": 0.9829619999999999, "sec": 2.55}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 17, "model": "CCA v2", "acc": 0.882, "auc": 0.9712919999999999, "sec": 0.97}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 17, "model": "LogReg", "acc": 0.87, "auc": 0.963952, "sec": 0.01}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 17, "model": "HOG+SVM", "acc": 0.876, "auc": 0.96656, "sec": 0.19}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 17, "model": "Random ferns", "acc": 0.792, "auc": 0.829388, "sec": 0.17}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 17, "model": "CNN", "acc": 0.902, "auc": 0.973036, "sec": 1.28}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 17, "model": "CNN+aug", "acc": 0.886, "auc": 0.97452, "sec": 2.54}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 18, "model": "CCA v2", "acc": 0.917, "auc": 0.984164, "sec": 0.99}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 18, "model": "LogReg", "acc": 0.92, "auc": 0.9827760000000001, "sec": 0.0}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 18, "model": "HOG+SVM", "acc": 0.918, "auc": 0.987464, "sec": 0.18}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 18, "model": "Random ferns", "acc": 0.909, "auc": 0.9237219999999999, "sec": 0.16}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 18, "model": "CNN", "acc": 0.928, "auc": 0.9851059999999999, "sec": 1.23}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 18, "model": "CNN+aug", "acc": 0.918, "auc": 0.9838899999999999, "sec": 2.51}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 19, "model": "CCA v2", "acc": 0.909, "auc": 0.977624, "sec": 0.97}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 19, "model": "LogReg", "acc": 0.896, "auc": 0.964084, "sec": 0.01}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 19, "model": "HOG+SVM", "acc": 0.913, "auc": 0.9775799999999999, "sec": 0.18}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 19, "model": "Random ferns", "acc": 0.881, "auc": 0.9029060000000001, "sec": 0.16}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 19, "model": "CNN", "acc": 0.908, "auc": 0.970156, "sec": 1.24}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 10, "seed": 19, "model": "CNN+aug", "acc": 0.904, "auc": 0.9677020000000001, "sec": 2.5}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 10, "model": "CCA v2", "acc": 0.958, "auc": 0.995136, "sec": 1.36}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 10, "model": "LogReg", "acc": 0.932, "auc": 0.9802719999999999, "sec": 0.01}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 10, "model": "HOG+SVM", "acc": 0.963, "auc": 0.9966300000000001, "sec": 0.14}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 10, "model": "Random ferns", "acc": 0.931, "auc": 0.9579400000000001, "sec": 0.17}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 10, "model": "CNN", "acc": 0.956, "auc": 0.9908480000000001, "sec": 1.4}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 10, "model": "CNN+aug", "acc": 0.941, "auc": 0.990632, "sec": 5.93}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 11, "model": "CCA v2", "acc": 0.95, "auc": 0.991692, "sec": 1.49}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 11, "model": "LogReg", "acc": 0.952, "auc": 0.9848680000000001, "sec": 0.01}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 11, "model": "HOG+SVM", "acc": 0.934, "auc": 0.989032, "sec": 0.21}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 11, "model": "Random ferns", "acc": 0.899, "auc": 0.925694, "sec": 0.17}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 11, "model": "CNN", "acc": 0.962, "auc": 0.9923040000000001, "sec": 1.43}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 11, "model": "CNN+aug", "acc": 0.977, "auc": 0.99734, "sec": 6.16}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 12, "model": "CCA v2", "acc": 0.932, "auc": 0.98496, "sec": 1.58}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 12, "model": "LogReg", "acc": 0.924, "auc": 0.97288, "sec": 0.01}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 12, "model": "HOG+SVM", "acc": 0.958, "auc": 0.9934919999999999, "sec": 0.2}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 12, "model": "Random ferns", "acc": 0.868, "auc": 0.8918359999999999, "sec": 0.19}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 12, "model": "CNN", "acc": 0.933, "auc": 0.98302, "sec": 1.41}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 12, "model": "CNN+aug", "acc": 0.946, "auc": 0.989804, "sec": 6.02}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 13, "model": "CCA v2", "acc": 0.92, "auc": 0.97764, "sec": 1.44}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 13, "model": "LogReg", "acc": 0.902, "auc": 0.9599120000000001, "sec": 0.01}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 13, "model": "HOG+SVM", "acc": 0.935, "auc": 0.988328, "sec": 0.19}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 13, "model": "Random ferns", "acc": 0.886, "auc": 0.9161960000000001, "sec": 0.19}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 13, "model": "CNN", "acc": 0.918, "auc": 0.97656, "sec": 1.36}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 13, "model": "CNN+aug", "acc": 0.941, "auc": 0.9838679999999999, "sec": 6.15}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 14, "model": "CCA v2", "acc": 0.907, "auc": 0.976216, "sec": 1.43}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 14, "model": "LogReg", "acc": 0.889, "auc": 0.9534320000000001, "sec": 0.01}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 14, "model": "HOG+SVM", "acc": 0.956, "auc": 0.992516, "sec": 0.2}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 14, "model": "Random ferns", "acc": 0.878, "auc": 0.9021680000000001, "sec": 0.17}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 14, "model": "CNN", "acc": 0.892, "auc": 0.964176, "sec": 1.46}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 14, "model": "CNN+aug", "acc": 0.935, "auc": 0.9850199999999999, "sec": 5.88}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 15, "model": "CCA v2", "acc": 0.964, "auc": 0.995872, "sec": 1.44}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 15, "model": "LogReg", "acc": 0.943, "auc": 0.983736, "sec": 0.01}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 15, "model": "HOG+SVM", "acc": 0.97, "auc": 0.996348, "sec": 0.17}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 15, "model": "Random ferns", "acc": 0.924, "auc": 0.9569579999999999, "sec": 0.16}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 15, "model": "CNN", "acc": 0.928, "auc": 0.981892, "sec": 1.41}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 15, "model": "CNN+aug", "acc": 0.96, "auc": 0.9932639999999999, "sec": 6.16}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 16, "model": "CCA v2", "acc": 0.974, "auc": 0.9957960000000001, "sec": 1.42}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 16, "model": "LogReg", "acc": 0.938, "auc": 0.98404, "sec": 0.01}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 16, "model": "HOG+SVM", "acc": 0.967, "auc": 0.996536, "sec": 0.21}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 16, "model": "Random ferns", "acc": 0.94, "auc": 0.968114, "sec": 0.18}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 16, "model": "CNN", "acc": 0.94, "auc": 0.9859720000000001, "sec": 1.4}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 16, "model": "CNN+aug", "acc": 0.959, "auc": 0.99276, "sec": 6.06}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 17, "model": "CCA v2", "acc": 0.962, "auc": 0.9918, "sec": 1.35}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 17, "model": "LogReg", "acc": 0.909, "auc": 0.9680359999999999, "sec": 0.01}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 17, "model": "HOG+SVM", "acc": 0.963, "auc": 0.996692, "sec": 0.19}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 17, "model": "Random ferns", "acc": 0.909, "auc": 0.9458080000000001, "sec": 0.17}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 17, "model": "CNN", "acc": 0.932, "auc": 0.981128, "sec": 1.32}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 17, "model": "CNN+aug", "acc": 0.964, "auc": 0.992236, "sec": 6.06}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 18, "model": "CCA v2", "acc": 0.942, "auc": 0.9907800000000001, "sec": 1.4}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 18, "model": "LogReg", "acc": 0.913, "auc": 0.9708519999999999, "sec": 0.01}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 18, "model": "HOG+SVM", "acc": 0.961, "auc": 0.99648, "sec": 0.21}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 18, "model": "Random ferns", "acc": 0.914, "auc": 0.937708, "sec": 0.2}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 18, "model": "CNN", "acc": 0.92, "auc": 0.97974, "sec": 1.44}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 18, "model": "CNN+aug", "acc": 0.955, "auc": 0.9922960000000001, "sec": 6.31}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 19, "model": "CCA v2", "acc": 0.938, "auc": 0.989176, "sec": 1.21}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 19, "model": "LogReg", "acc": 0.94, "auc": 0.9843160000000001, "sec": 0.0}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 19, "model": "HOG+SVM", "acc": 0.95, "auc": 0.991268, "sec": 0.16}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 19, "model": "Random ferns", "acc": 0.914, "auc": 0.95026, "sec": 0.15}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 19, "model": "CNN", "acc": 0.95, "auc": 0.9905520000000001, "sec": 1.39}
+{"task": "MNIST 3v8", "role": "dev", "n": 30, "seed": 19, "model": "CNN+aug", "acc": 0.981, "auc": 0.997492, "sec": 6.07}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 10, "model": "CCA v2", "acc": 0.965, "auc": 0.994956, "sec": 1.68}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 10, "model": "LogReg", "acc": 0.906, "auc": 0.961376, "sec": 0.01}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 10, "model": "HOG+SVM", "acc": 0.962, "auc": 0.9954320000000001, "sec": 0.21}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 10, "model": "Random ferns", "acc": 0.84, "auc": 0.8960359999999999, "sec": 0.19}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 10, "model": "CNN", "acc": 0.942, "auc": 0.9822919999999999, "sec": 1.39}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 10, "model": "CNN+aug", "acc": 0.976, "auc": 0.99822, "sec": 6.11}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 11, "model": "CCA v2", "acc": 0.931, "auc": 0.984724, "sec": 1.36}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 11, "model": "LogReg", "acc": 0.891, "auc": 0.957744, "sec": 0.01}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 11, "model": "HOG+SVM", "acc": 0.955, "auc": 0.9913940000000001, "sec": 0.2}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 11, "model": "Random ferns", "acc": 0.796, "auc": 0.8259879999999999, "sec": 0.18}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 11, "model": "CNN", "acc": 0.886, "auc": 0.9580040000000001, "sec": 1.37}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 11, "model": "CNN+aug", "acc": 0.961, "auc": 0.991868, "sec": 6.13}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 12, "model": "CCA v2", "acc": 0.951, "auc": 0.995692, "sec": 1.46}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 12, "model": "LogReg", "acc": 0.928, "auc": 0.978608, "sec": 0.01}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 12, "model": "HOG+SVM", "acc": 0.953, "auc": 0.992896, "sec": 0.21}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 12, "model": "Random ferns", "acc": 0.886, "auc": 0.94289, "sec": 0.17}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 12, "model": "CNN", "acc": 0.946, "auc": 0.9910199999999999, "sec": 1.37}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 12, "model": "CNN+aug", "acc": 0.969, "auc": 0.9980920000000001, "sec": 6.12}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 13, "model": "CCA v2", "acc": 0.965, "auc": 0.995312, "sec": 1.38}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 13, "model": "LogReg", "acc": 0.885, "auc": 0.952912, "sec": 0.01}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 13, "model": "HOG+SVM", "acc": 0.934, "auc": 0.984784, "sec": 0.21}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 13, "model": "Random ferns", "acc": 0.811, "auc": 0.856838, "sec": 0.18}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 13, "model": "CNN", "acc": 0.885, "auc": 0.9520200000000001, "sec": 1.42}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 13, "model": "CNN+aug", "acc": 0.945, "auc": 0.988924, "sec": 6.17}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 14, "model": "CCA v2", "acc": 0.965, "auc": 0.9941679999999999, "sec": 1.46}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 14, "model": "LogReg", "acc": 0.902, "auc": 0.962324, "sec": 0.01}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 14, "model": "HOG+SVM", "acc": 0.947, "auc": 0.9893959999999999, "sec": 0.23}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 14, "model": "Random ferns", "acc": 0.833, "auc": 0.8752679999999999, "sec": 0.15}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 14, "model": "CNN", "acc": 0.912, "auc": 0.9719920000000001, "sec": 1.41}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 14, "model": "CNN+aug", "acc": 0.975, "auc": 0.997332, "sec": 6.1}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 15, "model": "CCA v2", "acc": 0.949, "auc": 0.990108, "sec": 1.49}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 15, "model": "LogReg", "acc": 0.888, "auc": 0.952888, "sec": 0.01}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 15, "model": "HOG+SVM", "acc": 0.944, "auc": 0.990008, "sec": 0.14}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 15, "model": "Random ferns", "acc": 0.817, "auc": 0.857902, "sec": 0.18}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 15, "model": "CNN", "acc": 0.853, "auc": 0.934748, "sec": 1.41}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 15, "model": "CNN+aug", "acc": 0.94, "auc": 0.986248, "sec": 6.01}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 16, "model": "CCA v2", "acc": 0.942, "auc": 0.98652, "sec": 1.42}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 16, "model": "LogReg", "acc": 0.897, "auc": 0.962044, "sec": 0.01}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 16, "model": "HOG+SVM", "acc": 0.957, "auc": 0.989932, "sec": 0.2}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 16, "model": "Random ferns", "acc": 0.842, "auc": 0.896606, "sec": 0.17}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 16, "model": "CNN", "acc": 0.91, "auc": 0.971296, "sec": 1.47}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 16, "model": "CNN+aug", "acc": 0.969, "auc": 0.992852, "sec": 6.13}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 17, "model": "CCA v2", "acc": 0.938, "auc": 0.988728, "sec": 1.41}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 17, "model": "LogReg", "acc": 0.901, "auc": 0.964152, "sec": 0.01}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 17, "model": "HOG+SVM", "acc": 0.972, "auc": 0.997248, "sec": 0.19}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 17, "model": "Random ferns", "acc": 0.808, "auc": 0.851338, "sec": 0.18}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 17, "model": "CNN", "acc": 0.88, "auc": 0.950932, "sec": 1.38}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 17, "model": "CNN+aug", "acc": 0.951, "auc": 0.991452, "sec": 6.23}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 18, "model": "CCA v2", "acc": 0.957, "auc": 0.9981, "sec": 1.37}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 18, "model": "LogReg", "acc": 0.922, "auc": 0.969756, "sec": 0.01}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 18, "model": "HOG+SVM", "acc": 0.963, "auc": 0.994816, "sec": 0.19}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 18, "model": "Random ferns", "acc": 0.85, "auc": 0.920048, "sec": 0.18}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 18, "model": "CNN", "acc": 0.938, "auc": 0.984108, "sec": 1.37}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 18, "model": "CNN+aug", "acc": 0.963, "auc": 0.9973160000000001, "sec": 6.12}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 19, "model": "CCA v2", "acc": 0.97, "auc": 0.99394, "sec": 1.66}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 19, "model": "LogReg", "acc": 0.878, "auc": 0.9563919999999999, "sec": 0.01}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 19, "model": "HOG+SVM", "acc": 0.951, "auc": 0.991608, "sec": 0.19}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 19, "model": "Random ferns", "acc": 0.844, "auc": 0.89869, "sec": 0.19}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 19, "model": "CNN", "acc": 0.889, "auc": 0.9588519999999999, "sec": 1.32}
+{"task": "MNIST 4v9", "role": "dev", "n": 30, "seed": 19, "model": "CNN+aug", "acc": 0.955, "auc": 0.989868, "sec": 6.18}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 10, "model": "CCA v2", "acc": 0.819, "auc": 0.911448, "sec": 1.55}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 10, "model": "LogReg", "acc": 0.828, "auc": 0.89336, "sec": 0.01}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 10, "model": "HOG+SVM", "acc": 0.832, "auc": 0.9101319999999999, "sec": 0.16}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 10, "model": "Random ferns", "acc": 0.804, "auc": 0.842916, "sec": 0.15}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 10, "model": "CNN", "acc": 0.821, "auc": 0.89259, "sec": 1.3}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 10, "model": "CNN+aug", "acc": 0.813, "auc": 0.884944, "sec": 6.26}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 11, "model": "CCA v2", "acc": 0.788, "auc": 0.88268, "sec": 1.52}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 11, "model": "LogReg", "acc": 0.8, "auc": 0.885616, "sec": 0.01}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 11, "model": "HOG+SVM", "acc": 0.808, "auc": 0.8694519999999999, "sec": 0.19}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 11, "model": "Random ferns", "acc": 0.807, "auc": 0.8165240000000001, "sec": 0.15}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 11, "model": "CNN", "acc": 0.804, "auc": 0.8816519999999999, "sec": 1.44}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 11, "model": "CNN+aug", "acc": 0.802, "auc": 0.872656, "sec": 6.34}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 12, "model": "CCA v2", "acc": 0.812, "auc": 0.8998799999999999, "sec": 1.51}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 12, "model": "LogReg", "acc": 0.823, "auc": 0.8979079999999999, "sec": 0.01}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 12, "model": "HOG+SVM", "acc": 0.833, "auc": 0.901304, "sec": 0.23}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 12, "model": "Random ferns", "acc": 0.802, "auc": 0.816364, "sec": 0.18}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 12, "model": "CNN", "acc": 0.814, "auc": 0.887208, "sec": 1.32}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 12, "model": "CNN+aug", "acc": 0.829, "auc": 0.8955299999999999, "sec": 6.27}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 13, "model": "CCA v2", "acc": 0.796, "auc": 0.88984, "sec": 1.36}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 13, "model": "LogReg", "acc": 0.805, "auc": 0.8804080000000001, "sec": 0.01}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 13, "model": "HOG+SVM", "acc": 0.81, "auc": 0.884996, "sec": 0.17}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 13, "model": "Random ferns", "acc": 0.807, "auc": 0.852596, "sec": 0.18}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 13, "model": "CNN", "acc": 0.796, "auc": 0.8691279999999999, "sec": 1.43}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 13, "model": "CNN+aug", "acc": 0.805, "auc": 0.874744, "sec": 6.22}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 14, "model": "CCA v2", "acc": 0.811, "auc": 0.8953399999999999, "sec": 1.46}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 14, "model": "LogReg", "acc": 0.821, "auc": 0.901528, "sec": 0.01}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 14, "model": "HOG+SVM", "acc": 0.81, "auc": 0.88978, "sec": 0.23}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 14, "model": "Random ferns", "acc": 0.8, "auc": 0.822654, "sec": 0.18}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 14, "model": "CNN", "acc": 0.816, "auc": 0.8981520000000001, "sec": 1.42}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 14, "model": "CNN+aug", "acc": 0.817, "auc": 0.896784, "sec": 6.12}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 15, "model": "CCA v2", "acc": 0.796, "auc": 0.89344, "sec": 1.5}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 15, "model": "LogReg", "acc": 0.788, "auc": 0.877008, "sec": 0.01}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 15, "model": "HOG+SVM", "acc": 0.799, "auc": 0.8788219999999999, "sec": 0.19}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 15, "model": "Random ferns", "acc": 0.803, "auc": 0.8331, "sec": 0.15}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 15, "model": "CNN", "acc": 0.768, "auc": 0.8754120000000001, "sec": 1.31}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 15, "model": "CNN+aug", "acc": 0.776, "auc": 0.868208, "sec": 6.48}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 16, "model": "CCA v2", "acc": 0.793, "auc": 0.879752, "sec": 1.54}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 16, "model": "LogReg", "acc": 0.793, "auc": 0.878564, "sec": 0.01}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 16, "model": "HOG+SVM", "acc": 0.794, "auc": 0.879732, "sec": 0.21}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 16, "model": "Random ferns", "acc": 0.796, "auc": 0.8362040000000001, "sec": 0.17}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 16, "model": "CNN", "acc": 0.776, "auc": 0.872964, "sec": 1.49}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 16, "model": "CNN+aug", "acc": 0.773, "auc": 0.8610440000000001, "sec": 6.17}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 17, "model": "CCA v2", "acc": 0.791, "auc": 0.8702479999999999, "sec": 1.55}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 17, "model": "LogReg", "acc": 0.798, "auc": 0.8646720000000001, "sec": 0.01}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 17, "model": "HOG+SVM", "acc": 0.794, "auc": 0.8723019999999999, "sec": 0.22}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 17, "model": "Random ferns", "acc": 0.806, "auc": 0.8354820000000001, "sec": 0.19}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 17, "model": "CNN", "acc": 0.798, "auc": 0.8797680000000001, "sec": 1.43}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 17, "model": "CNN+aug", "acc": 0.78, "auc": 0.86074, "sec": 6.12}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 18, "model": "CCA v2", "acc": 0.792, "auc": 0.866192, "sec": 1.3}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 18, "model": "LogReg", "acc": 0.754, "auc": 0.860668, "sec": 0.01}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 18, "model": "HOG+SVM", "acc": 0.811, "auc": 0.89216, "sec": 0.16}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 18, "model": "Random ferns", "acc": 0.807, "auc": 0.831722, "sec": 0.18}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 18, "model": "CNN", "acc": 0.8, "auc": 0.879278, "sec": 1.45}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 18, "model": "CNN+aug", "acc": 0.761, "auc": 0.8678919999999999, "sec": 6.41}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 19, "model": "CCA v2", "acc": 0.812, "auc": 0.9007040000000001, "sec": 1.33}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 19, "model": "LogReg", "acc": 0.836, "auc": 0.911484, "sec": 0.01}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 19, "model": "HOG+SVM", "acc": 0.806, "auc": 0.9083840000000001, "sec": 0.22}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 19, "model": "Random ferns", "acc": 0.824, "auc": 0.84392, "sec": 0.19}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 19, "model": "CNN", "acc": 0.791, "auc": 0.887888, "sec": 1.42}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 30, "seed": 19, "model": "CNN+aug", "acc": 0.809, "auc": 0.9030800000000001, "sec": 6.24}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 10, "model": "CCA v2", "acc": 0.952, "auc": 0.992348, "sec": 1.51}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 10, "model": "LogReg", "acc": 0.9, "auc": 0.962164, "sec": 0.01}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 10, "model": "HOG+SVM", "acc": 0.944, "auc": 0.9904139999999999, "sec": 0.2}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 10, "model": "Random ferns", "acc": 0.927, "auc": 0.956698, "sec": 0.2}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 10, "model": "CNN", "acc": 0.912, "auc": 0.972704, "sec": 1.4}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 10, "model": "CNN+aug", "acc": 0.946, "auc": 0.9876079999999999, "sec": 6.04}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 11, "model": "CCA v2", "acc": 0.937, "auc": 0.9890680000000001, "sec": 1.42}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 11, "model": "LogReg", "acc": 0.919, "auc": 0.9711080000000001, "sec": 0.01}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 11, "model": "HOG+SVM", "acc": 0.949, "auc": 0.9914540000000001, "sec": 0.18}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 11, "model": "Random ferns", "acc": 0.905, "auc": 0.943106, "sec": 0.19}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 11, "model": "CNN", "acc": 0.908, "auc": 0.976764, "sec": 1.44}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 11, "model": "CNN+aug", "acc": 0.926, "auc": 0.99282, "sec": 6.13}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 12, "model": "CCA v2", "acc": 0.941, "auc": 0.988124, "sec": 1.39}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 12, "model": "LogReg", "acc": 0.924, "auc": 0.9723879999999999, "sec": 0.01}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 12, "model": "HOG+SVM", "acc": 0.946, "auc": 0.988364, "sec": 0.21}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 12, "model": "Random ferns", "acc": 0.9, "auc": 0.934352, "sec": 0.18}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 12, "model": "CNN", "acc": 0.913, "auc": 0.9671400000000001, "sec": 1.44}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 12, "model": "CNN+aug", "acc": 0.95, "auc": 0.98784, "sec": 6.16}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 13, "model": "CCA v2", "acc": 0.943, "auc": 0.988516, "sec": 1.43}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 13, "model": "LogReg", "acc": 0.91, "auc": 0.964188, "sec": 0.0}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 13, "model": "HOG+SVM", "acc": 0.94, "auc": 0.989456, "sec": 0.18}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 13, "model": "Random ferns", "acc": 0.928, "auc": 0.950616, "sec": 0.18}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 13, "model": "CNN", "acc": 0.928, "auc": 0.980632, "sec": 1.41}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 13, "model": "CNN+aug", "acc": 0.926, "auc": 0.988768, "sec": 6.14}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 14, "model": "CCA v2", "acc": 0.924, "auc": 0.9776039999999999, "sec": 1.33}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 14, "model": "LogReg", "acc": 0.897, "auc": 0.960824, "sec": 0.0}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 14, "model": "HOG+SVM", "acc": 0.906, "auc": 0.9683019999999999, "sec": 0.19}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 14, "model": "Random ferns", "acc": 0.863, "auc": 0.890984, "sec": 0.17}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 14, "model": "CNN", "acc": 0.884, "auc": 0.9544079999999999, "sec": 1.31}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 14, "model": "CNN+aug", "acc": 0.898, "auc": 0.95944, "sec": 6.02}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 15, "model": "CCA v2", "acc": 0.899, "auc": 0.967256, "sec": 1.43}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 15, "model": "LogReg", "acc": 0.857, "auc": 0.9432399999999999, "sec": 0.01}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 15, "model": "HOG+SVM", "acc": 0.94, "auc": 0.982356, "sec": 0.14}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 15, "model": "Random ferns", "acc": 0.857, "auc": 0.8991240000000001, "sec": 0.16}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 15, "model": "CNN", "acc": 0.849, "auc": 0.9246880000000001, "sec": 1.39}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 15, "model": "CNN+aug", "acc": 0.91, "auc": 0.9703919999999999, "sec": 6.15}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 16, "model": "CCA v2", "acc": 0.934, "auc": 0.986028, "sec": 1.43}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 16, "model": "LogReg", "acc": 0.907, "auc": 0.966036, "sec": 0.01}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 16, "model": "HOG+SVM", "acc": 0.939, "auc": 0.985448, "sec": 0.19}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 16, "model": "Random ferns", "acc": 0.904, "auc": 0.940146, "sec": 0.17}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 16, "model": "CNN", "acc": 0.901, "auc": 0.962764, "sec": 1.37}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 16, "model": "CNN+aug", "acc": 0.917, "auc": 0.980406, "sec": 6.1}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 17, "model": "CCA v2", "acc": 0.939, "auc": 0.983588, "sec": 1.52}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 17, "model": "LogReg", "acc": 0.916, "auc": 0.972164, "sec": 0.01}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 17, "model": "HOG+SVM", "acc": 0.941, "auc": 0.985458, "sec": 0.19}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 17, "model": "Random ferns", "acc": 0.894, "auc": 0.930884, "sec": 0.18}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 17, "model": "CNN", "acc": 0.92, "auc": 0.973576, "sec": 1.4}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 17, "model": "CNN+aug", "acc": 0.942, "auc": 0.986812, "sec": 6.17}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 18, "model": "CCA v2", "acc": 0.945, "auc": 0.9927480000000001, "sec": 1.37}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 18, "model": "LogReg", "acc": 0.932, "auc": 0.979272, "sec": 0.01}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 18, "model": "HOG+SVM", "acc": 0.958, "auc": 0.9912, "sec": 0.17}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 18, "model": "Random ferns", "acc": 0.909, "auc": 0.9395540000000001, "sec": 0.17}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 18, "model": "CNN", "acc": 0.935, "auc": 0.985424, "sec": 1.32}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 18, "model": "CNN+aug", "acc": 0.947, "auc": 0.993676, "sec": 5.87}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 19, "model": "CCA v2", "acc": 0.924, "auc": 0.977652, "sec": 1.46}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 19, "model": "LogReg", "acc": 0.917, "auc": 0.972084, "sec": 0.01}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 19, "model": "HOG+SVM", "acc": 0.935, "auc": 0.98192, "sec": 0.19}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 19, "model": "Random ferns", "acc": 0.893, "auc": 0.931792, "sec": 0.17}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 19, "model": "CNN", "acc": 0.902, "auc": 0.96638, "sec": 1.44}
+{"task": "MNIST 7v9", "role": "held-out", "n": 30, "seed": 19, "model": "CNN+aug", "acc": 0.937, "auc": 0.9821599999999999, "sec": 6.04}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 10, "model": "CCA v2", "acc": 0.978, "auc": 0.9975400000000001, "sec": 1.32}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 10, "model": "LogReg", "acc": 0.924, "auc": 0.970224, "sec": 0.0}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 10, "model": "HOG+SVM", "acc": 0.968, "auc": 0.9959, "sec": 0.14}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 10, "model": "Random ferns", "acc": 0.936, "auc": 0.968644, "sec": 0.15}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 10, "model": "CNN", "acc": 0.943, "auc": 0.983256, "sec": 1.35}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 10, "model": "CNN+aug", "acc": 0.969, "auc": 0.9944320000000001, "sec": 6.15}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 11, "model": "CCA v2", "acc": 0.977, "auc": 0.997836, "sec": 1.37}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 11, "model": "LogReg", "acc": 0.923, "auc": 0.970612, "sec": 0.01}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 11, "model": "HOG+SVM", "acc": 0.967, "auc": 0.9955160000000001, "sec": 0.23}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 11, "model": "Random ferns", "acc": 0.927, "auc": 0.9602919999999999, "sec": 0.17}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 11, "model": "CNN", "acc": 0.944, "auc": 0.98644, "sec": 1.46}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 11, "model": "CNN+aug", "acc": 0.971, "auc": 0.9942959999999998, "sec": 5.96}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 12, "model": "CCA v2", "acc": 0.958, "auc": 0.9966519999999999, "sec": 1.46}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 12, "model": "LogReg", "acc": 0.887, "auc": 0.95652, "sec": 0.01}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 12, "model": "HOG+SVM", "acc": 0.944, "auc": 0.9937360000000001, "sec": 0.2}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 12, "model": "Random ferns", "acc": 0.927, "auc": 0.958582, "sec": 0.18}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 12, "model": "CNN", "acc": 0.865, "auc": 0.9504360000000001, "sec": 1.4}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 12, "model": "CNN+aug", "acc": 0.945, "auc": 0.9870840000000001, "sec": 6.24}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 13, "model": "CCA v2", "acc": 0.931, "auc": 0.979868, "sec": 1.32}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 13, "model": "LogReg", "acc": 0.912, "auc": 0.9627520000000002, "sec": 0.01}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 13, "model": "HOG+SVM", "acc": 0.958, "auc": 0.9932240000000001, "sec": 0.2}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 13, "model": "Random ferns", "acc": 0.861, "auc": 0.8988139999999999, "sec": 0.18}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 13, "model": "CNN", "acc": 0.898, "auc": 0.965256, "sec": 1.35}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 13, "model": "CNN+aug", "acc": 0.945, "auc": 0.985108, "sec": 6.22}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 14, "model": "CCA v2", "acc": 0.969, "auc": 0.99632, "sec": 1.47}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 14, "model": "LogReg", "acc": 0.908, "auc": 0.962556, "sec": 0.0}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 14, "model": "HOG+SVM", "acc": 0.969, "auc": 0.994872, "sec": 0.14}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 14, "model": "Random ferns", "acc": 0.938, "auc": 0.9730300000000001, "sec": 0.16}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 14, "model": "CNN", "acc": 0.93, "auc": 0.9779079999999999, "sec": 1.4}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 14, "model": "CNN+aug", "acc": 0.955, "auc": 0.992312, "sec": 6.17}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 15, "model": "CCA v2", "acc": 0.982, "auc": 0.9986200000000001, "sec": 1.31}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 15, "model": "LogReg", "acc": 0.917, "auc": 0.977724, "sec": 0.0}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 15, "model": "HOG+SVM", "acc": 0.973, "auc": 0.99695, "sec": 0.14}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 15, "model": "Random ferns", "acc": 0.94, "auc": 0.969194, "sec": 0.15}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 15, "model": "CNN", "acc": 0.949, "auc": 0.9902, "sec": 1.35}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 15, "model": "CNN+aug", "acc": 0.965, "auc": 0.9956119999999999, "sec": 6.04}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 16, "model": "CCA v2", "acc": 0.962, "auc": 0.991352, "sec": 1.38}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 16, "model": "LogReg", "acc": 0.889, "auc": 0.9573, "sec": 0.01}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 16, "model": "HOG+SVM", "acc": 0.958, "auc": 0.99426, "sec": 0.23}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 16, "model": "Random ferns", "acc": 0.873, "auc": 0.9076900000000001, "sec": 0.17}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 16, "model": "CNN", "acc": 0.931, "auc": 0.980428, "sec": 1.42}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 16, "model": "CNN+aug", "acc": 0.966, "auc": 0.992172, "sec": 6.13}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 17, "model": "CCA v2", "acc": 0.953, "auc": 0.985208, "sec": 1.38}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 17, "model": "LogReg", "acc": 0.873, "auc": 0.937792, "sec": 0.01}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 17, "model": "HOG+SVM", "acc": 0.97, "auc": 0.9963799999999999, "sec": 0.21}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 17, "model": "Random ferns", "acc": 0.924, "auc": 0.949776, "sec": 0.18}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 17, "model": "CNN", "acc": 0.896, "auc": 0.9505679999999999, "sec": 1.39}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 17, "model": "CNN+aug", "acc": 0.94, "auc": 0.9810760000000001, "sec": 6.06}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 18, "model": "CCA v2", "acc": 0.932, "auc": 0.989388, "sec": 1.46}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 18, "model": "LogReg", "acc": 0.913, "auc": 0.97042, "sec": 0.01}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 18, "model": "HOG+SVM", "acc": 0.958, "auc": 0.9954500000000001, "sec": 0.2}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 18, "model": "Random ferns", "acc": 0.854, "auc": 0.89614, "sec": 0.18}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 18, "model": "CNN", "acc": 0.934, "auc": 0.9848120000000001, "sec": 1.42}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 18, "model": "CNN+aug", "acc": 0.961, "auc": 0.9941800000000001, "sec": 5.98}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 19, "model": "CCA v2", "acc": 0.99, "auc": 0.99954, "sec": 1.58}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 19, "model": "LogReg", "acc": 0.933, "auc": 0.984, "sec": 0.01}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 19, "model": "HOG+SVM", "acc": 0.961, "auc": 0.9968140000000001, "sec": 0.25}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 19, "model": "Random ferns", "acc": 0.959, "auc": 0.981194, "sec": 0.19}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 19, "model": "CNN", "acc": 0.956, "auc": 0.99224, "sec": 1.36}
+{"task": "MNIST 5v8", "role": "held-out", "n": 30, "seed": 19, "model": "CNN+aug", "acc": 0.967, "auc": 0.994468, "sec": 6.15}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 10, "model": "CCA v2", "acc": 0.759, "auc": 0.829548, "sec": 1.48}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 10, "model": "LogReg", "acc": 0.742, "auc": 0.8257199999999999, "sec": 0.01}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 10, "model": "HOG+SVM", "acc": 0.766, "auc": 0.8476800000000001, "sec": 0.2}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 10, "model": "Random ferns", "acc": 0.748, "auc": 0.7848259999999999, "sec": 0.17}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 10, "model": "CNN", "acc": 0.71, "auc": 0.794372, "sec": 1.41}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 10, "model": "CNN+aug", "acc": 0.764, "auc": 0.8347800000000001, "sec": 6.21}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 11, "model": "CCA v2", "acc": 0.766, "auc": 0.882648, "sec": 1.46}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 11, "model": "LogReg", "acc": 0.82, "auc": 0.8953799999999998, "sec": 0.01}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 11, "model": "HOG+SVM", "acc": 0.768, "auc": 0.853986, "sec": 0.21}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 11, "model": "Random ferns", "acc": 0.791, "auc": 0.8761399999999999, "sec": 0.18}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 11, "model": "CNN", "acc": 0.796, "auc": 0.87818, "sec": 1.53}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 11, "model": "CNN+aug", "acc": 0.846, "auc": 0.915496, "sec": 6.3}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 12, "model": "CCA v2", "acc": 0.819, "auc": 0.86806, "sec": 1.55}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 12, "model": "LogReg", "acc": 0.78, "auc": 0.854124, "sec": 0.01}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 12, "model": "HOG+SVM", "acc": 0.808, "auc": 0.8874879999999999, "sec": 0.21}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 12, "model": "Random ferns", "acc": 0.793, "auc": 0.8456439999999998, "sec": 0.17}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 12, "model": "CNN", "acc": 0.819, "auc": 0.8818280000000001, "sec": 1.43}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 12, "model": "CNN+aug", "acc": 0.801, "auc": 0.889632, "sec": 6.2}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 13, "model": "CCA v2", "acc": 0.714, "auc": 0.834804, "sec": 1.25}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 13, "model": "LogReg", "acc": 0.769, "auc": 0.85006, "sec": 0.01}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 13, "model": "HOG+SVM", "acc": 0.754, "auc": 0.8335, "sec": 0.16}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 13, "model": "Random ferns", "acc": 0.737, "auc": 0.7965279999999999, "sec": 0.18}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 13, "model": "CNN", "acc": 0.756, "auc": 0.831276, "sec": 1.46}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 13, "model": "CNN+aug", "acc": 0.763, "auc": 0.8424519999999999, "sec": 6.36}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 14, "model": "CCA v2", "acc": 0.802, "auc": 0.877452, "sec": 1.5}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 14, "model": "LogReg", "acc": 0.784, "auc": 0.8741559999999999, "sec": 0.01}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 14, "model": "HOG+SVM", "acc": 0.809, "auc": 0.8985399999999999, "sec": 0.21}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 14, "model": "Random ferns", "acc": 0.736, "auc": 0.8264640000000001, "sec": 0.19}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 14, "model": "CNN", "acc": 0.773, "auc": 0.8535999999999999, "sec": 1.43}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 14, "model": "CNN+aug", "acc": 0.803, "auc": 0.8951679999999999, "sec": 6.19}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 15, "model": "CCA v2", "acc": 0.697, "auc": 0.843668, "sec": 1.41}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 15, "model": "LogReg", "acc": 0.791, "auc": 0.872024, "sec": 0.01}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 15, "model": "HOG+SVM", "acc": 0.821, "auc": 0.8934099999999999, "sec": 0.23}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 15, "model": "Random ferns", "acc": 0.795, "auc": 0.8659479999999999, "sec": 0.19}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 15, "model": "CNN", "acc": 0.809, "auc": 0.876112, "sec": 1.48}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 15, "model": "CNN+aug", "acc": 0.833, "auc": 0.891952, "sec": 6.25}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 16, "model": "CCA v2", "acc": 0.723, "auc": 0.7962079999999999, "sec": 1.49}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 16, "model": "LogReg", "acc": 0.819, "auc": 0.885796, "sec": 0.01}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 16, "model": "HOG+SVM", "acc": 0.789, "auc": 0.879288, "sec": 0.21}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 16, "model": "Random ferns", "acc": 0.679, "auc": 0.732282, "sec": 0.18}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 16, "model": "CNN", "acc": 0.765, "auc": 0.8518, "sec": 1.47}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 16, "model": "CNN+aug", "acc": 0.807, "auc": 0.9059039999999999, "sec": 6.17}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 17, "model": "CCA v2", "acc": 0.741, "auc": 0.828108, "sec": 1.43}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 17, "model": "LogReg", "acc": 0.81, "auc": 0.88456, "sec": 0.01}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 17, "model": "HOG+SVM", "acc": 0.791, "auc": 0.877766, "sec": 0.21}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 17, "model": "Random ferns", "acc": 0.794, "auc": 0.8495860000000001, "sec": 0.18}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 17, "model": "CNN", "acc": 0.808, "auc": 0.8834639999999999, "sec": 1.42}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 17, "model": "CNN+aug", "acc": 0.827, "auc": 0.896468, "sec": 6.27}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 18, "model": "CCA v2", "acc": 0.783, "auc": 0.8831240000000001, "sec": 1.53}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 18, "model": "LogReg", "acc": 0.799, "auc": 0.8699359999999999, "sec": 0.01}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 18, "model": "HOG+SVM", "acc": 0.774, "auc": 0.8675799999999999, "sec": 0.22}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 18, "model": "Random ferns", "acc": 0.731, "auc": 0.79251, "sec": 0.22}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 18, "model": "CNN", "acc": 0.783, "auc": 0.8631599999999999, "sec": 1.51}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 18, "model": "CNN+aug", "acc": 0.814, "auc": 0.885772, "sec": 6.35}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 19, "model": "CCA v2", "acc": 0.799, "auc": 0.8677240000000002, "sec": 1.27}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 19, "model": "LogReg", "acc": 0.811, "auc": 0.8769800000000001, "sec": 0.01}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 19, "model": "HOG+SVM", "acc": 0.786, "auc": 0.86414, "sec": 0.19}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 19, "model": "Random ferns", "acc": 0.757, "auc": 0.796376, "sec": 0.18}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 19, "model": "CNN", "acc": 0.752, "auc": 0.83804, "sec": 1.43}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 30, "seed": 19, "model": "CNN+aug", "acc": 0.81, "auc": 0.8828360000000001, "sec": 8.33}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 10, "model": "CCA v2", "acc": 0.918, "auc": 0.980276, "sec": 2.97}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 10, "model": "LogReg", "acc": 0.93, "auc": 0.981264, "sec": 0.02}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 10, "model": "HOG+SVM", "acc": 0.933, "auc": 0.98458, "sec": 0.41}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 10, "model": "Random ferns", "acc": 0.898, "auc": 0.9108679999999999, "sec": 0.28}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 10, "model": "CNN", "acc": 0.921, "auc": 0.9814, "sec": 1.4}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 10, "model": "CNN+aug", "acc": 0.936, "auc": 0.986924, "sec": 8.94}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 11, "model": "CCA v2", "acc": 0.918, "auc": 0.975744, "sec": 1.44}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 11, "model": "LogReg", "acc": 0.921, "auc": 0.973352, "sec": 0.01}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 11, "model": "HOG+SVM", "acc": 0.922, "auc": 0.9794440000000001, "sec": 0.2}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 11, "model": "Random ferns", "acc": 0.893, "auc": 0.907716, "sec": 0.2}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 11, "model": "CNN", "acc": 0.921, "auc": 0.97574, "sec": 1.46}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 11, "model": "CNN+aug", "acc": 0.93, "auc": 0.982052, "sec": 8.32}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 12, "model": "CCA v2", "acc": 0.923, "auc": 0.981376, "sec": 2.09}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 12, "model": "LogReg", "acc": 0.931, "auc": 0.979368, "sec": 0.01}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 12, "model": "HOG+SVM", "acc": 0.933, "auc": 0.9829239999999999, "sec": 0.23}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 12, "model": "Random ferns", "acc": 0.891, "auc": 0.9094760000000001, "sec": 0.2}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 12, "model": "CNN", "acc": 0.92, "auc": 0.980688, "sec": 1.42}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 12, "model": "CNN+aug", "acc": 0.94, "auc": 0.98452, "sec": 6.13}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 13, "model": "CCA v2", "acc": 0.916, "auc": 0.9759960000000001, "sec": 1.5}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 13, "model": "LogReg", "acc": 0.92, "auc": 0.975352, "sec": 0.01}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 13, "model": "HOG+SVM", "acc": 0.924, "auc": 0.978908, "sec": 0.2}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 13, "model": "Random ferns", "acc": 0.905, "auc": 0.9157900000000001, "sec": 0.21}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 13, "model": "CNN", "acc": 0.913, "auc": 0.9729880000000001, "sec": 1.47}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 13, "model": "CNN+aug", "acc": 0.92, "auc": 0.974954, "sec": 6.27}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 14, "model": "CCA v2", "acc": 0.93, "auc": 0.9808159999999999, "sec": 1.5}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 14, "model": "LogReg", "acc": 0.927, "auc": 0.978468, "sec": 0.01}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 14, "model": "HOG+SVM", "acc": 0.927, "auc": 0.9801480000000001, "sec": 0.2}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 14, "model": "Random ferns", "acc": 0.905, "auc": 0.917526, "sec": 0.18}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 14, "model": "CNN", "acc": 0.922, "auc": 0.977772, "sec": 1.33}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 14, "model": "CNN+aug", "acc": 0.937, "auc": 0.9836400000000001, "sec": 6.22}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 15, "model": "CCA v2", "acc": 0.93, "auc": 0.9832080000000001, "sec": 1.55}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 15, "model": "LogReg", "acc": 0.93, "auc": 0.9842200000000001, "sec": 0.01}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 15, "model": "HOG+SVM", "acc": 0.929, "auc": 0.981546, "sec": 0.2}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 15, "model": "Random ferns", "acc": 0.907, "auc": 0.926896, "sec": 0.19}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 15, "model": "CNN", "acc": 0.926, "auc": 0.98276, "sec": 1.45}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 15, "model": "CNN+aug", "acc": 0.934, "auc": 0.98388, "sec": 6.32}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 16, "model": "CCA v2", "acc": 0.936, "auc": 0.985392, "sec": 1.38}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 16, "model": "LogReg", "acc": 0.942, "auc": 0.984164, "sec": 0.01}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 16, "model": "HOG+SVM", "acc": 0.953, "auc": 0.985848, "sec": 0.23}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 16, "model": "Random ferns", "acc": 0.922, "auc": 0.938176, "sec": 0.17}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 16, "model": "CNN", "acc": 0.928, "auc": 0.9850239999999999, "sec": 1.36}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 16, "model": "CNN+aug", "acc": 0.945, "auc": 0.9895039999999999, "sec": 6.16}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 17, "model": "CCA v2", "acc": 0.906, "auc": 0.976568, "sec": 1.49}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 17, "model": "LogReg", "acc": 0.908, "auc": 0.9757560000000001, "sec": 0.01}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 17, "model": "HOG+SVM", "acc": 0.91, "auc": 0.97566, "sec": 0.19}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 17, "model": "Random ferns", "acc": 0.88, "auc": 0.8889799999999999, "sec": 0.17}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 17, "model": "CNN", "acc": 0.909, "auc": 0.9749639999999999, "sec": 1.22}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 17, "model": "CNN+aug", "acc": 0.893, "auc": 0.979364, "sec": 6.05}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 18, "model": "CCA v2", "acc": 0.939, "auc": 0.987396, "sec": 1.37}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 18, "model": "LogReg", "acc": 0.932, "auc": 0.984096, "sec": 0.01}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 18, "model": "HOG+SVM", "acc": 0.948, "auc": 0.990634, "sec": 0.21}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 18, "model": "Random ferns", "acc": 0.915, "auc": 0.935722, "sec": 0.18}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 18, "model": "CNN", "acc": 0.94, "auc": 0.9868079999999999, "sec": 1.43}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 18, "model": "CNN+aug", "acc": 0.921, "auc": 0.9896, "sec": 6.45}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 19, "model": "CCA v2", "acc": 0.909, "auc": 0.977636, "sec": 1.43}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 19, "model": "LogReg", "acc": 0.907, "auc": 0.968096, "sec": 0.01}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 19, "model": "HOG+SVM", "acc": 0.922, "auc": 0.98088, "sec": 0.21}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 19, "model": "Random ferns", "acc": 0.894, "auc": 0.899464, "sec": 0.18}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 19, "model": "CNN", "acc": 0.91, "auc": 0.975564, "sec": 1.44}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 30, "seed": 19, "model": "CNN+aug", "acc": 0.913, "auc": 0.976502, "sec": 6.14}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 10, "model": "CCA v2", "acc": 0.993, "auc": 0.999596, "sec": 21.28}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 10, "model": "LogReg", "acc": 0.967, "auc": 0.991464, "sec": 0.12}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 10, "model": "HOG+SVM", "acc": 0.99, "auc": 0.999288, "sec": 2.44}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 10, "model": "Random ferns", "acc": 0.946, "auc": 0.96085, "sec": 1.53}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 10, "model": "CNN", "acc": 0.992, "auc": 0.999004, "sec": 26.69}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 10, "model": "CNN+aug", "acc": 0.997, "auc": 0.9999399999999999, "sec": 63.47}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 11, "model": "CCA v2", "acc": 0.99, "auc": 0.999692, "sec": 33.83}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 11, "model": "LogReg", "acc": 0.959, "auc": 0.9860359999999999, "sec": 0.28}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 11, "model": "HOG+SVM", "acc": 0.988, "auc": 0.999188, "sec": 5.55}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 11, "model": "Random ferns", "acc": 0.936, "auc": 0.950924, "sec": 1.56}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 11, "model": "CNN", "acc": 0.986, "auc": 0.998332, "sec": 26.56}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 11, "model": "CNN+aug", "acc": 0.991, "auc": 0.999468, "sec": 50.08}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 12, "model": "CCA v2", "acc": 0.993, "auc": 0.9996440000000001, "sec": 24.3}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 12, "model": "LogReg", "acc": 0.967, "auc": 0.994504, "sec": 0.38}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 12, "model": "HOG+SVM", "acc": 0.995, "auc": 0.9998279999999999, "sec": 5.09}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 12, "model": "Random ferns", "acc": 0.941, "auc": 0.95472, "sec": 1.57}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 12, "model": "CNN", "acc": 0.996, "auc": 0.999948, "sec": 27.0}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 12, "model": "CNN+aug", "acc": 0.997, "auc": 0.999952, "sec": 63.73}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 13, "model": "CCA v2", "acc": 0.995, "auc": 0.99966, "sec": 22.6}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 13, "model": "LogReg", "acc": 0.959, "auc": 0.99082, "sec": 0.12}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 13, "model": "HOG+SVM", "acc": 0.988, "auc": 0.998768, "sec": 2.55}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 13, "model": "Random ferns", "acc": 0.941, "auc": 0.958798, "sec": 0.71}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 13, "model": "CNN", "acc": 0.99, "auc": 0.999728, "sec": 13.62}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 14, "model": "CCA v2", "acc": 0.988, "auc": 0.999624, "sec": 21.76}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 14, "model": "LogReg", "acc": 0.955, "auc": 0.981424, "sec": 0.16}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 14, "model": "HOG+SVM", "acc": 0.991, "auc": 0.9994799999999999, "sec": 2.59}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 14, "model": "Random ferns", "acc": 0.937, "auc": 0.9568720000000001, "sec": 0.77}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 14, "model": "CNN", "acc": 0.987, "auc": 0.999436, "sec": 12.94}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 10, "model": "CCA v2", "acc": 0.978, "auc": 0.9981920000000001, "sec": 27.65}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 10, "model": "LogReg", "acc": 0.97, "auc": 0.99308, "sec": 0.13}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 10, "model": "HOG+SVM", "acc": 0.984, "auc": 0.9987440000000001, "sec": 2.39}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 10, "model": "Random ferns", "acc": 0.929, "auc": 0.94919, "sec": 0.8}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 10, "model": "CNN", "acc": 0.991, "auc": 0.9982439999999999, "sec": 12.54}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 11, "model": "CCA v2", "acc": 0.991, "auc": 0.999532, "sec": 21.98}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 11, "model": "LogReg", "acc": 0.96, "auc": 0.9926839999999999, "sec": 0.15}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 11, "model": "HOG+SVM", "acc": 0.992, "auc": 0.9995, "sec": 2.57}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 11, "model": "Random ferns", "acc": 0.931, "auc": 0.951144, "sec": 0.75}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 11, "model": "CNN", "acc": 0.994, "auc": 0.9991, "sec": 12.74}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 12, "model": "CCA v2", "acc": 0.991, "auc": 0.999064, "sec": 22.32}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 12, "model": "LogReg", "acc": 0.964, "auc": 0.991204, "sec": 0.17}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 12, "model": "HOG+SVM", "acc": 0.99, "auc": 0.9993839999999999, "sec": 2.37}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 12, "model": "Random ferns", "acc": 0.94, "auc": 0.959036, "sec": 0.67}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 12, "model": "CNN", "acc": 0.993, "auc": 0.999372, "sec": 12.72}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 13, "model": "CCA v2", "acc": 0.987, "auc": 0.9995, "sec": 20.76}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 13, "model": "LogReg", "acc": 0.969, "auc": 0.994544, "sec": 0.15}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 13, "model": "HOG+SVM", "acc": 0.986, "auc": 0.998964, "sec": 2.43}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 13, "model": "Random ferns", "acc": 0.928, "auc": 0.957128, "sec": 0.8}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 13, "model": "CNN", "acc": 0.991, "auc": 0.999676, "sec": 13.04}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 14, "model": "CCA v2", "acc": 0.986, "auc": 0.998464, "sec": 21.16}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 14, "model": "LogReg", "acc": 0.96, "auc": 0.990136, "sec": 0.16}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 14, "model": "HOG+SVM", "acc": 0.99, "auc": 0.999612, "sec": 2.48}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 14, "model": "Random ferns", "acc": 0.934, "auc": 0.9607459999999999, "sec": 0.8}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 14, "model": "CNN", "acc": 0.987, "auc": 0.99854, "sec": 12.91}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 10, "model": "CCA v2", "acc": 0.824, "auc": 0.924468, "sec": 21.61}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 10, "model": "LogReg", "acc": 0.827, "auc": 0.9168919999999999, "sec": 0.49}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 10, "model": "HOG+SVM", "acc": 0.867, "auc": 0.9439240000000001, "sec": 6.3}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 10, "model": "Random ferns", "acc": 0.802, "auc": 0.8111079999999999, "sec": 0.76}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 10, "model": "CNN", "acc": 0.854, "auc": 0.93176, "sec": 13.02}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 11, "model": "CCA v2", "acc": 0.839, "auc": 0.922984, "sec": 22.32}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 11, "model": "LogReg", "acc": 0.831, "auc": 0.9083600000000001, "sec": 0.42}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 11, "model": "HOG+SVM", "acc": 0.86, "auc": 0.936446, "sec": 6.63}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 11, "model": "Random ferns", "acc": 0.804, "auc": 0.8077319999999999, "sec": 0.75}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 11, "model": "CNN", "acc": 0.851, "auc": 0.9299000000000001, "sec": 13.6}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 12, "model": "CCA v2", "acc": 0.844, "auc": 0.9391160000000001, "sec": 22.27}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 12, "model": "LogReg", "acc": 0.855, "auc": 0.926884, "sec": 0.42}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 12, "model": "HOG+SVM", "acc": 0.874, "auc": 0.9481860000000001, "sec": 6.61}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 12, "model": "Random ferns", "acc": 0.821, "auc": 0.833968, "sec": 0.76}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 12, "model": "CNN", "acc": 0.845, "auc": 0.9452640000000001, "sec": 13.21}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 13, "model": "CCA v2", "acc": 0.847, "auc": 0.933384, "sec": 22.34}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 13, "model": "LogReg", "acc": 0.839, "auc": 0.9184680000000001, "sec": 0.45}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 13, "model": "HOG+SVM", "acc": 0.86, "auc": 0.9415199999999999, "sec": 6.22}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 13, "model": "Random ferns", "acc": 0.825, "auc": 0.8385659999999999, "sec": 0.79}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 13, "model": "CNN", "acc": 0.846, "auc": 0.9360399999999998, "sec": 13.38}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 14, "model": "CCA v2", "acc": 0.853, "auc": 0.9352800000000001, "sec": 21.57}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 14, "model": "LogReg", "acc": 0.837, "auc": 0.917044, "sec": 0.38}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 14, "model": "HOG+SVM", "acc": 0.879, "auc": 0.9484979999999998, "sec": 6.37}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 14, "model": "Random ferns", "acc": 0.811, "auc": 0.83157, "sec": 0.78}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 14, "model": "CNN", "acc": 0.85, "auc": 0.93108, "sec": 13.41}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 10, "model": "CCA v2", "acc": 0.986, "auc": 0.9989159999999999, "sec": 21.44}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 10, "model": "LogReg", "acc": 0.957, "auc": 0.9870920000000001, "sec": 0.16}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 10, "model": "HOG+SVM", "acc": 0.984, "auc": 0.9987600000000001, "sec": 2.53}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 10, "model": "Random ferns", "acc": 0.945, "auc": 0.9595520000000001, "sec": 0.75}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 10, "model": "CNN", "acc": 0.987, "auc": 0.999004, "sec": 12.7}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 11, "model": "CCA v2", "acc": 0.986, "auc": 0.998912, "sec": 21.31}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 11, "model": "LogReg", "acc": 0.96, "auc": 0.989348, "sec": 0.16}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 11, "model": "HOG+SVM", "acc": 0.988, "auc": 0.99812, "sec": 2.72}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 11, "model": "Random ferns", "acc": 0.953, "auc": 0.9650880000000001, "sec": 0.8}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 11, "model": "CNN", "acc": 0.991, "auc": 0.999608, "sec": 19.78}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 12, "model": "CCA v2", "acc": 0.984, "auc": 0.998364, "sec": 21.12}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 12, "model": "LogReg", "acc": 0.937, "auc": 0.97958, "sec": 0.15}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 12, "model": "HOG+SVM", "acc": 0.984, "auc": 0.998932, "sec": 2.56}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 12, "model": "Random ferns", "acc": 0.935, "auc": 0.952872, "sec": 0.76}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 12, "model": "CNN", "acc": 0.985, "auc": 0.998808, "sec": 12.91}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 13, "model": "CCA v2", "acc": 0.987, "auc": 0.998664, "sec": 20.85}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 13, "model": "LogReg", "acc": 0.956, "auc": 0.9828479999999999, "sec": 0.16}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 13, "model": "HOG+SVM", "acc": 0.988, "auc": 0.9994040000000001, "sec": 2.66}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 13, "model": "Random ferns", "acc": 0.953, "auc": 0.969104, "sec": 0.75}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 13, "model": "CNN", "acc": 0.986, "auc": 0.998796, "sec": 12.86}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 14, "model": "CCA v2", "acc": 0.983, "auc": 0.998896, "sec": 21.33}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 14, "model": "LogReg", "acc": 0.955, "auc": 0.9867279999999999, "sec": 0.15}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 14, "model": "HOG+SVM", "acc": 0.988, "auc": 0.999232, "sec": 2.54}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 14, "model": "Random ferns", "acc": 0.938, "auc": 0.958168, "sec": 0.76}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 14, "model": "CNN", "acc": 0.987, "auc": 0.998932, "sec": 12.87}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 10, "model": "CCA v2", "acc": 0.991, "auc": 0.9993879999999999, "sec": 22.25}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 10, "model": "LogReg", "acc": 0.953, "auc": 0.98968, "sec": 0.18}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 10, "model": "HOG+SVM", "acc": 0.992, "auc": 0.999092, "sec": 1.99}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 10, "model": "Random ferns", "acc": 0.975, "auc": 0.986456, "sec": 0.75}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 10, "model": "CNN", "acc": 0.99, "auc": 0.9993960000000001, "sec": 12.87}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 11, "model": "CCA v2", "acc": 0.991, "auc": 0.999488, "sec": 21.18}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 11, "model": "LogReg", "acc": 0.96, "auc": 0.9897480000000001, "sec": 0.17}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 11, "model": "HOG+SVM", "acc": 0.99, "auc": 0.999632, "sec": 2.22}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 11, "model": "Random ferns", "acc": 0.971, "auc": 0.9831139999999999, "sec": 0.74}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 11, "model": "CNN", "acc": 0.984, "auc": 0.9996120000000001, "sec": 12.69}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 12, "model": "CCA v2", "acc": 0.992, "auc": 0.9996879999999999, "sec": 21.99}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 12, "model": "LogReg", "acc": 0.966, "auc": 0.9922000000000001, "sec": 0.15}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 12, "model": "HOG+SVM", "acc": 0.995, "auc": 0.9999399999999999, "sec": 2.45}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 12, "model": "Random ferns", "acc": 0.979, "auc": 0.990548, "sec": 0.77}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 12, "model": "CNN", "acc": 0.982, "auc": 0.999536, "sec": 12.73}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 13, "model": "CCA v2", "acc": 0.995, "auc": 0.999772, "sec": 21.78}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 13, "model": "LogReg", "acc": 0.957, "auc": 0.990476, "sec": 0.18}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 13, "model": "HOG+SVM", "acc": 0.993, "auc": 0.99978, "sec": 2.45}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 13, "model": "Random ferns", "acc": 0.974, "auc": 0.986188, "sec": 0.76}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 13, "model": "CNN", "acc": 0.994, "auc": 0.99986, "sec": 12.94}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 14, "model": "CCA v2", "acc": 0.995, "auc": 0.999908, "sec": 20.39}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 14, "model": "LogReg", "acc": 0.965, "auc": 0.993864, "sec": 0.15}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 14, "model": "HOG+SVM", "acc": 0.992, "auc": 0.9998119999999999, "sec": 2.25}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 14, "model": "Random ferns", "acc": 0.983, "auc": 0.989624, "sec": 0.73}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 14, "model": "CNN", "acc": 0.995, "auc": 0.999892, "sec": 12.78}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 10, "model": "CCA v2", "acc": 0.871, "auc": 0.947244, "sec": 19.95}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 10, "model": "LogReg", "acc": 0.864, "auc": 0.9270199999999998, "sec": 0.6}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 10, "model": "HOG+SVM", "acc": 0.873, "auc": 0.9450679999999999, "sec": 6.92}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 10, "model": "Random ferns", "acc": 0.785, "auc": 0.8217019999999999, "sec": 0.76}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 10, "model": "CNN", "acc": 0.902, "auc": 0.962452, "sec": 12.97}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 11, "model": "CCA v2", "acc": 0.878, "auc": 0.9497760000000001, "sec": 20.92}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 11, "model": "LogReg", "acc": 0.874, "auc": 0.936164, "sec": 0.47}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 11, "model": "HOG+SVM", "acc": 0.872, "auc": 0.935496, "sec": 6.83}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 11, "model": "Random ferns", "acc": 0.803, "auc": 0.8335480000000001, "sec": 0.77}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 11, "model": "CNN", "acc": 0.885, "auc": 0.952036, "sec": 13.28}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 12, "model": "CCA v2", "acc": 0.862, "auc": 0.944104, "sec": 21.42}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 12, "model": "LogReg", "acc": 0.885, "auc": 0.9422719999999999, "sec": 0.47}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 12, "model": "HOG+SVM", "acc": 0.858, "auc": 0.9306159999999999, "sec": 6.5}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 12, "model": "Random ferns", "acc": 0.806, "auc": 0.829912, "sec": 0.67}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 12, "model": "CNN", "acc": 0.908, "auc": 0.9661839999999999, "sec": 12.94}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 13, "model": "CCA v2", "acc": 0.859, "auc": 0.938744, "sec": 21.52}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 13, "model": "LogReg", "acc": 0.862, "auc": 0.93442, "sec": 0.53}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 13, "model": "HOG+SVM", "acc": 0.868, "auc": 0.9331999999999999, "sec": 6.34}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 13, "model": "Random ferns", "acc": 0.794, "auc": 0.8212199999999998, "sec": 0.75}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 13, "model": "CNN", "acc": 0.896, "auc": 0.9586079999999999, "sec": 12.99}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 14, "model": "CCA v2", "acc": 0.874, "auc": 0.9447599999999999, "sec": 20.61}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 14, "model": "LogReg", "acc": 0.864, "auc": 0.936444, "sec": 0.42}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 14, "model": "HOG+SVM", "acc": 0.86, "auc": 0.937752, "sec": 6.71}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 14, "model": "Random ferns", "acc": 0.806, "auc": 0.8391059999999999, "sec": 0.74}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 14, "model": "CNN", "acc": 0.892, "auc": 0.9639679999999999, "sec": 13.22}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 10, "model": "CCA v2", "acc": 0.947, "auc": 0.9885600000000001, "sec": 20.29}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 10, "model": "LogReg", "acc": 0.952, "auc": 0.991236, "sec": 0.21}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 10, "model": "HOG+SVM", "acc": 0.96, "auc": 0.9889359999999999, "sec": 2.79}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 10, "model": "Random ferns", "acc": 0.899, "auc": 0.9131839999999999, "sec": 0.74}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 10, "model": "CNN", "acc": 0.957, "auc": 0.992152, "sec": 12.61}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 11, "model": "CCA v2", "acc": 0.943, "auc": 0.987984, "sec": 19.47}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 11, "model": "LogReg", "acc": 0.964, "auc": 0.99292, "sec": 0.26}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 11, "model": "HOG+SVM", "acc": 0.962, "auc": 0.991528, "sec": 2.72}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 11, "model": "Random ferns", "acc": 0.902, "auc": 0.91239, "sec": 0.74}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 11, "model": "CNN", "acc": 0.961, "auc": 0.99252, "sec": 12.86}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 12, "model": "CCA v2", "acc": 0.944, "auc": 0.986172, "sec": 20.25}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 12, "model": "LogReg", "acc": 0.966, "auc": 0.99178, "sec": 0.18}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 12, "model": "HOG+SVM", "acc": 0.957, "auc": 0.992864, "sec": 2.58}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 12, "model": "Random ferns", "acc": 0.891, "auc": 0.9033140000000001, "sec": 0.75}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 12, "model": "CNN", "acc": 0.955, "auc": 0.991552, "sec": 12.63}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 13, "model": "CCA v2", "acc": 0.947, "auc": 0.988184, "sec": 20.72}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 13, "model": "LogReg", "acc": 0.962, "auc": 0.99192, "sec": 0.2}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 13, "model": "HOG+SVM", "acc": 0.96, "auc": 0.991174, "sec": 2.33}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 13, "model": "Random ferns", "acc": 0.899, "auc": 0.9077060000000001, "sec": 0.75}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 13, "model": "CNN", "acc": 0.959, "auc": 0.992196, "sec": 13.04}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 14, "model": "CCA v2", "acc": 0.933, "auc": 0.9873559999999999, "sec": 21.0}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 14, "model": "LogReg", "acc": 0.958, "auc": 0.9950920000000001, "sec": 0.19}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 14, "model": "HOG+SVM", "acc": 0.957, "auc": 0.9893800000000001, "sec": 2.75}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 14, "model": "Random ferns", "acc": 0.909, "auc": 0.9196940000000001, "sec": 0.79}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 14, "model": "CNN", "acc": 0.964, "auc": 0.99434, "sec": 13.17}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 10, "model": "CNN-strong", "acc": 0.994, "auc": 0.99982, "sec": 59.07}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 11, "model": "CNN-strong", "acc": 0.992, "auc": 0.9994919999999999, "sec": 53.79}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 12, "model": "CNN-strong", "acc": 0.997, "auc": 0.999964, "sec": 53.05}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 13, "model": "CNN-strong", "acc": 0.998, "auc": 0.99998, "sec": 53.34}
+{"task": "MNIST 3v8", "role": "dev", "n": 2000, "seed": 14, "model": "CNN-strong", "acc": 0.995, "auc": 0.999996, "sec": 52.76}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 10, "model": "CNN-strong", "acc": 0.989, "auc": 0.998448, "sec": 53.22}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 11, "model": "CNN-strong", "acc": 0.993, "auc": 0.99958, "sec": 53.21}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 12, "model": "CNN-strong", "acc": 0.993, "auc": 0.999864, "sec": 53.59}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 13, "model": "CNN-strong", "acc": 0.992, "auc": 0.999848, "sec": 53.11}
+{"task": "MNIST 4v9", "role": "dev", "n": 2000, "seed": 14, "model": "CNN-strong", "acc": 0.994, "auc": 0.999532, "sec": 53.19}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 10, "model": "CNN-strong", "acc": 0.835, "auc": 0.927808, "sec": 55.13}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 11, "model": "CNN-strong", "acc": 0.831, "auc": 0.916204, "sec": 55.44}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 12, "model": "CNN-strong", "acc": 0.853, "auc": 0.935828, "sec": 55.2}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 13, "model": "CNN-strong", "acc": 0.847, "auc": 0.931532, "sec": 54.42}
+{"task": "Fashion T-shirt v Shirt", "role": "dev", "n": 2000, "seed": 14, "model": "CNN-strong", "acc": 0.841, "auc": 0.9261159999999998, "sec": 54.19}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 10, "model": "CNN-strong", "acc": 0.993, "auc": 0.999564, "sec": 52.27}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 11, "model": "CNN-strong", "acc": 0.993, "auc": 0.999924, "sec": 53.13}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 12, "model": "CNN-strong", "acc": 0.994, "auc": 0.9997919999999999, "sec": 53.6}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 13, "model": "CNN-strong", "acc": 0.994, "auc": 0.999852, "sec": 53.58}
+{"task": "MNIST 7v9", "role": "held-out", "n": 2000, "seed": 14, "model": "CNN-strong", "acc": 0.996, "auc": 0.999844, "sec": 31.04}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 10, "model": "CNN-strong", "acc": 0.997, "auc": 0.999756, "sec": 25.83}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 11, "model": "CNN-strong", "acc": 0.995, "auc": 0.9999439999999999, "sec": 25.75}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 12, "model": "CNN-strong", "acc": 0.996, "auc": 0.999916, "sec": 25.91}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 13, "model": "CNN-strong", "acc": 0.995, "auc": 0.9999399999999999, "sec": 25.84}
+{"task": "MNIST 5v8", "role": "held-out", "n": 2000, "seed": 14, "model": "CNN-strong", "acc": 0.997, "auc": 0.999968, "sec": 25.89}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 10, "model": "CNN-strong", "acc": 0.901, "auc": 0.96076, "sec": 25.85}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 11, "model": "CNN-strong", "acc": 0.887, "auc": 0.9458840000000001, "sec": 26.06}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 12, "model": "CNN-strong", "acc": 0.889, "auc": 0.95994, "sec": 25.87}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 13, "model": "CNN-strong", "acc": 0.877, "auc": 0.940136, "sec": 25.79}
+{"task": "Fashion Pullover v Coat", "role": "held-out", "n": 2000, "seed": 14, "model": "CNN-strong", "acc": 0.896, "auc": 0.959096, "sec": 25.7}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 10, "model": "CNN-strong", "acc": 0.96, "auc": 0.9930840000000001, "sec": 25.92}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 11, "model": "CNN-strong", "acc": 0.962, "auc": 0.993228, "sec": 25.83}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 12, "model": "CNN-strong", "acc": 0.965, "auc": 0.994088, "sec": 25.94}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 13, "model": "CNN-strong", "acc": 0.962, "auc": 0.9931719999999999, "sec": 26.15}
+{"task": "Fashion Sneaker v Ankle boot", "role": "held-out", "n": 2000, "seed": 14, "model": "CNN-strong", "acc": 0.965, "auc": 0.994944, "sec": 25.91}
