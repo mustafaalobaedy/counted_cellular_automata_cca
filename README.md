@@ -30,6 +30,8 @@ Run every script from the repository root.
 | `confirm_fruits.py` | Real-world study (Fruits-360) |
 | `analysis_fruits.py`, `fruits_samples.py` | Statistics and figures of the real-world study |
 | `toy_example.py` | Worked example of the paper (one prediction traced by hand) |
+| `pretrained.py` | ImageNet-pretrained ResNet-18 (frozen) + logistic regression, the transfer-learning baseline |
+| `confirm_pretrained.py`, `analysis_pretrained.py` | Pretrained baseline on both studies, and the seven-method statistics |
 | `results/` | Raw per-run results (`*.jsonl`) and the analysis outputs (`*.json`) reported in the paper |
 
 ## Reproducing the results
@@ -76,13 +78,26 @@ NVIDIA Jetson AGX Orin 32 GB.
 python toy_example.py       # -> results/toy.json
 ```
 
+**5. Comparison with an ImageNet-pretrained network** (added after studies 1 and 2; same tasks, sizes, seeds and images)
+
+```bash
+python data.py ; python data_fruits.py   # if not done already
+python confirm_pretrained.py   # checks that the data reproduce the original splits, then -> results/results_pretrained.jsonl
+python analysis_pretrained.py  # -> results/analysis_pretrained.json, figures/fig13-14
+```
+
+`pretrained.py` downloads the torchvision ImageNet-1k ResNet-18 weights (`resnet18-f37072fd.pth`, hash-checked) through
+`torch.hub`; torchvision itself is not needed. It uses a GPU if one is available, and otherwise runs on the CPU. CCA and the five
+original baselines are not re-run: `analysis_pretrained.py` reads their results from `results/results_confirm.jsonl` and
+`results/results_fruits.jsonl`.
+
 ### Notes
 
 - The study runners append one JSON line per (task, n, seed, model) and skip combinations that are already
   present, so they can be interrupted and restarted. The `results/` folder already holds the runs reported in
   the paper. To recompute them from scratch, delete or rename `results/results_*.jsonl` first.
 - To recompute only the statistics and figures from the provided raw results, run `final_analysis.py`,
-  `final_figs.py` and `analysis_fruits.py` directly. No dataset download is needed for this step
+  `final_figs.py`, `analysis_fruits.py` and `analysis_pretrained.py` directly. No dataset download is needed for this step
   (`analysis_explore.py` needs MNIST, because it also measures the cost table and draws the evidence maps).
 - The CCA design and all baseline settings were fixed before the confirmatory and real-world studies. No setting
   is tuned on those data.
